@@ -1,5 +1,6 @@
 | Movies Name                                                           |       Review |
 | :-------------------------------------------------------------------- | -----------: |
+| Salute                                                                |     (Better) |
 | Punorjonmo 1 (BD)                                                     |       (Best) |
 | Punorjonmo 2 (BD)                                                     |       (Best) |
 | Punorjonmo 3 (BD)                                                     |       (Best) |
