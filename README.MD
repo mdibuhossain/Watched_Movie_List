@@ -579,6 +579,7 @@
 | Bheemla Nayak 2022                                                          |       (Good) |
 | Thunivu 2023                                                                |       (Good) |
 | Farzi (1-)                                                                  |     (Better) |
+| Kurup 2021                                                                  |     (Better) |
 | (Animation) Lightyear 2022                                                  |       (Good) |
 | (Animation) Minions: The Rise of Gru 2022                                   |     (Better) |
 | (Animation) Luca 2021                                                       |       (Good) |
