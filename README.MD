@@ -1,9 +1,14 @@
 | Movies Name                                                           |       Review |
 | :-------------------------------------------------------------------- | -----------: |
-| Salute                                                                |     (Better) |
+| Salute 2022                                                           |     (Better) |
 | Punorjonmo 1 (BD)                                                     |       (Best) |
 | Punorjonmo 2 (BD)                                                     |       (Best) |
 | Punorjonmo 3 (BD)                                                     |       (Best) |
+| Syndicate (BD) (Series)                                               |       (Best) |
+| Myself Allen Swapan (BD) (Series)                                     |       (Best) |
+| Kaiser (BD) (Series)                                                  |       (Best) |
+| Mohanagar (BD) (Series)                                               |       (Best) |
+| Karagar (BD) (Series)                                                 |     (Better) |
 | Knives Out 2019                                                       |     (Better) |
 | knives Out 2: Glass Onion 2022                                        |     (Better) |
 | Seven 1995                                                            |       (Best) |
