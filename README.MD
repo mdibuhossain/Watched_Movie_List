@@ -17,6 +17,8 @@
 | Night at the Museum 2006                                              |       (Good) |
 | Night at the Museum Battle of the Smithsonian 2009                    |       (Good) |
 | Night at the Museum Secret of the Tomb 2014                           |       (Good) |
+| Avatar 2009                                                           |       (Best) |
+| Avatar: The Way of Water 2022                                         |       (Best) |
 | The Equalizer (1,2)                                                   |       (Best) |
 | Ted 1                                                                 |       (Good) |
 | Ted 2                                                                 |       (Good) |
@@ -579,6 +581,7 @@
 | Etharkkum Thunindhavan 2022                                           |       (Good) |
 | Bheemla Nayak 2022                                                    |       (Good) |
 | Thunivu 2023                                                          |       (Good) |
+| Ghosted 2023                                                          |       (Good) |
 | Farzi (1-)                                                            |     (Better) |
 | Kurup 2021                                                            |     (Better) |
 | (Animation) Lightyear 2022                                            |       (Good) |
