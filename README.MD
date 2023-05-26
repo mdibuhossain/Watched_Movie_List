@@ -110,7 +110,10 @@
 | Rogue One: A Star Wars Story 2016                                     |     (Better) |
 | Solo: A star Wars Story                                               |       (Best) |
 | Star war the last Jedi                                                |       (Best) |
-| John Wick (1,2,3)                                                     |       (Best) |
+| John Wick 2014                                                        |       (Best) |
+| John Wick: Chapter 2 2017                                             |       (Best) |
+| John Wick John Wick: Chapter 3 – Parabellum 2019                      |       (Best) |
+| John Wick: Chapter 4 2023                                             |       (Best) |
 | The Dark Knight                                                       |     (Better) |
 | The Dark Knight Rises                                                 |     (Better) |
 | Batman Begins                                                         |     (Better) |
@@ -511,6 +514,7 @@
 | The Untouchables 1987                                                 |     (Better) |
 | Brian Banks 2018                                                      |     (Better) |
 | Hotel Rwanda 2004                                                     |     (Better) |
+| The.Man.from.U.N.C.L.E 2015                                           |       (Good) |
 | Suck Me Shakespeer 2013                                               |     (Better) |
 | Suck Me Shakespeer 2 2015                                             |       (Good) |
 | Suck Me Shakespeer 3 2017                                             |       (Good) |
@@ -587,6 +591,7 @@
 | Bheemla Nayak 2022                                                    |       (Good) |
 | Thunivu 2023                                                          |       (Good) |
 | Ghosted 2023                                                          |       (Good) |
+| Sisu 2023                                                             |       (Best) |
 | Farzi (1-)                                                            |     (Better) |
 | Kurup 2021                                                            |     (Better) |
 | (Animation) Lightyear 2022                                            |       (Good) |
