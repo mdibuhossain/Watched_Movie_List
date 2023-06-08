@@ -592,12 +592,18 @@
 | Thunivu 2023                                                          |       (Good) |
 | Ghosted 2023                                                          |       (Good) |
 | Sisu 2023                                                             |       (Best) |
+| BlackBerry 2023                                                       |       (Good) |
+| Ponniyin Selvan 2022                                                  |       (Good) |
+| Ponniyin Selvan 2 2023                                                |       (Good) |
+| Sirf Ek Bandaa Kaafi Hai 2023                                         |     (Better) |
 | Farzi (1-)                                                            |     (Better) |
 | Kurup 2021                                                            |     (Better) |
 | (Animation) Lightyear 2022                                            |       (Good) |
 | (Animation) Minions: The Rise of Gru 2022                             |     (Better) |
 | (Animation) Luca 2021                                                 |       (Good) |
 | (Animation) The Boss Baby 2017                                        |     (Better) |
+| (Animation) Puss in Boots 2011                                        |     (Better) |
+| (Animation) Puss in Boots: The Last Wish 2022                         |     (Better) |
 | (Anime) Avatar the Last Airbender (Series)                            |     (Better) |
 | (Anime) God Of Highschool (Series)                                    |       (Good) |
 | (Anime) A Whisker Away 2020                                           |       (Good) |
@@ -701,5 +707,4 @@
 | (Anime) Bleach (Series)                                               |     (Better) |
 | (Anime) Another (Series)                                              |       (Good) |
 | (Anime) Chainsaw Man (Series)                                         |     (Better) |
-| (Anime) Puss in Boots 2011                                            |     (Better) |
-| (Anime) Puss in Boots: The Last Wish 2022                             |     (Better) |
+| (Anime) Inuyasha (Series)                                             |     (Better) |
