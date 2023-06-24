@@ -708,3 +708,5 @@
 | (Anime) Another (Series)                                              |       (Good) |
 | (Anime) Chainsaw Man (Series)                                         |     (Better) |
 | (Anime) Inuyasha (Series)                                             |     (Better) |
+| (Anime) Yashahime (Series)                                            |     (Better) |
+| (Anime) Young GTO (Series)                                            |     (Better) |
