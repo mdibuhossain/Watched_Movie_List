@@ -145,6 +145,7 @@
 | Skyscraper                                                            |     (Better) |
 | Jumanji                                                               |     (Better) |
 | transformers (1,2,3,4,5)                                              |       (Best) |
+| Transformers Rise of the Beasts 2023                                  |     (Better) |
 | I am number four                                                      |     (Better) |
 | Gone Girl                                                             |        (Bad) |
 | Passengers                                                            |     (Better) |
@@ -597,6 +598,7 @@
 | Ponniyin Selvan 2 2023                                                |       (Good) |
 | Sirf Ek Bandaa Kaafi Hai 2023                                         |     (Better) |
 | Farzi (1-)                                                            |     (Better) |
+| Guns & Gulaabs (1-)                                                   |     (Better) |
 | Kurup 2021                                                            |     (Better) |
 | (Animation) Lightyear 2022                                            |       (Good) |
 | (Animation) Minions: The Rise of Gru 2022                             |     (Better) |
@@ -604,6 +606,8 @@
 | (Animation) The Boss Baby 2017                                        |     (Better) |
 | (Animation) Puss in Boots 2011                                        |     (Better) |
 | (Animation) Puss in Boots: The Last Wish 2022                         |     (Better) |
+| (Animation) Spider-Man: Into the Spider-Verse 2018                    |     (Better) |
+| (Animation) Spider Man Across the Spider Verse 2023                   |       (Best) |
 | (Anime) Avatar the Last Airbender (Series)                            |     (Better) |
 | (Anime) God Of Highschool (Series)                                    |       (Good) |
 | (Anime) A Whisker Away 2020                                           |       (Good) |
@@ -708,3 +712,7 @@
 | (Anime) Another (Series)                                              |       (Good) |
 | (Anime) Chainsaw Man (Series)                                         |     (Better) |
 | (Anime) Inuyasha (Series)                                             |     (Better) |
+| (Anime) Yashahime (Series)                                            |     (Better) |
+| (Anime) Suzume 2023                                                   |     (Better) |
+| (Anime) Young GTO (Series)                                            |       (Good) |
+| (Anime) Great Teacher Onizuka (Series)                                |       (Best) |
