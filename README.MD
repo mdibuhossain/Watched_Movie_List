@@ -597,6 +597,9 @@
 | Ponniyin Selvan 2022                                                  |       (Good) |
 | Ponniyin Selvan 2 2023                                                |       (Good) |
 | Sirf Ek Bandaa Kaafi Hai 2023                                         |     (Better) |
+| Petta 2019                                                            |     (Better) |
+| Jailer 2023                                                           |     (Better) |
+| Blue Beetle 2023                                                      |     (Better) |
 | Farzi (1-)                                                            |     (Better) |
 | Guns & Gulaabs (1-)                                                   |     (Better) |
 | Kurup 2021                                                            |     (Better) |
