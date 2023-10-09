@@ -102,6 +102,7 @@
 | Wonder Woman                                                          |       (Best) |
 | Wonder Woman 1984                                                     |       (Good) |
 | Mission Impossible (1,2,3,4,5,6)                                      |       (Best) |
+| Mission: Impossible – Dead Reckoning Part One 2023                    |       (Best) |
 | Deadpool (1,2)                                                        |     (Better) |
 | Rampage                                                               |     (Better) |
 | The Meg                                                               |     (Better) |
