@@ -24,7 +24,9 @@
 | Night at the Museum Secret of the Tomb 2014                           |       (Good) |
 | Avatar 2009                                                           |       (Best) |
 | Avatar: The Way of Water 2022                                         |       (Best) |
-| The Equalizer (1,2)                                                   |       (Best) |
+| The Equalizer 2014                                                    |       (Best) |
+| The Equalizer 2 2018                                                  |       (Best) |
+| The Equalizer 3 2023                                                  |       (Best) |
 | Ted 1                                                                 |       (Good) |
 | Ted 2                                                                 |       (Good) |
 | Interstellar 2014                                                     |       (Best) |
@@ -94,16 +96,28 @@
 | The Hobbit: The Battle of the Five Armies 2014                        |       (Best) |
 | Stardust                                                              |     (Better) |
 | The Wolf of Wall Street 2013                                          |     (Better) |
-| The Chronicles of Narnia (1,2,3)                                      |     (Better) |
+| The Chronicles of Narnia: The Lion, the Witch and the Wardrobe 2005   |     (Better) |
+| The Chronicles of Narnia: Prince Caspian 2008                         |     (Better) |
+| The Chronicles of Narnia: The Voyage of the Dawn Treader 2010         |     (Better) |
 | Bridge to Terabithia                                                  |       (Good) |
-| Pirates of the Caribbean (1,2,3,4,5)                                  |       (Best) |
+| Pirates of the Caribbean: The Curse of the Black Pearl 2003           |       (Best) |
+| Pirates of the Caribbean: Dead Man's Chest 2006                       |       (Best) |
+| Pirates of the Caribbean: At World's End 2007                         |       (Best) |
+| Pirates of the Caribbean: On Stranger Tides 2011                      |       (Best) |
+| Pirates of the Caribbean: Dead Men Tell No Tales 2017                 |       (Best) |
 | The Golden Compass                                                    |     (Better) |
 | Warcraft                                                              |     (Better) |
 | Wonder Woman                                                          |       (Best) |
 | Wonder Woman 1984                                                     |       (Good) |
-| Mission Impossible (1,2,3,4,5,6)                                      |       (Best) |
+| Mission Impossible 1996                                               |       (Best) |
+| Mission Impossible 2 2000                                             |       (Best) |
+| Mission Impossible III 2006                                           |       (Best) |
+| Mission Impossible - Ghost Protocol 2011                              |       (Best) |
+| Mission Impossible – Rogue Nation 2015                                |       (Best) |
+| Mission Impossible - Fallout 2018                                     |       (Best) |
 | Mission: Impossible – Dead Reckoning Part One 2023                    |       (Best) |
-| Deadpool (1,2)                                                        |     (Better) |
+| Deadpool 2016                                                         |     (Better) |
+| Deadpool 2 2018                                                       |     (Better) |
 | Rampage                                                               |     (Better) |
 | The Meg                                                               |     (Better) |
 | Ready Player One                                                      |       (Best) |
@@ -145,8 +159,13 @@
 | Baywatch                                                              |       (Good) |
 | Skyscraper                                                            |     (Better) |
 | Jumanji                                                               |     (Better) |
-| transformers (1,2,3,4,5)                                              |       (Best) |
-| Transformers Rise of the Beasts 2023                                  |     (Better) |
+| Transformers 2007                                                     |       (Best) |
+| Transformers: Revenge of the Fallen 2009                              |       (Best) |
+| Transformers: Dark of the Moon 2011                                   |       (Best) |
+| Transformers: Age of Extinction 2014                                  |       (Best) |
+| Transformers: The Last Knight 2017                                    |       (Best) |
+| Bumblebee 2018                                                        |     (Better) |
+| Transformers: Rise of the Beasts 2023                                 |     (Better) |
 | I am number four                                                      |     (Better) |
 | Gone Girl                                                             |        (Bad) |
 | Passengers                                                            |     (Better) |
@@ -191,7 +210,16 @@
 | Back to the Future 1985                                               |       (Best) |
 | Back to the Future II 1989                                            |       (Best) |
 | Back to the Future III 1990                                           |       (Best) |
-| X-Men (1,2,4,4,5,6,7,8)                                               |     (Better) |
+| X-Men 2000                                                            |     (Better) |
+| X2 2003                                                               |     (Better) |
+| X-Men: The Last Stand 2006                                            |     (Better) |
+| X-Men Origins: Wolverine 2009                                         |     (Better) |
+| The Wolverine 2013                                                    |     (Better) |
+| Logan 2017                                                            |     (Better) |
+| X-Men: First Class 2011                                               |     (Better) |
+| X-Men: Days of Future Past 2014                                       |     (Better) |
+| X-Men: Apocalypse 2016                                                |     (Better) |
+| Dark Phoenix 2019                                                     |     (Better) |
 | Man of steel                                                          |     (Better) |
 | Eddie the Eagle                                                       |       (Good) |
 | Real Steel                                                            |       (Best) |
@@ -600,6 +628,7 @@
 | Sirf Ek Bandaa Kaafi Hai 2023                                         |     (Better) |
 | Petta 2019                                                            |     (Better) |
 | Jailer 2023                                                           |     (Better) |
+| Jawan 2023                                                            |     (Better) |
 | Blue Beetle 2023                                                      |     (Better) |
 | Farzi (1-)                                                            |     (Better) |
 | Guns & Gulaabs (1-)                                                   |     (Better) |
