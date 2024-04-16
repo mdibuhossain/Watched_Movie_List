@@ -85,7 +85,8 @@
 | Fantastic Beasts: The Crimes of Grindelwald 2018                      |     (Better) |
 | Fantastic Beasts: The Secrets of Dumbledore 2022                      |     (Better) |
 | Morbius 2022                                                          |       (Good) |
-| Aquaman                                                               |       (Best) |
+| Aquaman 2018                                                          |       (Best) |
+| Aquaman and the Lost Kingdom 2023                                     |     (Better) |
 | The Shape of Water                                                    |       (Good) |
 | The Lord of the Rings: The Fellowship of the Ring 2001                |       (Best) |
 | The Lord of the Rings: The Two Towers 2002                            |       (Best) |
@@ -630,6 +631,7 @@
 | Jailer 2023                                                           |     (Better) |
 | Jawan 2023                                                            |     (Better) |
 | Blue Beetle 2023                                                      |     (Better) |
+| The Creator 2023                                                      |     (Better) |
 | Farzi (1-)                                                            |     (Better) |
 | Guns & Gulaabs (1-)                                                   |     (Better) |
 | Kurup 2021                                                            |     (Better) |
@@ -745,3 +747,4 @@
 | (Anime) Another (Series)                                              |       (Good) |
 | (Anime) Chainsaw Man (Series)                                         |     (Better) |
 | (Anime) Inuyasha (Series)                                             |     (Better) |
+| (Anime) Monsters: 103 Mercies Dragon Damnation OVA                    |     (Better) |
