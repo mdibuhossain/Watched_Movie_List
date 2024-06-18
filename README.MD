@@ -635,6 +635,9 @@
 | Farzi (1-)                                                            |     (Better) |
 | Guns & Gulaabs (1-)                                                   |     (Better) |
 | Kurup 2021                                                            |     (Better) |
+| The Fall Guy 2024                                                     |       (Good) |
+| Manjummel Boys (Indian Movie) 2024                                    |       (Best) |
+| Shaitaan (Indian Movie) 2024                                          |       (Good) |
 | (Animation) Lightyear 2022                                            |       (Good) |
 | (Animation) Minions: The Rise of Gru 2022                             |     (Better) |
 | (Animation) Luca 2021                                                 |       (Good) |
@@ -748,3 +751,4 @@
 | (Anime) Chainsaw Man (Series)                                         |     (Better) |
 | (Anime) Inuyasha (Series)                                             |     (Better) |
 | (Anime) Monsters: 103 Mercies Dragon Damnation OVA                    |     (Better) |
+| (Anime) Solo Leveling (Series)                                        |     (Better) |
