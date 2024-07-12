@@ -193,7 +193,6 @@
 | F9                                                               | 2021      |    Best |
 | E.T. the Extra-Terrestrial                                       |           |    Good |
 | Pacific Rim Uprising                                             |           |  Better |
-| Kong: Skull Island                                               |           |  Better |
 | Geostorm                                                         |           |    Best |
 | Edge of Tomorrow                                                 |           |    Best |
 | Oblivion                                                         |           |  Better |
@@ -441,8 +440,12 @@
 | Shock Wave                                                       | 2017      |  Better |
 | Life                                                             | 2017      |  Better |
 | Aladdin                                                          | 2019      |  Better |
+| Godzilla                                                         | 2014      |    Good |
+| Kong: Skull Island                                               | 2017      |  Better |
 | Godzilla: King of the Monsters                                   | 2019      |  Better |
 | Godzilla vs. Kong                                                | 2021      |    Good |
+| Godzilla Minus One                                               | 2023      |  Better |
+| Godzilla x Kong: The New Empire                                  | 2024      |    Good |
 | Space Jam: A New Legacy                                          | 2021      |    Good |
 | The Red Sea Diving Resort                                        | 2019      |    Good |
 | Phone Booth                                                      | 2002      |  Better |
