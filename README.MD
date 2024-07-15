@@ -642,6 +642,7 @@
 | Kurup                                                            | 2021      |  Better |
 | The Fall Guy                                                     | 2024      |    Good |
 | Manjummel Boys (Indian Movie)                                    | 2024      |    Best |
+| Maharaja (Indian Movie)                                          | 2024      |    Best |
 | Shaitaan (Indian Movie)                                          | 2024      |    Good |
 | Rise of the Planet of the Apes                                   | 2011      |  Better |
 | War of the Planet of the Apes                                    | 2017      |  Better |
