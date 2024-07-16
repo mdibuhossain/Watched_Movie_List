@@ -555,7 +555,10 @@
 | Suck Me Shakespeer 2                                             | 2015      |    Good |
 | Suck Me Shakespeer 3                                             | 2017      |    Good |
 | Minority Report                                                  | 2002      |     IDK |
-| The Boys (Series)                                                |           |    Best |
+| The Boys (Series) Season 1                                       | 2019      |    Best |
+| The Boys (Series) Season 2                                       | 2020      |    Best |
+| The Boys (Series) Season 3                                       | 2022      |    Best |
+| The Boys (Series) Season 4                                       | 2024      |    Best |
 | Train to Busan                                                   | 2016      |    Best |
 | Peninsula                                                        | 2020      |  Better |
 | Don’t Breathe                                                    | 2016      |     Bad |
@@ -629,6 +632,8 @@
 | Ghosted                                                          | 2023      |    Good |
 | Sisu                                                             | 2023      |    Best |
 | BlackBerry                                                       | 2023      |    Good |
+| Rebel Moon                                                       | 2023      |    Good |
+| Rebel Moon – Part Two: The Scargiver                             | 2024      |    Good |
 | Ponniyin Selvan                                                  | 2022      |    Good |
 | Ponniyin Selvan 2                                                | 2023      |    Good |
 | Sirf Ek Bandaa Kaafi Hai                                         | 2023      |  Better |
