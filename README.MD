@@ -286,6 +286,7 @@
 | The Final Destination                                            | 2009      |    Good |
 | Final Destination 5                                              | 2011      |    Good |
 | Blue Streak                                                      |           |  Better |
+| Nightcrawler                                                     | 2014      |  Better |
 | Kingsman: The Secret Service                                     | 2014      |  Better |
 | Kingsman: The Golden Circle                                      | 2017      |  Better |
 | The King's Man                                                   | 2021      |  Better |
@@ -494,6 +495,7 @@
 | The Nutcracker and the Four Realms                               | 2018      |  Better |
 | Zombieland                                                       | 2019      |  Better |
 | T-34                                                             | 2019      |  Better |
+| The Kid Detective                                                | 2020      |    Good |
 | Birds of Prey                                                    | 2020      |    Good |
 | The Invisible Man                                                | 2020      |  Better |
 | The Terminal                                                     | 2004      |    Best |
@@ -611,7 +613,11 @@
 | Vikram                                                           | 2022      |    Best |
 | K.G.F: Chapter 1                                                 | 2018      |  Better |
 | K.G.F: Chapter 2                                                 | 2022      |  Better |
-| Mirzapur (1-3)                                                   |           |    Best |
+| Sacred Game Season 1                                             | 2018      |  Better |
+| Sacred Game Season 2                                             |           |  Better |
+| Mirzapur Season 1                                                |           |    Best |
+| Mirzapur Season 2                                                |           |    Best |
+| Mirzapur Season 3                                                |           |    Best |
 | Panchayat (1-2)                                                  |           |    Best |
 | Sandman (1-)                                                     |           |  Better |
 | Hit the First Case                                               | 2022      |    Best |
@@ -652,6 +658,7 @@
 | Rise of the Planet of the Apes                                   | 2011      |  Better |
 | War of the Planet of the Apes                                    | 2017      |  Better |
 | Kingdom of the Planet of the Apes                                | 2024      |  Better |
+| (Animation) Ultraman Rising                                      | 2024      |  Better |
 | (Animation) Lightyear                                            | 2022      |    Good |
 | (Animation) Minions: The Rise of Gru                             | 2022      |  Better |
 | (Animation) Luca                                                 | 2021      |    Good |
