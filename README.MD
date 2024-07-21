@@ -14,63 +14,64 @@
 | Knives Out                                                       | America    | Movie  | 2019      |  Better |
 | knives Out 2: Glass Onion                                        | America    | Movie  | 2022      |  Better |
 | Seven                                                            |            | Movie  | 1995      |    Best |
-| Gran Torino                                                      |            | Movie  | 2008      |    Best |
-| Top Gun                                                          |            | Movie  | 1986      |    Best |
-| Top Gun Maverick                                                 |            | Movie  | 2022      |    Best |
+| Gran Torino                                                      | America    | Movie  | 2008      |    Best |
+| Top Gun                                                          | America    | Movie  | 1986      |    Best |
+| Top Gun Maverick                                                 | America    | Movie  | 2022      |    Best |
 | Casper                                                           |            | Movie  | 1995      |    Good |
 | Scott Pilgrim Vs The World                                       |            | Movie  | 2010      |     Bad |
 | 47 Ronin                                                         |            | Movie  | 2013      |  Better |
 | Rumble in the Bronx                                              |            | Movie  | 1995      |  Better |
-| Night at the Museum                                              |            | Movie  | 2006      |    Good |
-| Night at the Museum Battle of the Smithsonian                    |            | Movie  | 2009      |    Good |
-| Night at the Museum Secret of the Tomb                           |            | Movie  | 2014      |    Good |
+| Night at the Museum                                              | America    | Movie  | 2006      |    Good |
+| Night at the Museum Battle of the Smithsonian                    | America    | Movie  | 2009      |    Good |
+| Night at the Museum Secret of the Tomb                           | America    | Movie  | 2014      |    Good |
 | Avatar                                                           |            | Movie  | 2009      |    Best |
 | Avatar: The Way of Water                                         |            | Movie  | 2022      |    Best |
-| The Equalizer                                                    |            | Movie  | 2014      |    Best |
-| The Equalizer 2                                                  |            | Movie  | 2018      |    Best |
-| The Equalizer 3                                                  |            | Movie  | 2023      |    Best |
-| Ted 1                                                            |            | Movie  |           |    Good |
-| Ted 2                                                            |            | Movie  |           |    Good |
-| Interstellar                                                     |            | Movie  | 2014      |    Best |
-| Iron man 1                                                       |            | Movie  | 2008      |    Best |
-| Iron man 2                                                       |            | Movie  | 2010      |    Best |
-| Iron man 3                                                       |            | Movie  | 2013      |    Best |
+| The Equalizer                                                    | America    | Movie  | 2014      |    Best |
+| The Equalizer 2                                                  | America    | Movie  | 2018      |    Best |
+| The Equalizer 3                                                  | America    | Movie  | 2023      |    Best |
+| Ted 1                                                            | America    | Movie  |           |    Good |
+| Ted 2                                                            | America    | Movie  |           |    Good |
+| Interstellar                                                     | America    | Movie  | 2014      |    Best |
+| Iron man 1                                                       | America    | Movie  | 2008      |    Best |
+| Iron man 2                                                       | America    | Movie  | 2010      |    Best |
+| Iron man 3                                                       | America    | Movie  | 2013      |    Best |
 | Homefront                                                        |            | Movie  | 2013      |    Good |
 | The Spy Undercover Operation                                     |            | Movie  | 2013      |    Good |
-| Men in Black 1                                                   |            | Movie  | 1997      |    Best |
-| Men in Black 2                                                   |            | Movie  | 2002      |    Best |
-| Men in Black 3                                                   |            | Movie  | 2012      |    Best |
-| Men in Black 4                                                   |            | Movie  | 2019      |  Better |
-| Thor                                                             |            | Movie  | 2011      |    Best |
-| Thor: The Dark World                                             |            | Movie  | 2013      |    Best |
-| Thor: Ragnarok                                                   |            | Movie  | 2017      |    Best |
-| The Avengers                                                     |            | Movie  | 2012      |    Best |
-| The Avengers: Age of Ultron                                      |            | Movie  | 2015      |    Best |
-| The Avengers: Infinity War                                       |            | Movie  | 2018      |    Best |
-| The Avengers: End Game                                           |            | Movie  | 2019      |    Best |
-| Hulk                                                             |            | Movie  |           |    Best |
-| Incredible Hulk                                                  |            | Movie  |           |    Best |
-| Captain America: The First Avenger                               |            | Movie  | 2011      |    Best |
-| Captain America: The Winter Soldier                              |            | Movie  | 2014      |    Best |
-| Captain America: Civil War                                       |            | Movie  | 2016      |    Best |
-| Guardian of the galaxy                                           |            | Movie  | 2014      |    Best |
-| Guardian of the galaxy Vol. 2                                    |            | Movie  | 2017      |    Best |
-| Ant-Man                                                          |            | Movie  | 2015      |    Best |
-| Ant-Man and the Wasp                                             |            | Movie  | 2018      |    Best |
-| Doctor Strange                                                   |            | Movie  | 2016      |    Best |
-| Doctor Strange in the Multiverse of Madness                      |            | Movie  | 2022      |  Better |
-| Black Panther                                                    |            | Movie  |           |    Best |
-| Spider Man Homecoming                                            |            | Movie  |           |    Best |
-| Venom                                                            |            | Movie  |           |  Better |
-| Venom: Let There Be Carnage                                      |            | Movie  | 2021      |  Better |
-| Amazing Spider Man                                               |            | Movie  | 2012      |  Better |
-| Amazing Spider Man 2                                             |            | Movie  | 2014      |  Better |
-| Spider Man 1                                                     |            | Movie  | 2002      |  Better |
-| Spider Man 2                                                     |            | Movie  | 2004      |  Better |
-| Spider Man 3                                                     |            | Movie  | 2007      |  Better |
-| Hancock                                                          |            | Movie  |           |  Better |
-| I, Robot                                                         |            | Movie  |           |  Better |
-| Chappie                                                          |            | Movie  |           |    Best |
+| Men in Black 1                                                   | America    | Movie  | 1997      |    Best |
+| Men in Black 2                                                   | America    | Movie  | 2002      |    Best |
+| Men in Black 3                                                   | America    | Movie  | 2012      |    Best |
+| Men in Black 4                                                   | America    | Movie  | 2019      |  Better |
+| Thor                                                             | America    | Movie  | 2011      |    Best |
+| Thor: The Dark World                                             | America    | Movie  | 2013      |    Best |
+| Thor: Ragnarok                                                   | America    | Movie  | 2017      |    Best |
+| The Avengers                                                     | America    | Movie  | 2012      |    Best |
+| The Avengers: Age of Ultron                                      | America    | Movie  | 2015      |    Best |
+| The Avengers: Infinity War                                       | America    | Movie  | 2018      |    Best |
+| The Avengers: End Game                                           | America    | Movie  | 2019      |    Best |
+| Hulk                                                             | America    | Movie  |           |    Best |
+| Incredible Hulk                                                  | America    | Movie  |           |    Best |
+| Captain America: The First Avenger                               | America    | Movie  | 2011      |    Best |
+| Captain America: The Winter Soldier                              | America    | Movie  | 2014      |    Best |
+| Captain America: Civil War                                       | America    | Movie  | 2016      |    Best |
+| Guardian of the galaxy                                           | America    | Movie  | 2014      |    Best |
+| Guardian of the galaxy Vol. 2                                    | America    | Movie  | 2017      |    Best |
+| Ant-Man                                                          | America    | Movie  | 2015      |    Best |
+| Ant-Man and the Wasp                                             | America    | Movie  | 2018      |    Best |
+| Doctor Strange                                                   | America    | Movie  | 2016      |    Best |
+| Doctor Strange in the Multiverse of Madness                      | America    | Movie  | 2022      |  Better |
+| Black Panther                                                    | America    | Movie  |           |    Best |
+| Spider Man Homecoming                                            | America    | Movie  |           |    Best |
+| Venom                                                            | America    | Movie  |           |  Better |
+| Venom: Let There Be Carnage                                      | America    | Movie  | 2021      |  Better |
+| Argo                                                             | America    | Movie  | 2012      |    Good |
+| Amazing Spider Man                                               | America    | Movie  | 2012      |  Better |
+| Amazing Spider Man 2                                             | America    | Movie  | 2014      |  Better |
+| Spider Man 1                                                     | America    | Movie  | 2002      |  Better |
+| Spider Man 2                                                     | America    | Movie  | 2004      |  Better |
+| Spider Man 3                                                     | America    | Movie  | 2007      |  Better |
+| Hancock                                                          | America    | Movie  |           |  Better |
+| I, Robot                                                         | America    | Movie  |           |  Better |
+| Chappie                                                          | America    | Movie  |           |    Best |
 | Underworld                                                       |            | Movie  | 2003      |    Best |
 | Underworld: Evolution                                            |            | Movie  | 2006      |    Best |
 | Underworld: Rise of the Lycans                                   |            | Movie  | 2009      |    Best |
