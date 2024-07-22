@@ -498,6 +498,7 @@
 | Code 8                                                           |            | Movie  | 2019      |  Better |
 | First Kill                                                       |            | Movie  | 2017      |    Good |
 | Star Wars The Rise of Skywalker                                  |            | Movie  | 2019      |  Better |
+| The Courier                                                      |            | Movie  | 2020      |    Good |
 | Sonic The Hedgehog                                               |            | Movie  | 2020      |  Better |
 | Sonic the Hedgehog 2                                             |            | Movie  | 2022      |  Better |
 | Altered Carbon Resleeved                                         |            | Movie  | 2020      |  Better |
@@ -798,3 +799,5 @@
 | (Anime) Chainsaw Man                                             | Japan      | Series |           |  Better |
 | (Anime) Inuyasha                                                 | Japan      | Series |           |  Better |
 | (Anime) Solo Leveling                                            | Japan      | Series |           |  Better |
+| (Anime) Kaiju No. 8                                              | Japan      | Series |           |  Better |
+| (Anime) Steins;Gate                                              | Japan      | Series |           |  Better |
