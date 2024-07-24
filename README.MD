@@ -583,6 +583,7 @@
 | The Boys Season 3                                                | America    | Series | 2022      |    Best |
 | The Boys Season 4                                                | America    | Series | 2024      |    Best |
 | Train to Busan                                                   | Korea      | Movie  | 2016      |    Best |
+| The Lost City of Z                                               | America    | Movie  | 2016      |    Good |
 | Rough Cut                                                        | Korea      | Movie  | 2008      |     Bad |
 | Peninsula                                                        |            | Movie  | 2020      |  Better |
 | Don’t Breathe                                                    |            | Movie  | 2016      |     Bad |
