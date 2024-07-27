@@ -63,6 +63,7 @@
 | Spider Man Homecoming                                            | America    | Movie  |           |    Best |
 | Venom                                                            | America    | Movie  |           |  Better |
 | Venom: Let There Be Carnage                                      | America    | Movie  | 2021      |  Better |
+| Operation Java                                                   | India      | Movie  | 2012      |  Better |
 | Argo                                                             | America    | Movie  | 2012      |    Good |
 | Amazing Spider Man                                               | America    | Movie  | 2012      |  Better |
 | Amazing Spider Man 2                                             | America    | Movie  | 2014      |  Better |
@@ -513,7 +514,8 @@
 | The Invisible Man                                                |            | Movie  | 2020      |  Better |
 | The Terminal                                                     |            | Movie  | 2004      |    Best |
 | Bloodshot                                                        |            | Movie  | 2020      |    Best |
-| Bad Boys for Life                                                |            | Movie  | 2020      |    Best |
+| Bad Boys for Life                                                | America    | Movie  | 2020      |    Best |
+| Bad Boys: Ride or Die                                            | America    | Movie  | 2024      |  Better |
 | The Darjeeling Limited                                           |            | Movie  | 2007      |   (Bad) |
 | Dolittle                                                         |            | Movie  | 2020      |  Better |
 | Parasite                                                         |            | Movie  | 2019      |    Best |
@@ -634,6 +636,7 @@
 | The Adam Project                                                 |            | Movie  | 2022      |    Good |
 | The Batman                                                       |            | Movie  | 2022      |  Better |
 | Uncharted                                                        |            | Movie  | 2022      |    Best |
+| Premam                                                           | India      | Movie  | 2016      |    Good |
 | Vikram                                                           | India      | Movie  | 2022      |    Best |
 | K.G.F: Chapter 1                                                 | India      | Movie  | 2018      |  Better |
 | K.G.F: Chapter 2                                                 | India      | Movie  | 2022      |  Better |
@@ -804,3 +807,4 @@
 | (Anime) Kaiju No. 8                                              | Japan      | Series |           |  Better |
 | (Anime) Steins;Gate                                              | Japan      | Series |           |  Better |
 | (Anime) Ninja Kamui                                              | Japan      | Series |           |  Better |
+| (Anime) Oshi no Ko                                               | Japan      | Series |           |    Good |
