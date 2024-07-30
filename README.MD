@@ -806,5 +806,7 @@
 | (Anime) Solo Leveling                                            | Japan      | Series |           |  Better |
 | (Anime) Kaiju No. 8                                              | Japan      | Series |           |  Better |
 | (Anime) Steins;Gate                                              | Japan      | Series |           |  Better |
+| (Anime) Steins;Gate 0                                            | Japan      | Series |           |  Better |
 | (Anime) Ninja Kamui                                              | Japan      | Series |           |  Better |
 | (Anime) Oshi no Ko                                               | Japan      | Series |           |    Good |
+| (Anime) Future Diary                                             | Japan      | Series |           |  Better |
