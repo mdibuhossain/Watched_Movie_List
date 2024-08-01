@@ -122,8 +122,9 @@
 | Mission Impossible – Rogue Nation                                |            | Movie  | 2015      |    Best |
 | Mission Impossible - Fallout                                     |            | Movie  | 2018      |    Best |
 | Mission: Impossible – Dead Reckoning Part One                    |            | Movie  | 2023      |    Best |
-| Deadpool                                                         |            | Movie  | 2016      |  Better |
-| Deadpool 2                                                       |            | Movie  | 2018      |  Better |
+| Deadpool                                                         | America    | Movie  | 2016      |  Better |
+| Deadpool 2                                                       | America    | Movie  | 2018      |  Better |
+| Deadpool & Wolverine                                             | America    | Movie  | 2024      |  Better |
 | Rampage                                                          |            | Movie  |           |  Better |
 | The Meg                                                          |            | Movie  |           |  Better |
 | Ready Player One                                                 |            | Movie  |           |    Best |
