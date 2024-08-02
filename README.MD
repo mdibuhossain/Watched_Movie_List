@@ -637,6 +637,8 @@
 | The Adam Project                                                 |            | Movie  | 2022      |    Good |
 | The Batman                                                       |            | Movie  | 2022      |  Better |
 | Uncharted                                                        |            | Movie  | 2022      |    Best |
+| Madgaon Express                                                  | India      | Movie  | 2024      |    Good |
+| Aavesham                                                         | India      | Movie  | 2024      |  Better |
 | Premam                                                           | India      | Movie  | 2016      |    Good |
 | Vikram                                                           | India      | Movie  | 2022      |    Best |
 | K.G.F: Chapter 1                                                 | India      | Movie  | 2018      |  Better |
