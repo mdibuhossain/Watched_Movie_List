@@ -643,6 +643,7 @@
 | K.G.F: Chapter 2                                                 | India      | Movie  | 2022      |  Better |
 | Sacred Game Season 1                                             | India      | Movie  | 2018      |  Better |
 | Sacred Game Season 2                                             | India      | Movie  |           |  Better |
+| Solo                                                             | India      | Movie  | 2017      |  Better |
 | Mirzapur Season 1                                                | India      | Series |           |    Best |
 | Mirzapur Season 2                                                | India      | Series |           |    Best |
 | Mirzapur Season 3                                                | India      | Series |           |    Best |
@@ -650,7 +651,6 @@
 | Panchayat Season 2                                               | India      | Series |           |    Best |
 | Panchayat Season 3                                               | India      | Series |           |    Best |
 | Sandman Season 1                                                 |            | Series |           |  Better |
-| Solo                                                             | India      | Movie  | 2017      |  Better |
 | Hit the First Case                                               | India      | Movie  | 2022      |    Best |
 | Vikram Vedha                                                     | India      | Movie  | 2017      |    Best |
 | The Man Who Sold His Skin                                        |            | Movie  | 2020      |     IDK |
