@@ -650,6 +650,7 @@
 | Panchayat Season 2                                               | India      | Series |           |    Best |
 | Panchayat Season 3                                               | India      | Series |           |    Best |
 | Sandman Season 1                                                 |            | Series |           |  Better |
+| Solo                                                             | India      | Movie  | 2017      |  Better |
 | Hit the First Case                                               | India      | Movie  | 2022      |    Best |
 | Vikram Vedha                                                     | India      | Movie  | 2017      |    Best |
 | The Man Who Sold His Skin                                        |            | Movie  | 2020      |     IDK |
