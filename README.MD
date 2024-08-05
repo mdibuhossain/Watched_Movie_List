@@ -145,7 +145,8 @@
 | Suicide Squad                                                    |            | Movie  | 2016      |  Better |
 | The Suicide Squad                                                |            | Movie  | 2021      |    Best |
 | Batman: The Dark Knight Returns                                  |            | Movie  |           |  Better |
-| Mad Max: Fury Road                                               |            | Movie  |           |  Better |
+| Mad Max: Fury Road                                               | America    | Movie  | 2015      |  Better |
+| Furiosa A Mad Max Saga                                           | America    | Movie  | 2024      |  Better |
 | The Matrix (1,2,3,4)                                             |            | Movie  |           |    Best |
 | James Bond (1,2,3,4,5,6)                                         |            | Movie  |           |    Best |
 | Ip man (1,2,3)                                                   |            | Movie  |           |    Best |
