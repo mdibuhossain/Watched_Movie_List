@@ -638,6 +638,7 @@
 | The Adam Project                                                 |            | Movie  | 2022      |    Good |
 | The Batman                                                       |            | Movie  | 2022      |  Better |
 | Uncharted                                                        |            | Movie  | 2022      |    Best |
+| Premalu                                                          | India      | Movie  | 2024      |  Better |
 | Madgaon Express                                                  | India      | Movie  | 2024      |    Good |
 | Aavesham                                                         | India      | Movie  | 2024      |  Better |
 | Premam                                                           | India      | Movie  | 2016      |    Good |
@@ -815,3 +816,4 @@
 | (Anime) Ninja Kamui                                              | Japan      | Series |           |  Better |
 | (Anime) Oshi no Ko                                               | Japan      | Series |           |    Good |
 | (Anime) Future Diary                                             | Japan      | Series |           |  Better |
+| (Anime) Vinland Saga                                             | Japan      | Series |           |  Better |
