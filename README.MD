@@ -640,6 +640,7 @@
 | The Adam Project                                                 |            | Movie  | 2022      |    Good |
 | The Batman                                                       |            | Movie  | 2022      |  Better |
 | Uncharted                                                        |            | Movie  | 2022      |    Best |
+| Dil Bechara                                                      | India      | Movie  | 2020      |  Better |
 | Premalu                                                          | India      | Movie  | 2024      |  Better |
 | Madgaon Express                                                  | India      | Movie  | 2024      |    Good |
 | Aavesham                                                         | India      | Movie  | 2024      |  Better |
