@@ -632,6 +632,8 @@
 | The Mandalorian Season 1                                         |            | Series |           |    Good |
 | The Umbrella Academy Season 1                                    |            | Series |           |    Good |
 | The Umbrella Academy Season 2                                    |            | Series |           |    Good |
+| The Umbrella Academy Season 3                                    |            | Series |           |    Good |
+| The Umbrella Academy Season 4                                    |            | Series |           |    Good |
 | Searching                                                        |            | Movie  | 2018      |    Good |
 | Cruella                                                          |            | Movie  | 2021      |  Better |
 | Wrath of Man                                                     |            | Movie  | 2021      |  Better |
