@@ -640,6 +640,9 @@
 | The Adam Project                                                 |            | Movie  | 2022      |    Good |
 | The Batman                                                       |            | Movie  | 2022      |  Better |
 | Uncharted                                                        |            | Movie  | 2022      |    Best |
+| Bhakshak                                                         | India      | Movie  | 2024      |  Better |
+| Kaathuvaakula Rendu Kaadhal                                      | India      | Movie  | 2022      |    Good |
+| The Family Star                                                  | India      | Movie  | 2024      |    Good |
 | Dil Bechara                                                      | India      | Movie  | 2020      |  Better |
 | Premalu                                                          | India      | Movie  | 2024      |  Better |
 | Madgaon Express                                                  | India      | Movie  | 2024      |    Good |
@@ -820,3 +823,4 @@
 | (Anime) Oshi no Ko                                               | Japan      | Series |           |    Good |
 | (Anime) Future Diary                                             | Japan      | Series |           |  Better |
 | (Anime) Vinland Saga                                             | Japan      | Series |           |  Better |
+| (Anime) Monster                                                  | Japan      | Series |           |  Better |
