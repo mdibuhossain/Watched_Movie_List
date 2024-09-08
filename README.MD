@@ -640,6 +640,7 @@
 | The Adam Project                                                 |            | Movie  | 2022      |    Good |
 | The Batman                                                       |            | Movie  | 2022      |  Better |
 | Uncharted                                                        |            | Movie  | 2022      |    Best |
+| Hi Nanna                                                         | India      | Movie  | 2023      |  Better |
 | Bhakshak                                                         | India      | Movie  | 2024      |  Better |
 | Kaathuvaakula Rendu Kaadhal                                      | India      | Movie  | 2022      |    Good |
 | The Family Star                                                  | India      | Movie  | 2024      |    Good |
