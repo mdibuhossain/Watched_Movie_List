@@ -695,6 +695,7 @@
 | Farzi Season 1                                                   | India      | Series |           |  Better |
 | Guns & Gulaabs Season 1                                          | India      | Series |           |  Better |
 | Kurup                                                            | India      | Movie  | 2021      |  Better |
+| Dhamaka                                                          | India      | Movie  | 2021      |    Good |
 | Harold and the Purple Crayon                                     | America    | Movie  | 2024      |     Bad |
 | The Fall Guy                                                     | America    | Movie  | 2024      |    Good |
 | Manjummel Boys                                                   | India      | Movie  | 2024      |    Best |
@@ -827,3 +828,4 @@
 | (Anime) Future Diary                                             | Japan      | Series |           |  Better |
 | (Anime) Vinland Saga                                             | Japan      | Series |           |  Better |
 | (Anime) Monster                                                  | Japan      | Series |           |  Better |
+| (Anime) The Promised Neverland                                   | Japan      | Series |           |  Better |
