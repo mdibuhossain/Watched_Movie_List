@@ -73,55 +73,56 @@
 | Hancock                                                          | America    | Movie  |           |  Better |
 | I, Robot                                                         | America    | Movie  |           |  Better |
 | Chappie                                                          | America    | Movie  |           |    Best |
-| Underworld                                                       |            | Movie  | 2003      |    Best |
-| Underworld: Evolution                                            |            | Movie  | 2006      |    Best |
-| Underworld: Rise of the Lycans                                   |            | Movie  | 2009      |    Best |
-| Underworld: Awakening                                            |            | Movie  | 2012      |    Best |
-| Underworld: Blood Wars                                           |            | Movie  | 2016      |    Good |
-| Harry Potter and the Philosopher's Stone                         |            | Movie  | 2001      |    Best |
-| Harry Potter and the Chamber of Secrets                          |            | Movie  | 2002      |    Best |
-| Harry Potter and the Prisoner of Azkaban                         |            | Movie  | 2004      |    Best |
-| Harry Potter and the Goblet of Fire                              |            | Movie  | 2005      |    Best |
-| Harry Potter and the Order of the Phoenix                        |            | Movie  | 2007      |    Best |
-| Harry Potter and the Half-Blood Prince                           |            | Movie  | 2009      |    Best |
-| Harry Potter and the Deathly Hallows - Part I                    |            | Movie  | 2010      |    Best |
-| Harry Potter and the Deathly Hallows - Part II                   |            | Movie  | 2011      |    Best |
-| Fantastic Beasts And Where To Find Them                          |            | Movie  | 2016      |  Better |
-| Fantastic Beasts: The Crimes of Grindelwald                      |            | Movie  | 2018      |  Better |
-| Fantastic Beasts: The Secrets of Dumbledore                      |            | Movie  | 2022      |  Better |
-| Morbius                                                          |            | Movie  | 2022      |    Good |
-| Aquaman                                                          |            | Movie  | 2018      |    Best |
-| Aquaman and the Lost Kingdom                                     |            | Movie  | 2023      |  Better |
+| Underworld                                                       | America    | Movie  | 2003      |    Best |
+| Underworld: Evolution                                            | America    | Movie  | 2006      |    Best |
+| Underworld: Rise of the Lycans                                   | America    | Movie  | 2009      |    Best |
+| Underworld: Awakening                                            | America    | Movie  | 2012      |    Best |
+| Underworld: Blood Wars                                           | America    | Movie  | 2016      |    Good |
+| Harry Potter and the Philosopher's Stone                         | America    | Movie  | 2001      |    Best |
+| Harry Potter and the Chamber of Secrets                          | America    | Movie  | 2002      |    Best |
+| Harry Potter and the Prisoner of Azkaban                         | America    | Movie  | 2004      |    Best |
+| Harry Potter and the Goblet of Fire                              | America    | Movie  | 2005      |    Best |
+| Harry Potter and the Order of the Phoenix                        | America    | Movie  | 2007      |    Best |
+| Harry Potter and the Half-Blood Prince                           | America    | Movie  | 2009      |    Best |
+| Harry Potter and the Deathly Hallows - Part I                    | America    | Movie  | 2010      |    Best |
+| Harry Potter and the Deathly Hallows - Part II                   | America    | Movie  | 2011      |    Best |
+| Fantastic Beasts And Where To Find Them                          | America    | Movie  | 2016      |  Better |
+| Fantastic Beasts: The Crimes of Grindelwald                      | America    | Movie  | 2018      |  Better |
+| Fantastic Beasts: The Secrets of Dumbledore                      | America    | Movie  | 2022      |  Better |
+| Morbius                                                          | America    | Movie  | 2022      |    Good |
+| Aquaman                                                          | America    | Movie  | 2018      |    Best |
+| Aquaman and the Lost Kingdom                                     | America    | Movie  | 2023      |  Better |
 | The Shape of Water                                               |            | Movie  |           |    Good |
-| The Lord of the Rings: The Fellowship of the Ring                |            | Movie  | 2001      |    Best |
-| The Lord of the Rings: The Two Towers                            |            | Movie  | 2002      |    Best |
-| The Lord of the Rings: The Two Towers                            |            | Movie  | 2003      |    Best |
-| The Lord of the Rings: The Rings of Power Season 1               |            | Series |           |    Best |
-| The Hobbit: An Unexpected Journey                                |            | Movie  | 2012      |    Best |
-| The Hobbit: The Desolation of Smaug                              |            | Movie  | 2013      |    Best |
-| The Hobbit: The Battle of the Five Armies                        |            | Movie  | 2014      |    Best |
-| Stardust                                                         |            | Movie  |           |  Better |
-| The Wolf of Wall Street                                          |            | Movie  | 2013      |  Better |
-| The Chronicles of Narnia: The Lion, the Witch and the Wardrobe   |            | Movie  | 2005      |  Better |
-| The Chronicles of Narnia: Prince Caspian                         |            | Movie  | 2008      |  Better |
-| The Chronicles of Narnia: The Voyage of the Dawn Treader         |            | Movie  | 2010      |  Better |
+| The Lord of the Rings: The Fellowship of the Ring                | America    | Movie  | 2001      |    Best |
+| The Lord of the Rings: The Two Towers                            | America    | Movie  | 2002      |    Best |
+| The Lord of the Rings: The Two Towers                            | America    | Movie  | 2003      |    Best |
+| The Lord of the Rings: The Rings of Power Season 1               | America    | Series |           |    Best |
+| The Lord of the Rings: The Rings of Power Season 2               | America    | Series |           |    Best |
+| The Hobbit: An Unexpected Journey                                | America    | Movie  | 2012      |    Best |
+| The Hobbit: The Desolation of Smaug                              | America    | Movie  | 2013      |    Best |
+| The Hobbit: The Battle of the Five Armies                        | America    | Movie  | 2014      |    Best |
+| Stardust                                                         | America    | Movie  |           |  Better |
+| The Wolf of Wall Street                                          | America    | Movie  | 2013      |  Better |
+| The Chronicles of Narnia: The Lion, the Witch and the Wardrobe   | America    | Movie  | 2005      |  Better |
+| The Chronicles of Narnia: Prince Caspian                         | America    | Movie  | 2008      |  Better |
+| The Chronicles of Narnia: The Voyage of the Dawn Treader         | America    | Movie  | 2010      |  Better |
 | Bridge to Terabithia                                             |            | Movie  |           |    Good |
-| Pirates of the Caribbean: The Curse of the Black Pearl           |            | Movie  | 2003      |    Best |
-| Pirates of the Caribbean: Dead Man's Chest                       |            | Movie  | 2006      |    Best |
-| Pirates of the Caribbean: At World's End                         |            | Movie  | 2007      |    Best |
-| Pirates of the Caribbean: On Stranger Tides                      |            | Movie  | 2011      |    Best |
-| Pirates of the Caribbean: Dead Men Tell No Tales                 |            | Movie  | 2017      |    Best |
-| The Golden Compass                                               |            | Movie  |           |  Better |
-| Warcraft                                                         |            | Movie  |           |  Better |
-| Wonder Woman                                                     |            | Movie  |           |    Best |
-| Wonder Woman                                                     |            | Movie  | 1984      |    Good |
-| Mission Impossible                                               |            | Movie  | 1996      |    Best |
-| Mission Impossible 2                                             |            | Movie  | 2000      |    Best |
-| Mission Impossible III                                           |            | Movie  | 2006      |    Best |
-| Mission Impossible - Ghost Protocol                              |            | Movie  | 2011      |    Best |
-| Mission Impossible – Rogue Nation                                |            | Movie  | 2015      |    Best |
-| Mission Impossible - Fallout                                     |            | Movie  | 2018      |    Best |
-| Mission: Impossible – Dead Reckoning Part One                    |            | Movie  | 2023      |    Best |
+| Pirates of the Caribbean: The Curse of the Black Pearl           | America    | Movie  | 2003      |    Best |
+| Pirates of the Caribbean: Dead Man's Chest                       | America    | Movie  | 2006      |    Best |
+| Pirates of the Caribbean: At World's End                         | America    | Movie  | 2007      |    Best |
+| Pirates of the Caribbean: On Stranger Tides                      | America    | Movie  | 2011      |    Best |
+| Pirates of the Caribbean: Dead Men Tell No Tales                 | America    | Movie  | 2017      |    Best |
+| The Golden Compass                                               | America    | Movie  |           |  Better |
+| Warcraft                                                         | America    | Movie  |           |  Better |
+| Wonder Woman                                                     | America    | Movie  | 2017      |    Best |
+| Wonder Woman 1984                                                | America    | Movie  | 2020      |    Good |
+| Mission Impossible                                               | America    | Movie  | 1996      |    Best |
+| Mission Impossible 2                                             | America    | Movie  | 2000      |    Best |
+| Mission Impossible III                                           | America    | Movie  | 2006      |    Best |
+| Mission Impossible - Ghost Protocol                              | America    | Movie  | 2011      |    Best |
+| Mission Impossible – Rogue Nation                                | America    | Movie  | 2015      |    Best |
+| Mission Impossible - Fallout                                     | America    | Movie  | 2018      |    Best |
+| Mission: Impossible – Dead Reckoning Part One                    | America    | Movie  | 2023      |    Best |
 | Deadpool                                                         | America    | Movie  | 2016      |  Better |
 | Deadpool 2                                                       | America    | Movie  | 2018      |  Better |
 | Deadpool & Wolverine                                             | America    | Movie  | 2024      |  Better |
@@ -132,37 +133,58 @@
 | Rogue One: A Star Wars Story                                     |            | Movie  | 2016      |  Better |
 | Solo: A star Wars Story                                          |            | Movie  |           |    Best |
 | Star war the last Jedi                                           |            | Movie  |           |    Best |
-| John Wick                                                        |            | Movie  | 2014      |    Best |
-| John Wick: Chapter 2                                             |            | Movie  | 2017      |    Best |
-| John Wick John Wick: Chapter 3 – Parabellum                      |            | Movie  | 2019      |    Best |
-| John Wick: Chapter 4                                             |            | Movie  | 2023      |    Best |
-| The Dark Knight                                                  |            | Movie  |           |  Better |
-| The Dark Knight Rises                                            |            | Movie  |           |  Better |
-| Batman Begins                                                    |            | Movie  |           |  Better |
-| Batman: Bad Blood                                                |            | Movie  |           |  Better |
-| Batma 1989                                                       |            | Movie  |           |  Better |
-| Batman vs. Superman Dawn of Justice                              |            | Movie  |           |  Better |
-| Suicide Squad                                                    |            | Movie  | 2016      |  Better |
-| The Suicide Squad                                                |            | Movie  | 2021      |    Best |
-| Batman: The Dark Knight Returns                                  |            | Movie  |           |  Better |
+| John Wick                                                        | America    | Movie  | 2014      |    Best |
+| John Wick: Chapter 2                                             | America    | Movie  | 2017      |    Best |
+| John Wick John Wick: Chapter 3 – Parabellum                      | America    | Movie  | 2019      |    Best |
+| John Wick: Chapter 4                                             | America    | Movie  | 2023      |    Best |
+| The Dark Knight                                                  | America    | Movie  |           |  Better |
+| The Dark Knight Rises                                            | America    | Movie  |           |  Better |
+| Batman Begins                                                    | America    | Movie  |           |  Better |
+| Batman: Bad Blood                                                | America    | Movie  |           |  Better |
+| Batma 1989                                                       | America    | Movie  |           |  Better |
+| Batman vs. Superman Dawn of Justice                              | America    | Movie  |           |  Better |
+| Suicide Squad                                                    | America    | Movie  | 2016      |  Better |
+| The Suicide Squad                                                | America    | Movie  | 2021      |    Best |
+| Batman: The Dark Knight Returns                                  | America    | Movie  |           |  Better |
 | Mad Max: Fury Road                                               | America    | Movie  | 2015      |  Better |
 | Furiosa A Mad Max Saga                                           | America    | Movie  | 2024      |  Better |
-| The Matrix (1,2,3,4)                                             |            | Movie  |           |    Best |
-| James Bond (1,2,3,4,5,6)                                         |            | Movie  |           |    Best |
+| The Matrix                                                       | America    | Movie  | 1999      |    Best |
+| The Matrix Reloaded                                              | America    | Movie  | 2003      |    Best |
+| The Matrix Revolutions                                           | America    | Movie  | 2003      |    Best |
+| The Matrix Resurrections                                         | America    | Movie  | 2021      |    Best |
+| James Bond - Die Another Day                                     | America    | Movie  | 2002      |    Best |
+| James Bond - Casino Royale                                       | America    | Movie  | 2006      |    Best |
+| James Bond - Quantum of Solace                                   | America    | Movie  | 2008      |    Best |
+| James Bond - Skyfall                                             | America    | Movie  | 2012      |    Best |
+| James Bond - Spectre                                             | America    | Movie  | 2015      |    Best |
+| James Bond - No Time to Die                                      | America    | Movie  | 2021      |    Best |
 | Ip man (1,2,3)                                                   |            | Movie  |           |    Best |
-| Die Hard (1,2,3,4,5)                                             |            | Movie  |           |    Best |
-| Terminator (1,2,3,4,5,6)                                         |            | Movie  |           |    Best |
-| Jurassic World                                                   |            | Movie  | 2015      |  Better |
-| Jurassic World: Fallen Kingdom                                   |            | Movie  | 2018      |    Good |
-| Jurassic World Dominion                                          |            | Movie  | 2022      |    Good |
-| Inception                                                        |            | Movie  |           |    Best |
-| Catch me if you can                                              |            | Movie  |           |    Best |
-| the great gatsby                                                 |            | Movie  |           |    Good |
-| Titanic                                                          |            | Movie  |           |  Better |
+| Die Hard                                                         | America    | Movie  | 1988      |    Best |
+| Die Hard 2                                                       | America    | Movie  | 1990      |    Best |
+| Die Hard with a Vengeance                                        | America    | Movie  | 1995      |    Best |
+| Live Free or Die Hard                                            | America    | Movie  | 2007      |    Best |
+| A Good Day to Die Hard                                           | America    | Movie  | 2013      |    Best |
+| The Terminator                                                   | America    | Movie  | 1984      |    Best |
+| Terminator 2: Judgment Day                                       | America    | Movie  | 1991      |    Best |
+| Terminator 3: Rise of the Machines                               | America    | Movie  | 2003      |    Best |
+| Terminator Salvation                                             | America    | Movie  | 2009      |    Best |
+| Terminator Genisys                                               | America    | Movie  | 2015      |    Best |
+| Terminator: Dark Fate                                            | America    | Movie  | 2019      |    Best |
+| Jurassic World                                                   | America    | Movie  | 2015      |  Better |
+| Jurassic World: Fallen Kingdom                                   | America    | Movie  | 2018      |    Good |
+| Jurassic World Dominion                                          | America    | Movie  | 2022      |    Good |
+| Inception                                                        | America    | Movie  | 2010      |    Best |
+| Catch me if you can                                              | America    | Movie  |           |    Best |
+| the great gatsby                                                 | America    | Movie  |           |    Good |
+| Titanic                                                          | America    | Movie  |           |  Better |
 | Red Riding Hood                                                  |            | Movie  |           |    Good |
-| Paycheck                                                         |            | Movie  |           |  Better |
-| cure of wellness                                                 |            | Movie  |           |    Good |
-| twilight (1,2,3,4,5)                                             |            | Movie  |           |  Better |
+| Paycheck                                                         | America    | Movie  |           |  Better |
+| Cure of wellness                                                 | America    | Movie  |           |    Good |
+| Twilight                                                         | America    | Movie  | 2008      |  Better |
+| The Twilight Saga: New Moon                                      | America    | Movie  | 2009      |  Better |
+| The Twilight Saga: Eclipse                                       | America    | Movie  | 2010      |  Better |
+| The Twilight Saga: Breaking Dawn Part 1                          | America    | Movie  | 2011      |  Better |
+| The Twilight Saga: Breaking Dawn Part 2                          | America    | Movie  | 2012      |  Better |
 | Dracula Untold                                                   |            | Movie  |           |  Better |
 | Baywatch                                                         |            | Movie  |           |    Good |
 | Skyscraper                                                       |            | Movie  |           |  Better |
@@ -202,10 +224,10 @@
 | Edge of Tomorrow                                                 |            | Movie  |           |    Best |
 | Oblivion                                                         |            | Movie  |           |  Better |
 | Assassin's Creed                                                 | America    | Movie  |           |    Good |
-| Maleficent 1                                                     |            | Movie  |           |  Better |
-| Maleficent 2                                                     |            | Movie  |           |  Better |
-| Snow White and the Huntsman 1                                    |            | Movie  |           |  Better |
-| Snow White and the Huntsman 2                                    |            | Movie  |           |  Better |
+| Maleficent 1                                                     | America    | Movie  |           |  Better |
+| Maleficent 2                                                     | America    | Movie  |           |  Better |
+| Snow White and the Huntsman 1                                    | America    | Movie  |           |  Better |
+| Snow White and the Huntsman 2                                    | America    | Movie  |           |  Better |
 | Drunken Master                                                   |            | Movie  |           |  Better |
 | The Karate Kid                                                   |            | Movie  |           |  Better |
 | Bleeding Steel                                                   |            | Movie  |           |    Good |
@@ -214,15 +236,15 @@
 | Kung Fu Yoga                                                     |            | Movie  |           |  Better |
 | Monster Hunt 1                                                   |            | Movie  |           |    Best |
 | Monster Hunt 2                                                   |            | Movie  |           |    Best |
-| The Expendables 1                                                |            | Movie  |           |    Best |
-| The Expendables 2                                                |            | Movie  |           |    Best |
-| The Expendables 3                                                |            | Movie  |           |    Best |
-| Rambo 1                                                          |            | Movie  |           |    Best |
-| Rambo 2                                                          |            | Movie  |           |    Best |
-| Rambo 3                                                          |            | Movie  |           |    Best |
-| Rambo 4                                                          |            | Movie  |           |    Best |
-| Rambo 5                                                          |            | Movie  |           |    Best |
-| Constantine                                                      |            | Movie  |           |    Good |
+| The Expendables                                                  | America    | Movie  | 2010      |    Best |
+| The Expendables 2                                                | America    | Movie  | 2012      |    Best |
+| The Expendables 3                                                | America    | Movie  | 2014      |    Best |
+| Rambo: First Blood                                               |            | Movie  | 1982      |    Best |
+| Rambo: First Blood Part II                                       |            | Movie  | 1985      |    Best |
+| Rambo III                                                        |            | Movie  | 1988      |    Best |
+| Rambo                                                            |            | Movie  | 2008      |    Best |
+| Rambo: Last Blood                                                |            | Movie  | 2019      |    Best |
+| Constantine                                                      | America    | Movie  | 2005      |    Good |
 | Back to the Future                                               |            | Movie  | 1985      |    Best |
 | Back to the Future II                                            |            | Movie  | 1989      |    Best |
 | Back to the Future III                                           |            | Movie  | 1990      |    Best |
