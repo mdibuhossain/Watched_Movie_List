@@ -670,6 +670,7 @@
 | Dil Bechara                                                      | India      | Movie  | 2020      |  Better |
 | Premalu                                                          | India      | Movie  | 2024      |  Better |
 | Madgaon Express                                                  | India      | Movie  | 2024      |    Good |
+| Lucky Baskhar                                                    | India      | Movie  | 2024      |  Better |
 | Aavesham                                                         | India      | Movie  | 2024      |  Better |
 | Premam                                                           | India      | Movie  | 2016      |    Good |
 | Vikram                                                           | India      | Movie  | 2022      |    Best |
@@ -735,8 +736,8 @@
 | (Animation) Puss in Boots: The Last Wish                         | America    |        | 2022      |  Better |
 | (Animation) Spider-Man: Into the Spider-Verse                    | America    |        | 2018      |  Better |
 | (Animation) Spider Man Across the Spider Verse                   | America    |        | 2023      |    Best |
+| (Animation) Soul                                                 | America    |        | 2020      |  Better |
 | (Anime) A Whisker Away                                           | Japan      |        | 2020      |    Good |
-| (Anime) Dragon Ball Super: Broly                                 | Japan      |        | 2018      |    Good |
 | (Anime) Lupin the Third: Goemon's Blood Spray                    | Japan      |        | 2017      |    Best |
 | (Anime) Weathering with You                                      | Japan      |        | 2019      |    Best |
 | (Anime) Your Name                                                | Japan      |        | 2016      |    Best |
@@ -803,8 +804,10 @@
 | (Anime) The Boy and the Heron                                    | Japan      |        | 2023      |  Better |
 | (Anime) God Of Highschool                                        | Japan      | Series |           |    Good |
 | (Anime) Avatar the Last Airbender                                | Japan      | Series |           |  Better |
-| (Anime) Dragon Ball Super                                        | Japan      | Series |           |    Good |
 | (Anime) Dragon Ball Z                                            | Japan      | Series |           |    Good |
+| (Anime) Dragon Ball Super                                        | Japan      | Series |           |    Good |
+| (Anime) Dragon Ball Super: Broly                                 | Japan      |        | 2018      |    Good |
+| (Anime) Dragon Ball DAIMA                                        | Japan      | Series |           |  Better |
 | (Anime) Naruto                                                   | Japan      | Series |           |  Better |
 | (Anime) Naruto Shippuden                                         | Japan      | Series |           |  Better |
 | (Anime) Demon Slayer                                             | Japan      | Series |           |  Better |
@@ -851,3 +854,5 @@
 | (Anime) Vinland Saga                                             | Japan      | Series |           |  Better |
 | (Anime) Monster                                                  | Japan      | Series |           |  Better |
 | (Anime) The Promised Neverland                                   | Japan      | Series |           |  Better |
+| (Anime) Dandadan                                                 | Japan      | Series |           |  Better |
+| (Anime) That Time I Got Reincarnated as a Slime                  | Japan      | Series |           |  Better |
