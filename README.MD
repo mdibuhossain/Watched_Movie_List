@@ -697,6 +697,7 @@
 | Bullet Train                                                     | America    | Movie  | 2022      |  Better |
 | The Outlaws                                                      | Korea      | Movie  | 2017      |    Good |
 | The Roundup                                                      | Korea      | Movie  | 2022      |    Good |
+| Squid Game                                                       | Korea      | Series | 2021      |  Better |
 | Black Adam                                                       | America    | Movie  | 2022      |    Good |
 | Doctor G                                                         |            | Movie  | 2022      |  Better |
 | Etharkkum Thunindhavan                                           | India      | Movie  | 2022      |    Good |
@@ -855,4 +856,4 @@
 | (Anime) Monster                                                  | Japan      | Series |           |  Better |
 | (Anime) The Promised Neverland                                   | Japan      | Series |           |  Better |
 | (Anime) Dandadan                                                 | Japan      | Series |           |  Better |
-| (Anime) That Time I Got Reincarnated as a Slime                  | Japan      | Series |           |  Better |
+| (Anime) That Time I Got Reincarnated as a Slime (Season 1)       | Japan      | Series |           |  Better |
