@@ -53,6 +53,7 @@
 | Captain America: The First Avenger                               | America    | Movie  | 2011      |    Best |
 | Captain America: The Winter Soldier                              | America    | Movie  | 2014      |    Best |
 | Captain America: Civil War                                       | America    | Movie  | 2016      |    Best |
+| Captain America: Brave New World                                 | America    | Movie  | 2025      |    Good |
 | Guardian of the galaxy                                           | America    | Movie  | 2014      |    Best |
 | Guardian of the galaxy Vol. 2                                    | America    | Movie  | 2017      |    Best |
 | Ant-Man                                                          | America    | Movie  | 2015      |    Best |
@@ -662,6 +663,7 @@
 | The Adam Project                                                 |            | Movie  | 2022      |    Good |
 | The Batman                                                       |            | Movie  | 2022      |  Better |
 | Uncharted                                                        |            | Movie  | 2022      |    Best |
+| Kannum Kannum Kollaiyadithaal                                    | India      | Movie  | 2020      |  Better |
 | Toofaan                                                          | India      | Movie  | 2021      |    Good |
 | Hi Nanna                                                         | India      | Movie  | 2023      |  Better |
 | Bhakshak                                                         | India      | Movie  | 2024      |  Better |
@@ -845,7 +847,7 @@
 | (Anime) Another                                                  | Japan      | Series |           |    Good |
 | (Anime) Chainsaw Man                                             | Japan      | Series |           |  Better |
 | (Anime) Inuyasha                                                 | Japan      | Series |           |  Better |
-| (Anime) Solo Leveling                                            | Japan      | Series |           |  Better |
+| (Anime) Solo Leveling                                            | Japan      | Series |           |    Best |
 | (Anime) Kaiju No. 8                                              | Japan      | Series |           |  Better |
 | (Anime) Steins;Gate                                              | Japan      | Series |           |  Better |
 | (Anime) Steins;Gate 0                                            | Japan      | Series |           |  Better |
@@ -857,3 +859,6 @@
 | (Anime) The Promised Neverland                                   | Japan      | Series |           |  Better |
 | (Anime) Dandadan                                                 | Japan      | Series |           |  Better |
 | (Anime) That Time I Got Reincarnated as a Slime (Season 1)       | Japan      | Series |           |  Better |
+| (Anime) Mashle: Magic and Muscles                                | Japan      | Series |           |  Better |
+| (Anime) Sakamoto Days                                            | Japan      | Series |           |  Better |
+| (Anime) One Piece Fan Letter                                     | Japan      | Series |           |    Best |
