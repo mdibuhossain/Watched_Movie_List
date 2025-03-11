@@ -667,6 +667,7 @@
 | Toofaan                                                          | India      | Movie  | 2021      |    Good |
 | Hi Nanna                                                         | India      | Movie  | 2023      |  Better |
 | Bhakshak                                                         | India      | Movie  | 2024      |  Better |
+| Rekhachithram                                                    | India      | Movie  | 2025      |    Best |
 | Kaathuvaakula Rendu Kaadhal                                      | India      | Movie  | 2022      |    Good |
 | The Family Star                                                  | India      | Movie  | 2024      |    Good |
 | Dil Bechara                                                      | India      | Movie  | 2020      |  Better |
