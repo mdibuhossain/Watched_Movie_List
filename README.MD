@@ -1,865 +1,842 @@
-| Movies Name                                                      | Origin     | Type   | Year      |  Review |
-| :--------------------------------------------------------------- | ---------- | ------ | --------- | ------: |
-| Salute                                                           | India      | Movie  | 2022      |  Better |
-| Punorjonmo 1                                                     | Bangladesh | Movie  |           |    Best |
-| Punorjonmo 2                                                     | Bangladesh | Movie  |           |    Best |
-| Punorjonmo 3                                                     | Bangladesh | Movie  |           |    Best |
-| Networker Baire                                                  | Bangladesh | Movie  | 2021      |    Best |
-| Golam Mamun                                                      | Bangladesh | Series |           |    Best |
-| Syndicate                                                        | Bangladesh | Series |           |    Best |
-| Myself Allen Swapan                                              | Bangladesh | Series |           |    Best |
-| Kaiser                                                           | Bangladesh | Series |           |    Best |
-| Mohanagar                                                        | Bangladesh | Series |           |    Best |
-| Karagar                                                          | Bangladesh | Series |           |  Better |
-| Knives Out                                                       | America    | Movie  | 2019      |  Better |
-| knives Out 2: Glass Onion                                        | America    | Movie  | 2022      |  Better |
-| Seven                                                            |            | Movie  | 1995      |    Best |
-| Gran Torino                                                      | America    | Movie  | 2008      |    Best |
-| Top Gun                                                          | America    | Movie  | 1986      |    Best |
-| Top Gun Maverick                                                 | America    | Movie  | 2022      |    Best |
-| Casper                                                           |            | Movie  | 1995      |    Good |
-| Scott Pilgrim Vs The World                                       |            | Movie  | 2010      |     Bad |
-| 47 Ronin                                                         |            | Movie  | 2013      |  Better |
-| Rumble in the Bronx                                              |            | Movie  | 1995      |  Better |
-| Night at the Museum                                              | America    | Movie  | 2006      |    Good |
-| Night at the Museum Battle of the Smithsonian                    | America    | Movie  | 2009      |    Good |
-| Night at the Museum Secret of the Tomb                           | America    | Movie  | 2014      |    Good |
-| Avatar                                                           |            | Movie  | 2009      |    Best |
-| Avatar: The Way of Water                                         |            | Movie  | 2022      |    Best |
-| The Equalizer                                                    | America    | Movie  | 2014      |    Best |
-| The Equalizer 2                                                  | America    | Movie  | 2018      |    Best |
-| The Equalizer 3                                                  | America    | Movie  | 2023      |    Best |
-| Ted 1                                                            | America    | Movie  |           |    Good |
-| Ted 2                                                            | America    | Movie  |           |    Good |
-| Interstellar                                                     | America    | Movie  | 2014      |    Best |
-| Iron man 1                                                       | America    | Movie  | 2008      |    Best |
-| Iron man 2                                                       | America    | Movie  | 2010      |    Best |
-| Iron man 3                                                       | America    | Movie  | 2013      |    Best |
-| Homefront                                                        |            | Movie  | 2013      |    Good |
-| The Spy Undercover Operation                                     |            | Movie  | 2013      |    Good |
-| Men in Black 1                                                   | America    | Movie  | 1997      |    Best |
-| Men in Black 2                                                   | America    | Movie  | 2002      |    Best |
-| Men in Black 3                                                   | America    | Movie  | 2012      |    Best |
-| Men in Black 4                                                   | America    | Movie  | 2019      |  Better |
-| Thor                                                             | America    | Movie  | 2011      |    Best |
-| Thor: The Dark World                                             | America    | Movie  | 2013      |    Best |
-| Thor: Ragnarok                                                   | America    | Movie  | 2017      |    Best |
-| The Avengers                                                     | America    | Movie  | 2012      |    Best |
-| The Avengers: Age of Ultron                                      | America    | Movie  | 2015      |    Best |
-| The Avengers: Infinity War                                       | America    | Movie  | 2018      |    Best |
-| The Avengers: End Game                                           | America    | Movie  | 2019      |    Best |
-| Hulk                                                             | America    | Movie  |           |    Best |
-| Incredible Hulk                                                  | America    | Movie  |           |    Best |
-| Captain America: The First Avenger                               | America    | Movie  | 2011      |    Best |
-| Captain America: The Winter Soldier                              | America    | Movie  | 2014      |    Best |
-| Captain America: Civil War                                       | America    | Movie  | 2016      |    Best |
-| Captain America: Brave New World                                 | America    | Movie  | 2025      |    Good |
-| Guardian of the galaxy                                           | America    | Movie  | 2014      |    Best |
-| Guardian of the galaxy Vol. 2                                    | America    | Movie  | 2017      |    Best |
-| Ant-Man                                                          | America    | Movie  | 2015      |    Best |
-| Ant-Man and the Wasp                                             | America    | Movie  | 2018      |    Best |
-| Doctor Strange                                                   | America    | Movie  | 2016      |    Best |
-| Doctor Strange in the Multiverse of Madness                      | America    | Movie  | 2022      |  Better |
-| Black Panther                                                    | America    | Movie  |           |    Best |
-| Spider Man Homecoming                                            | America    | Movie  |           |    Best |
-| Venom                                                            | America    | Movie  |           |  Better |
-| Venom: Let There Be Carnage                                      | America    | Movie  | 2021      |  Better |
-| Operation Java                                                   | India      | Movie  | 2012      |  Better |
-| Argo                                                             | America    | Movie  | 2012      |    Good |
-| Amazing Spider Man                                               | America    | Movie  | 2012      |  Better |
-| Amazing Spider Man 2                                             | America    | Movie  | 2014      |  Better |
-| Spider Man 1                                                     | America    | Movie  | 2002      |  Better |
-| Spider Man 2                                                     | America    | Movie  | 2004      |  Better |
-| Spider Man 3                                                     | America    | Movie  | 2007      |  Better |
-| Hancock                                                          | America    | Movie  |           |  Better |
-| I, Robot                                                         | America    | Movie  |           |  Better |
-| Chappie                                                          | America    | Movie  |           |    Best |
-| Underworld                                                       | America    | Movie  | 2003      |    Best |
-| Underworld: Evolution                                            | America    | Movie  | 2006      |    Best |
-| Underworld: Rise of the Lycans                                   | America    | Movie  | 2009      |    Best |
-| Underworld: Awakening                                            | America    | Movie  | 2012      |    Best |
-| Underworld: Blood Wars                                           | America    | Movie  | 2016      |    Good |
-| Harry Potter and the Philosopher's Stone                         | America    | Movie  | 2001      |    Best |
-| Harry Potter and the Chamber of Secrets                          | America    | Movie  | 2002      |    Best |
-| Harry Potter and the Prisoner of Azkaban                         | America    | Movie  | 2004      |    Best |
-| Harry Potter and the Goblet of Fire                              | America    | Movie  | 2005      |    Best |
-| Harry Potter and the Order of the Phoenix                        | America    | Movie  | 2007      |    Best |
-| Harry Potter and the Half-Blood Prince                           | America    | Movie  | 2009      |    Best |
-| Harry Potter and the Deathly Hallows - Part I                    | America    | Movie  | 2010      |    Best |
-| Harry Potter and the Deathly Hallows - Part II                   | America    | Movie  | 2011      |    Best |
-| Fantastic Beasts And Where To Find Them                          | America    | Movie  | 2016      |  Better |
-| Fantastic Beasts: The Crimes of Grindelwald                      | America    | Movie  | 2018      |  Better |
-| Fantastic Beasts: The Secrets of Dumbledore                      | America    | Movie  | 2022      |  Better |
-| Morbius                                                          | America    | Movie  | 2022      |    Good |
-| Aquaman                                                          | America    | Movie  | 2018      |    Best |
-| Aquaman and the Lost Kingdom                                     | America    | Movie  | 2023      |  Better |
-| The Shape of Water                                               |            | Movie  |           |    Good |
-| The Lord of the Rings: The Fellowship of the Ring                | America    | Movie  | 2001      |    Best |
-| The Lord of the Rings: The Two Towers                            | America    | Movie  | 2002      |    Best |
-| The Lord of the Rings: The Two Towers                            | America    | Movie  | 2003      |    Best |
-| The Lord of the Rings: The Rings of Power Season 1               | America    | Series |           |    Best |
-| The Lord of the Rings: The Rings of Power Season 2               | America    | Series |           |    Best |
-| The Hobbit: An Unexpected Journey                                | America    | Movie  | 2012      |    Best |
-| The Hobbit: The Desolation of Smaug                              | America    | Movie  | 2013      |    Best |
-| The Hobbit: The Battle of the Five Armies                        | America    | Movie  | 2014      |    Best |
-| Stardust                                                         | America    | Movie  |           |  Better |
-| The Wolf of Wall Street                                          | America    | Movie  | 2013      |  Better |
-| The Chronicles of Narnia: The Lion, the Witch and the Wardrobe   | America    | Movie  | 2005      |  Better |
-| The Chronicles of Narnia: Prince Caspian                         | America    | Movie  | 2008      |  Better |
-| The Chronicles of Narnia: The Voyage of the Dawn Treader         | America    | Movie  | 2010      |  Better |
-| Bridge to Terabithia                                             |            | Movie  |           |    Good |
-| Pirates of the Caribbean: The Curse of the Black Pearl           | America    | Movie  | 2003      |    Best |
-| Pirates of the Caribbean: Dead Man's Chest                       | America    | Movie  | 2006      |    Best |
-| Pirates of the Caribbean: At World's End                         | America    | Movie  | 2007      |    Best |
-| Pirates of the Caribbean: On Stranger Tides                      | America    | Movie  | 2011      |    Best |
-| Pirates of the Caribbean: Dead Men Tell No Tales                 | America    | Movie  | 2017      |    Best |
-| The Golden Compass                                               | America    | Movie  |           |  Better |
-| Warcraft                                                         | America    | Movie  |           |  Better |
-| Wonder Woman                                                     | America    | Movie  | 2017      |    Best |
-| Wonder Woman 1984                                                | America    | Movie  | 2020      |    Good |
-| Mission Impossible                                               | America    | Movie  | 1996      |    Best |
-| Mission Impossible 2                                             | America    | Movie  | 2000      |    Best |
-| Mission Impossible III                                           | America    | Movie  | 2006      |    Best |
-| Mission Impossible - Ghost Protocol                              | America    | Movie  | 2011      |    Best |
-| Mission Impossible – Rogue Nation                                | America    | Movie  | 2015      |    Best |
-| Mission Impossible - Fallout                                     | America    | Movie  | 2018      |    Best |
-| Mission: Impossible – Dead Reckoning Part One                    | America    | Movie  | 2023      |    Best |
-| Deadpool                                                         | America    | Movie  | 2016      |  Better |
-| Deadpool 2                                                       | America    | Movie  | 2018      |  Better |
-| Deadpool & Wolverine                                             | America    | Movie  | 2024      |  Better |
-| Rampage                                                          |            | Movie  |           |  Better |
-| The Meg                                                          |            | Movie  |           |  Better |
-| Ready Player One                                                 |            | Movie  |           |    Best |
-| Justice League                                                   |            | Movie  |           |  Better |
-| Rogue One: A Star Wars Story                                     |            | Movie  | 2016      |  Better |
-| Solo: A star Wars Story                                          |            | Movie  |           |    Best |
-| Star war the last Jedi                                           |            | Movie  |           |    Best |
-| John Wick                                                        | America    | Movie  | 2014      |    Best |
-| John Wick: Chapter 2                                             | America    | Movie  | 2017      |    Best |
-| John Wick John Wick: Chapter 3 – Parabellum                      | America    | Movie  | 2019      |    Best |
-| John Wick: Chapter 4                                             | America    | Movie  | 2023      |    Best |
-| The Dark Knight                                                  | America    | Movie  |           |  Better |
-| The Dark Knight Rises                                            | America    | Movie  |           |  Better |
-| Batman Begins                                                    | America    | Movie  |           |  Better |
-| Batman: Bad Blood                                                | America    | Movie  |           |  Better |
-| Batma 1989                                                       | America    | Movie  |           |  Better |
-| Batman vs. Superman Dawn of Justice                              | America    | Movie  |           |  Better |
-| Suicide Squad                                                    | America    | Movie  | 2016      |  Better |
-| The Suicide Squad                                                | America    | Movie  | 2021      |    Best |
-| Batman: The Dark Knight Returns                                  | America    | Movie  |           |  Better |
-| Mad Max: Fury Road                                               | America    | Movie  | 2015      |  Better |
-| Furiosa A Mad Max Saga                                           | America    | Movie  | 2024      |  Better |
-| The Matrix                                                       | America    | Movie  | 1999      |    Best |
-| The Matrix Reloaded                                              | America    | Movie  | 2003      |    Best |
-| The Matrix Revolutions                                           | America    | Movie  | 2003      |    Best |
-| The Matrix Resurrections                                         | America    | Movie  | 2021      |    Best |
-| James Bond - Die Another Day                                     | America    | Movie  | 2002      |    Best |
-| James Bond - Casino Royale                                       | America    | Movie  | 2006      |    Best |
-| James Bond - Quantum of Solace                                   | America    | Movie  | 2008      |    Best |
-| James Bond - Skyfall                                             | America    | Movie  | 2012      |    Best |
-| James Bond - Spectre                                             | America    | Movie  | 2015      |    Best |
-| James Bond - No Time to Die                                      | America    | Movie  | 2021      |    Best |
-| Ip man (1,2,3)                                                   |            | Movie  |           |    Best |
-| Die Hard                                                         | America    | Movie  | 1988      |    Best |
-| Die Hard 2                                                       | America    | Movie  | 1990      |    Best |
-| Die Hard with a Vengeance                                        | America    | Movie  | 1995      |    Best |
-| Live Free or Die Hard                                            | America    | Movie  | 2007      |    Best |
-| A Good Day to Die Hard                                           | America    | Movie  | 2013      |    Best |
-| The Terminator                                                   | America    | Movie  | 1984      |    Best |
-| Terminator 2: Judgment Day                                       | America    | Movie  | 1991      |    Best |
-| Terminator 3: Rise of the Machines                               | America    | Movie  | 2003      |    Best |
-| Terminator Salvation                                             | America    | Movie  | 2009      |    Best |
-| Terminator Genisys                                               | America    | Movie  | 2015      |    Best |
-| Terminator: Dark Fate                                            | America    | Movie  | 2019      |    Best |
-| Jurassic World                                                   | America    | Movie  | 2015      |  Better |
-| Jurassic World: Fallen Kingdom                                   | America    | Movie  | 2018      |    Good |
-| Jurassic World Dominion                                          | America    | Movie  | 2022      |    Good |
-| Inception                                                        | America    | Movie  | 2010      |    Best |
-| Catch me if you can                                              | America    | Movie  |           |    Best |
-| the great gatsby                                                 | America    | Movie  |           |    Good |
-| Titanic                                                          | America    | Movie  |           |  Better |
-| Red Riding Hood                                                  |            | Movie  |           |    Good |
-| Paycheck                                                         | America    | Movie  |           |  Better |
-| Cure of wellness                                                 | America    | Movie  |           |    Good |
-| Twilight                                                         | America    | Movie  | 2008      |  Better |
-| The Twilight Saga: New Moon                                      | America    | Movie  | 2009      |  Better |
-| The Twilight Saga: Eclipse                                       | America    | Movie  | 2010      |  Better |
-| The Twilight Saga: Breaking Dawn Part 1                          | America    | Movie  | 2011      |  Better |
-| The Twilight Saga: Breaking Dawn Part 2                          | America    | Movie  | 2012      |  Better |
-| Dracula Untold                                                   |            | Movie  |           |  Better |
-| Baywatch                                                         |            | Movie  |           |    Good |
-| Skyscraper                                                       |            | Movie  |           |  Better |
-| Jumanji                                                          |            | Movie  |           |  Better |
-| Transformers                                                     |            | Movie  | 2007      |    Best |
-| Transformers: Revenge of the Fallen                              |            | Movie  | 2009      |    Best |
-| Transformers: Dark of the Moon                                   |            | Movie  | 2011      |    Best |
-| Transformers: Age of Extinction                                  |            | Movie  | 2014      |    Best |
-| Transformers: The Last Knight                                    |            | Movie  | 2017      |    Best |
-| Bumblebee                                                        |            | Movie  | 2018      |  Better |
-| Transformers: Rise of the Beasts                                 |            | Movie  | 2023      |  Better |
-| I am number four                                                 |            | Movie  |           |  Better |
-| Gone Girl                                                        |            | Movie  |           |     Bad |
-| Passengers                                                       |            | Movie  |           |  Better |
-| The prestige                                                     |            | Movie  |           |    Good |
-| Source Code                                                      |            | Movie  |           |  Better |
-| Sherlock Holmes (1,2)                                            |            | Movie  |           |    Best |
-| forbidden kingdom                                                |            | Movie  |           |  Better |
-| Who am I                                                         |            | Movie  |           |  Better |
-| World War Z                                                      |            | Movie  |           |  Better |
-| Victor Frankenstein                                              |            | Movie  | 2015      |    Good |
-| Fabricated City                                                  |            | Movie  | 2017      |    Best |
-| Confidential Assignment                                          |            | Movie  | 2017      |  Better |
-| Death Race (1,2,3)                                               |            | Movie  |           |  Better |
-| The Fast and the Furious                                         |            | Movie  | 2001      |    Best |
-| 2 Fast 2 Furious                                                 |            | Movie  | 2003      |    Best |
-| The Fast and the Furious: Tokyo Drift                            |            | Movie  | 2006      |    Best |
-| Fast & Furious                                                   |            | Movie  | 2009      |    Best |
-| Fast & Furious 6                                                 |            | Movie  | 2013      |    Best |
-| Furious 7                                                        |            | Movie  | 2015      |    Best |
-| The Fate of the Furious                                          |            | Movie  | 2017      |    Best |
-| Fast & Furious Presents: Hobbs & Shaw                            |            | Movie  | 2019      |    Best |
-| F9                                                               |            | Movie  | 2021      |    Best |
-| E.T. the Extra-Terrestrial                                       |            | Movie  |           |    Good |
-| Pacific Rim Uprising                                             |            | Movie  |           |  Better |
-| Geostorm                                                         |            | Movie  |           |    Best |
-| Edge of Tomorrow                                                 |            | Movie  |           |    Best |
-| Oblivion                                                         |            | Movie  |           |  Better |
-| Assassin's Creed                                                 | America    | Movie  |           |    Good |
-| Maleficent 1                                                     | America    | Movie  |           |  Better |
-| Maleficent 2                                                     | America    | Movie  |           |  Better |
-| Snow White and the Huntsman 1                                    | America    | Movie  |           |  Better |
-| Snow White and the Huntsman 2                                    | America    | Movie  |           |  Better |
-| Drunken Master                                                   |            | Movie  |           |  Better |
-| The Karate Kid                                                   |            | Movie  |           |  Better |
-| Bleeding Steel                                                   |            | Movie  |           |    Good |
-| Shanghai Noon                                                    |            | Movie  |           |  Better |
-| Shanghai Knights                                                 |            | Movie  |           |  Better |
-| Kung Fu Yoga                                                     |            | Movie  |           |  Better |
-| Monster Hunt 1                                                   |            | Movie  |           |    Best |
-| Monster Hunt 2                                                   |            | Movie  |           |    Best |
-| The Expendables                                                  | America    | Movie  | 2010      |    Best |
-| The Expendables 2                                                | America    | Movie  | 2012      |    Best |
-| The Expendables 3                                                | America    | Movie  | 2014      |    Best |
-| Rambo: First Blood                                               |            | Movie  | 1982      |    Best |
-| Rambo: First Blood Part II                                       |            | Movie  | 1985      |    Best |
-| Rambo III                                                        |            | Movie  | 1988      |    Best |
-| Rambo                                                            |            | Movie  | 2008      |    Best |
-| Rambo: Last Blood                                                |            | Movie  | 2019      |    Best |
-| Constantine                                                      | America    | Movie  | 2005      |    Good |
-| Back to the Future                                               |            | Movie  | 1985      |    Best |
-| Back to the Future II                                            |            | Movie  | 1989      |    Best |
-| Back to the Future III                                           |            | Movie  | 1990      |    Best |
-| X-Men                                                            |            | Movie  | 2000      |  Better |
-| X2                                                               |            | Movie  | 2003      |  Better |
-| X-Men: The Last Stand                                            |            | Movie  | 2006      |  Better |
-| X-Men Origins: Wolverine                                         |            | Movie  | 2009      |  Better |
-| The Wolverine                                                    |            | Movie  | 2013      |  Better |
-| Logan                                                            |            | Movie  | 2017      |  Better |
-| X-Men: First Class                                               |            | Movie  | 2011      |  Better |
-| X-Men: Days of Future Past                                       |            | Movie  | 2014      |  Better |
-| X-Men: Apocalypse                                                |            | Movie  | 2016      |  Better |
-| Dark Phoenix                                                     |            | Movie  | 2019      |  Better |
-| Man of steel                                                     |            | Movie  |           |  Better |
-| Eddie the Eagle                                                  |            | Movie  |           |    Good |
-| Real Steel                                                       |            | Movie  |           |    Best |
-| Fantastic Four                                                   |            | Movie  | 2005      |  Better |
-| Fantastic Four: Rise of the Silver Surfer                        |            | Movie  | 2007      |  Better |
-| Hellboy                                                          |            | Movie  | 2004      |     Bad |
-| Hellboy II: The Golden Army                                      |            | Movie  | 2008      |     Bad |
-| Hellboy                                                          |            | Movie  | 2019      |     Bad |
-| The House with a Clock in Its Walls                              |            | Movie  |           |  Better |
-| Johnny English                                                   |            | Movie  | 2003      |  Better |
-| Johnny English Reborn                                            |            | Movie  | 2011      |  Better |
-| Johnny English Strikes Again                                     |            | Movie  | 2018      |  Better |
-| air strike                                                       |            | Movie  | 2018      |    Good |
-| Big Brother                                                      |            | Movie  | 2018      |    Best |
-| Goosebumps (1,2)                                                 |            | Movie  |           |  Better |
-| Watchmen                                                         |            | Movie  |           |  Better |
-| Ghost Rider                                                      |            | Movie  |           |  Better |
-| Gone in 60 Seconds                                               |            | Movie  |           |    Good |
-| The Sorcerer's Apprentice                                        |            | Movie  |           |    Good |
-| The Weather Man                                                  |            | Movie  |           |     Bad |
-| London Has Fallen                                                |            | Movie  |           |  Better |
-| Olympus Has Fallen                                               |            | Movie  |           |  Better |
-| White House Down                                                 |            | Movie  |           |  Better |
-| Gods of Egypt                                                    |            | Movie  |           |     Bad |
-| King Arthur: Legend of the Sword                                 |            | Movie  |           |  Better |
-| Cook Up a Storm                                                  |            | Movie  | 2017      |    Best |
-| The Mummy                                                        |            | Movie  | 2017      |    Good |
-| The Mummy Returns                                                |            | Movie  | 2001      |    Good |
-| Hercules                                                         |            | Movie  |           |    Good |
-| The Jungle Book                                                  |            | Movie  |           |  Better |
-| Troy                                                             |            | Movie  |           |    Good |
-| 300                                                              |            | Movie  | 2006      |  Better |
-| 300: Rise of an Empire                                           |            | Movie  | 2014      |    Good |
-| Jack Reacher                                                     |            | Movie  | 2012      |  Better |
-| Drishyam                                                         |            | Movie  | 2015      |    Best |
-| Drishyam 2                                                       |            | Movie  | 2022      |    Best |
-| Fetih 1453                                                       |            | Movie  | 2012      |    Good |
-| Jack Reacher: Never Go Back                                      |            | Movie  | 2016      |  Better |
-| Ghostbusters                                                     |            | Movie  | 2016      |    Good |
-| Elysium                                                          |            | Movie  |           |  Better |
-| Sword Master                                                     |            | Movie  |           |    Good |
-| The Nun                                                          |            | Movie  |           |     Bad |
-| Birth of the dragon                                              |            | Movie  |           |     Bad |
-| The Conjuring                                                    |            | Movie  | 2013      |     Bad |
-| The Conjuring                                                    |            | Movie  | 2016      |     Bad |
-| Annabelle                                                        |            | Movie  |           |     Bad |
-| Annabelle creation                                               |            | Movie  |           |     Bad |
-| Detective Dee and the Mystery of the Phantom Flame               |            | Movie  | 2010      |  Better |
-| Young Detective Dee: Rise of the Sea Dragon                      |            | Movie  | 2013      |    Good |
-| Rob-B-Hood                                                       |            | Movie  |           |  Better |
-| The Da Vinci Code                                                |            | Movie  |           |    Good |
-| The Divergent                                                    |            | Movie  | 2014      |  Better |
-| Lara Croft: Tomb Raider                                          |            | Movie  | 2001      |  Better |
-| Lara Croft: Tomb Raider – The Cradle of Life                     |            | Movie  | 2003      |  Better |
-| Tomb Raider                                                      |            | Movie  | 2018      |  Better |
-| The Hitmans bodyguard                                            |            | Movie  |           |  Better |
-| Gifted                                                           |            | Movie  |           |    Best |
-| The Cabin in the Woods                                           |            | Movie  |           |     Bad |
-| Final Destination                                                |            | Movie  | 2000      |    Good |
-| Final Destination 2                                              |            | Movie  | 2003      |    Good |
-| Final Destination 3                                              |            | Movie  | 2006      |    Good |
-| The Final Destination                                            |            | Movie  | 2009      |    Good |
-| Final Destination 5                                              |            | Movie  | 2011      |    Good |
-| Blue Streak                                                      |            | Movie  |           |  Better |
-| Nightcrawler                                                     |            | Movie  | 2014      |  Better |
-| Kingsman: The Secret Service                                     |            | Movie  | 2014      |  Better |
-| Kingsman: The Golden Circle                                      |            | Movie  | 2017      |  Better |
-| The King's Man                                                   |            | Movie  | 2021      |  Better |
-| XXX                                                              |            | Movie  | 2002      |  Better |
-| XXX: Return of Xander Cage                                       |            | Movie  | 2017      |  Better |
-| It                                                               |            | Movie  |           |     Bad |
-| Jigsaw                                                           |            | Movie  |           |     Bad |
-| The Social Network                                               |            | Movie  |           |  Better |
-| G.I. Joe: The Rise of Cobra                                      |            | Movie  | 2009      |  Better |
-| G.I. Joe: Retaliation                                            |            | Movie  | 2013      |    Good |
-| Ender's Game                                                     |            | Movie  | 2013      |  Better |
-| Miss Peregrine's Home for Peculiar Children                      |            | Movie  |           |  Better |
-| The Fifth Element                                                |            | Movie  |           |    Good |
-| The Mechanic                                                     |            | Movie  | 2011      |  Better |
-| Mechanic: Resurrection                                           |            | Movie  | 2016      |  Better |
-| Crank                                                            |            | Movie  | 2006      |  Better |
-| Crank: High Voltage                                              |            | Movie  | 2009      |  Better |
-| Spy                                                              |            | Movie  | 2015      |    Good |
-| The Transporter                                                  |            | Movie  | 2002      |  Better |
-| The Transporter 2                                                |            | Movie  | 2005      |  Better |
-| The Transporter 3                                                |            | Movie  | 2008      |  Better |
-| Parker                                                           |            | Movie  | 2013      |  Better |
-| The Rundown                                                      |            | Movie  |           |  Better |
-| Central Intelligence                                             |            | Movie  |           |  Better |
-| Journey to the Center of the Earth                               |            | Movie  | 2008      |    Good |
-| Journey 2: The Mysterious Island                                 |            | Movie  | 2012      |    Good |
-| Pain & Gain                                                      |            | Movie  |           |    Good |
-| Snitch                                                           |            | Movie  |           |  Better |
-| Four Brothers                                                    |            | Movie  |           |    Good |
-| Project Almanac                                                  |            | Movie  |           |  Better |
-| Bright                                                           |            | Movie  |           |  Better |
-| Special ID                                                       |            | Movie  |           |  Better |
-| Enemy of the State                                               |            | Movie  |           |  Better |
-| Hours                                                            |            | Movie  |           |    Best |
-| Hugo                                                             |            | Movie  |           |  Better |
-| Blackhat                                                         |            | Movie  | 2015      |    Best |
-| Peter Pan                                                        |            | Movie  |           |    Good |
-| The Last Samurai                                                 |            | Movie  |           |    Best |
-| Insurgent                                                        |            | Movie  | 2015      |  Better |
-| Premium Rush                                                     |            | Movie  |           |  Better |
-| Operation Red Sea                                                |            | Movie  |           |  Better |
-| Bad Times at the El Royale                                       |            | Movie  |           |    Good |
-| Season of the Witch                                              |            | Movie  |           |    Good |
-| Beauty and the Beast                                             |            | Movie  |           |  Better |
-| Mr. & Mrs. Smith                                                 |            | Movie  |           |    Good |
-| Baby's Day Out                                                   |            | Movie  |           |    Best |
-| The Guardians                                                    |            | Movie  | 2017      |     Bad |
-| Now You See Me                                                   |            | Movie  | 2013      |    Best |
-| Now You See Me 2                                                 |            | Movie  | 2016      |    Best |
-| 2012                                                             |            | Movie  | 2009      |  Better |
-| Resident Evil                                                    |            | Movie  |           |  Better |
-| Wanted                                                           |            | Movie  | 2008      |  Better |
-| Next                                                             |            | Movie  | 2007      |  Better |
-| Prince of Persia The Sands of Time                               |            | Movie  | 2010      |    Good |
-| The Last Airbender                                               |            | Movie  | 2010      |  Better |
-| Legend of the naga pearls                                        |            | Movie  | 2017      |  Better |
-| The Imitation Game                                               |            | Movie  | 2014      |  Better |
-| Rush Hour 1                                                      |            | Movie  | 1998      |  Better |
-| Rush Hour 2                                                      |            | Movie  | 2001      |  Better |
-| Rush Hour 3                                                      |            | Movie  | 2007      |  Better |
-| The Great Wall                                                   |            | Movie  |           |  Better |
-| Jack Ryan – Shadow Recruit                                       |            | Movie  |           |  Better |
-| RED ( 1,2)                                                       |            | Movie  |           |  Better |
-| R.I.P.D.                                                         |            | Movie  | 2013      |    Good |
-| Young Sherlock Holmes                                            |            | Movie  | 1985      |  Better |
-| Hostage IDK                                                      |            | Movie  | 2005      |  Better |
-| Get Smart                                                        |            | Movie  | 2008      |    Good |
-| Nanny McPhee                                                     |            | Movie  | 2005      |    Good |
-| Nanny McPhee and the Big Bang                                    |            | Movie  | 2010      |    Good |
-| Van Helsing                                                      |            | Movie  |           |  Better |
-| Total Recall                                                     |            | Movie  |           |  Better |
-| Murder on the Orient Express                                     |            | Movie  |           |  Better |
-| Shaolin Soccer                                                   |            | Movie  |           |  Better |
-| Catwoman                                                         |            | Movie  | 2004      |     Bad |
-| The A-Team                                                       |            | Movie  | 2010      |    Good |
-| Sleepy Hollow                                                    |            | Movie  | 1999      |  Better |
-| Rememory                                                         |            | Movie  |           |  Better |
-| The Circle                                                       |            | Movie  |           |  Better |
-| The November Man                                                 |            | Movie  |           |  Better |
-| God Father 1                                                     |            | Movie  | 1972      |  Better |
-| God Father 2                                                     |            | Movie  | 1974      |  Better |
-| God Father 3                                                     |            | Movie  | 1990      |  Better |
-| Knight and Day                                                   |            | Movie  | 2010      |  Better |
-| Vantage Point                                                    |            | Movie  | 2008      |  Better |
-| Lucy                                                             |            | Movie  | 2014      |    Good |
-| Mortal Engines                                                   |            | Movie  | 2018      |  Better |
-| Overdrive                                                        |            | Movie  | 2017      |  Better |
-| Captain Marvel                                                   |            | Movie  | 2019      |    Best |
-| War Machine                                                      |            | Movie  |           |  Better |
-| Need For Speed                                                   |            | Movie  |           |    Good |
-| Replicas                                                         |            | Movie  | 2018      |  Better |
-| RoboCop                                                          |            | Movie  | 2014      |  Better |
-| The Adventurers                                                  |            | Movie  |           |  Better |
-| Triple Frontier                                                  |            | Movie  | 2019      |    Best |
-| Elektra                                                          |            | Movie  |           |    Good |
-| The Adjustment Bureau                                            |            | Movie  |           |  Better |
-| Race to Witch mountain                                           |            | Movie  |           |    Good |
-| Flash Point                                                      |            | Movie  |           |  Better |
-| The Raid: Redemption                                             |            | Movie  | 2011      |    Best |
-| The Raid 2                                                       |            | Movie  |           |    Best |
-| Paddington                                                       |            | Movie  | 2014      |  Better |
-| Paddington 2                                                     |            | Movie  | 2017      |  Better |
-| Pans Labyrinth                                                   |            | Movie  |           |     Bad |
-| Glass                                                            |            | Movie  | 2019      |  Better |
-| Super 8 IDK                                                      |            | Movie  | 2011      |  Better |
-| The Hunger Games 1                                               |            | Movie  |           |  Better |
-| Upgrade                                                          |            | Movie  | 2018      |    Best |
-| Escape Plan 1                                                    |            | Movie  |           |    Best |
-| War of the Worlds                                                |            | Movie  |           |  Better |
-| Seventh Son                                                      |            | Movie  |           |    Good |
-| The Legend of Tarzan                                             |            | Movie  |           |    Good |
-| The World's End                                                  |            | Movie  |           |    Good |
-| I Am Legend                                                      |            | Movie  | 2007      |  Better |
-| Ben-Hur                                                          |            | Movie  | 2016      |    Good |
-| Fury                                                             |            | Movie  | 2014      |  Better |
-| This Means War                                                   |            | Movie  | 2012      |    Good |
-| Dont Breathe                                                     |            | Movie  | 2016      |    Good |
-| Legend of the Fist: The Return of Chen Zhen                      |            | Movie  |           |  Better |
-| Criminal                                                         |            | Movie  | 2016      |  Better |
-| Insidious 1                                                      |            | Movie  | 2010      |     Bad |
-| Insidious 2                                                      |            | Movie  | 2013      |     Bad |
-| Insidious 3                                                      |            | Movie  | 2015      |     Bad |
-| Independence Day 1                                               |            | Movie  | 1996      |  Better |
-| Independence Day 2                                               |            | Movie  | 2016      |  Better |
-| Oz the Great and Powerful                                        |            | Movie  | 2013      |    Good |
-| Shazam!                                                          |            | Movie  | 2019      |    Best |
-| Shazam Fury of the Gods                                          |            | Movie  | 2023      |  Better |
-| Dragon Blade                                                     |            | Movie  | 2015      |    Good |
-| Pokemon Detective Pikachu                                        |            | Movie  |           |  Better |
-| Alita Battle Angel                                               |            | Movie  | 2019      |  Better |
-| The Target                                                       |            | Movie  | 2014      |  Better |
-| The Adventures of Tintin                                         |            | Movie  | 2011      |  Better |
-| The Shawshank Redemption 1994                                    |            | Movie  |           |    Best |
-| Dumbo                                                            |            | Movie  | 2019      |  Better |
-| Sucker Punch                                                     |            | Movie  | 2011      |     Bad |
-| Shaft                                                            |            | Movie  | 2019      |  Better |
-| Kung Fu Jungle                                                   |            | Movie  | 2014      |  Better |
-| The Other Guys                                                   |            | Movie  | 2010      |    Good |
-| Scorping king                                                    |            | Movie  | 2002      |    Good |
-| Doom                                                             |            | Movie  | 2005      |    Good |
-| Walking Tall                                                     |            | Movie  | 2004      |  Better |
-| Paul                                                             |            | Movie  | 2011      |     Bad |
-| Shaun of the Dead                                                |            | Movie  |           |    Good |
-| The Bourne Identity 1                                            |            | Movie  | 2002      |    Best |
-| The Bourne Supremacy 2                                           |            | Movie  | 2004      |    Best |
-| The Bourne Ultimatum 3                                           |            | Movie  | 2007      |    Best |
-| The Bourne Legacy 4                                              |            | Movie  | 2012      |    Best |
-| Jason Bourne 5                                                   |            | Movie  | 2016      |    Best |
-| Whiplash                                                         |            | Movie  |           |  Better |
-| National Treasure 1                                              |            | Movie  | 2004      |  Better |
-| National Treasure 2                                              |            | Movie  | 2007      |  Better |
-| Shock Wave                                                       |            | Movie  | 2017      |  Better |
-| Life                                                             |            | Movie  | 2017      |  Better |
-| Aladdin                                                          |            | Movie  | 2019      |  Better |
-| Godzilla                                                         |            | Movie  | 2014      |    Good |
-| Kong: Skull Island                                               |            | Movie  | 2017      |  Better |
-| Godzilla: King of the Monsters                                   |            | Movie  | 2019      |  Better |
-| Godzilla vs. Kong                                                |            | Movie  | 2021      |    Good |
-| Godzilla Minus One                                               |            | Movie  | 2023      |  Better |
-| Godzilla x Kong: The New Empire                                  |            | Movie  | 2024      |    Good |
-| Space Jam: A New Legacy                                          |            | Movie  | 2021      |    Good |
-| The Red Sea Diving Resort                                        |            | Movie  | 2019      |    Good |
-| Phone Booth                                                      |            | Movie  | 2002      |  Better |
-| zodiac                                                           |            | Movie  | 2007      |    Good |
-| The 5th Wave                                                     |            | Movie  | 2016      |  Better |
-| The Book Of Henry                                                |            | Movie  | 2017      |  Better |
-| Gangs of New York                                                |            | Movie  | 2002      |  Better |
-| American Made                                                    | America    | Movie  | 2017      |  Better |
-| curse of the golden flower                                       |            | Movie  | 2006      |  Better |
-| Up in the Air                                                    |            | Movie  | 2009      |  Better |
-| Bad Kids of Crestview Academy                                    |            | Movie  | 2017      |    Good |
-| The Departed                                                     |            | Movie  | 2006      |    Best |
-| Super 30                                                         | India      | Movie  | 2019      |    Best |
-| Django Unchained                                                 |            | Movie  | 2012      |  Better |
-| Sector 7                                                         |            | Movie  |           |  Better |
-| The Covenant                                                     |            | Movie  | 2006      |    Good |
-| Viy 2: Journey to China                                          |            | Movie  | 2019      |    Good |
-| Sicario                                                          |            | Movie  | 2015      |    Good |
-| Gemini Man                                                       | America    | Movie  | 2019      |  Better |
-| Sex Education Season 1                                           | America    | Series |           |    Good |
-| Sex Education Season 2                                           | America    | Series |           |    Good |
-| Inglourious Basterds                                             |            | Movie  | 2009      |     IDK |
-| Behind enemy lines                                               |            | Movie  | 2001      |  Better |
-| Kung Fu Dunk                                                     |            | Movie  | 2008      |    Good |
-| Zombieland                                                       |            | Movie  | 2009      |  Better |
-| Master Z: The Ip Man Legacy                                      |            | Movie  | 2018      |  Better |
-| The Witch Part 1-The Subversion                                  |            | Movie  | 2018      |    Good |
-| The King                                                         |            | Movie  | 2019      |  Better |
-| Allegiant                                                        |            | Movie  | 2016      |  Better |
-| The Irishman                                                     |            | Movie  | 2019      |     IDK |
-| Deepwater Horizon                                                |            | Movie  | 2016      |  Better |
-| Daybreakers                                                      |            | Movie  | 2010      |    Good |
-| Ford v Ferrari                                                   |            | Movie  | 2019      |    Best |
-| Entrapment                                                       |            | Movie  | 1999      |  Better |
-| Baby Driver                                                      |            | Movie  | 2017      |  Better |
-| Scent of a Woman                                                 |            | Movie  | 1992      |  Better |
-| The Spy Who Dumped Me                                            |            | Movie  | 2018      |    Good |
-| Code 8                                                           |            | Movie  | 2019      |  Better |
-| First Kill                                                       |            | Movie  | 2017      |    Good |
-| Star Wars The Rise of Skywalker                                  |            | Movie  | 2019      |  Better |
-| The Courier                                                      |            | Movie  | 2020      |    Good |
-| Sonic The Hedgehog                                               |            | Movie  | 2020      |  Better |
-| Sonic the Hedgehog 2                                             |            | Movie  | 2022      |  Better |
-| Altered Carbon Resleeved                                         |            | Movie  | 2020      |  Better |
-| CJ7                                                              |            | Movie  | 2008      |    Good |
-| Jumanji: Welcome to the Jungle                                   |            | Movie  | 2017      |    Best |
-| Jumanji: The Next Level                                          |            | Movie  | 2019      |    Best |
-| The Nutcracker and the Four Realms                               |            | Movie  | 2018      |  Better |
-| Zombieland                                                       |            | Movie  | 2019      |  Better |
-| T-34                                                             |            | Movie  | 2019      |  Better |
-| The Kid Detective                                                |            | Movie  | 2020      |    Good |
-| Birds of Prey                                                    |            | Movie  | 2020      |    Good |
-| The Invisible Man                                                |            | Movie  | 2020      |  Better |
-| The Terminal                                                     |            | Movie  | 2004      |    Best |
-| Bloodshot                                                        |            | Movie  | 2020      |    Best |
-| Bad Boys for Life                                                | America    | Movie  | 2020      |    Best |
-| Bad Boys: Ride or Die                                            | America    | Movie  | 2024      |  Better |
-| The Darjeeling Limited                                           |            | Movie  | 2007      |   (Bad) |
-| Dolittle                                                         |            | Movie  | 2020      |  Better |
-| Parasite                                                         |            | Movie  | 2019      |    Best |
-| 12 Monkeys                                                       |            | Movie  | 1995      |  Better |
-| Attack on Titan 1                                                |            | Movie  | 2015      |    Good |
-| Attack on Titan 2                                                |            | Movie  | 2015      |    Good |
-| Malena                                                           |            | Movie  | 2000      |     IDK |
-| Dragon Tiger Gate                                                |            | Movie  | 2006      |     Bad |
-| Gerald's Game                                                    |            | Movie  | 2017      |     IDK |
-| 24 Hours to Live                                                 |            | Movie  | 2017      |    Good |
-| Vikings Season 1                                                 | America    | Series |           |  Better |
-| Vikings Season 2                                                 | America    | Series |           |  Better |
-| Vikings Season 3                                                 | America    | Series |           |  Better |
-| Vikings Season 4                                                 | America    | Series |           |  Better |
-| Vikings Season 5                                                 | America    | Series |           |  Better |
-| Vikings Season 6                                                 | America    | Series |           |  Better |
-| You Season 1                                                     | America    | Series |           |  Better |
-| You Season 2                                                     | America    | Series |           |  Better |
-| You Season 3                                                     | America    | Series |           |  Better |
-| Snowpiercer                                                      |            | Movie  | 2013      |  Better |
-| The Founder                                                      |            | Movie  | 2016      |    Best |
-| Snowden                                                          |            | Movie  | 2016      |    Best |
-| Extraction                                                       |            | Movie  | 2020      |    Good |
-| Game of Thrones                                                  |            | Series |           |  Better |
-| Stranger Things                                                  |            | Series |           |    Best |
-| The Witcher                                                      |            | Series |           |  Better |
-| Lost in Space                                                    |            | Series |           |    Best |
-| Sherlock                                                         |            | Series |           |  Better |
-| Money Heist                                                      |            | Series |           |    Best |
-| Mr. Robot                                                        |            | Series |           |     Bad |
-| Star Trek: Picard                                                |            | Series | 2020      |  Better |
-| Upload Season 1                                                  |            | Series | 2020      |    Good |
-| Upload Season 2                                                  |            | Series |           |    Good |
-| Unleashed                                                        |            | Movie  | 2005      |  Better |
-| 6 Underground                                                    |            | Movie  | 2019      |  Better |
-| Who am I                                                         |            | Movie  | 2014      |    Best |
-| Ip Man 4 final                                                   |            | Movie  | 2019      |    Best |
-| Jack Hunter And The Lost Treasure Of Ugarit                      |            | Movie  |           |    Good |
-| Jack Hunter: The Quest for Akhenaten's tomb                      |            | Movie  |           |    Good |
-| Jack Hunter And The Star Of Heaven                               |            | Movie  |           |    Good |
-| Peter Rabbit                                                     |            | Movie  | 2018      |  Better |
-| Peter Rabbit 2                                                   |            | Movie  | 2021      |    Good |
-| Home Alone 1                                                     |            | Movie  | 1990      |    Best |
-| Home Alone 2: Lost in New York                                   |            | Movie  | 1992      |    Best |
-| The Bank Job                                                     |            | Movie  | 2008      | Betters |
-| Chaos                                                            |            | Movie  | 2005      |  Better |
-| Ad Astra                                                         |            | Movie  | 2019      |     IDK |
-| The Tourist                                                      |            | Movie  | 2010      |    Good |
-| Predator                                                         |            | Movie  | 1987      |  Better |
-| Steve Jobs                                                       |            | Movie  | 2015      |     IDK |
-| Master                                                           |            | Movie  | 2016      |    Best |
-| Dark Shadows                                                     |            | Movie  | 2012      |    Good |
-| Once Upon a Time in Hollywood                                    |            | Movie  | 2019      |    Good |
-| Golden Slumber                                                   |            | Movie  | 2018      |  Better |
-| The Old Guard                                                    |            | Movie  | 2020      |     IDK |
-| The Manchurian Candidate                                         |            | Movie  | 2004      |  Better |
-| The Untouchables                                                 |            | Movie  | 1987      |  Better |
-| Brian Banks                                                      |            | Movie  | 2018      |  Better |
-| Hotel Rwanda                                                     |            | Movie  | 2004      |  Better |
-| The Man from U.N.C.L.E                                           |            | Movie  | 2015      |    Good |
-| Suck Me Shakespeer                                               |            | Movie  | 2013      |  Better |
-| Suck Me Shakespeer 2                                             |            | Movie  | 2015      |    Good |
-| Suck Me Shakespeer 3                                             |            | Movie  | 2017      |    Good |
-| Minority Report                                                  |            | Movie  | 2002      |     IDK |
-| The Boys Season 1                                                | America    | Series | 2019      |    Best |
-| The Boys Season 2                                                | America    | Series | 2020      |    Best |
-| The Boys Season 3                                                | America    | Series | 2022      |    Best |
-| The Boys Season 4                                                | America    | Series | 2024      |    Best |
-| Train to Busan                                                   | Korea      | Movie  | 2016      |    Best |
-| The Lost City of Z                                               | America    | Movie  | 2016      |    Good |
-| Rough Cut                                                        | Korea      | Movie  | 2008      |     Bad |
-| Peninsula                                                        |            | Movie  | 2020      |  Better |
-| Don’t Breathe                                                    |            | Movie  | 2016      |     Bad |
-| Hero                                                             |            | Movie  | 2002      |    Good |
-| Enola Holmes                                                     | America    | Movie  | 2020      |    Good |
-| Enola Holmes 2                                                   | America    | Movie  | 2022      |    Good |
-| Kicking & Screaming                                              |            | Movie  | 2005      |  Better |
-| Gringo                                                           |            | Movie  | 2018      |  Better |
-| World Trade Center                                               |            | Movie  | 2006      |     Bad |
-| The New Mutants                                                  |            | Movie  | 2020      |     Bad |
-| Angel Has Fallen                                                 |            | Movie  | 2020      |    Good |
-| The SpongeBob Movie: Sponge on the Run                           |            | Movie  | 2020      |    Good |
-| Kill Bill Vol 1                                                  |            | Movie  | 2003      |    Good |
-| Kill Bill Vol 2                                                  |            | Movie  | 2004      |    Good |
-| First Man                                                        |            | Movie  | 2018      |  Better |
-| Tenet                                                            |            | Movie  | 2020      |  Better |
-| Double World                                                     |            | Movie  | 2019      |    Good |
-| Current War                                                      |            | Movie  | 2017      |    Good |
-| Tom & Jerry: The Movie                                           |            | Movie  | 2021      |    Good |
-| WandaVision                                                      |            | Series |           |  Better |
-| The Falcon and The Winter Soldier                                |            | Series |           |  Better |
-| Loki                                                             |            | Series |           |  Better |
-| What If...? Season 1                                             |            | Series |           |  Better |
-| Ms. Marvel Season 1                                              |            | Series |           |    Good |
-| Hawkeye Season 1                                                 |            | Series |           |    Good |
-| Shang-Chi and the Legend of the Ten Rings                        |            | Movie  | 2021      |    Best |
-| Spider Man No Way Home                                           |            | Movie  | 2021      |    Best |
-| Eternals                                                         |            | Movie  | 2021      |    Good |
-| Nobody                                                           |            | Movie  | 2021      |  Better |
-| Mortal Kombat                                                    |            | Movie  | 2021      |  Better |
-| Shadow and Bone Season 1                                         |            | Series |           |    Good |
-| 21 Jump Street                                                   |            | Movie  | 2012      |    Good |
-| 22 Jump Street                                                   |            | Movie  | 2014      |    Good |
-| Love Will Tear Us Apart                                          |            | Movie  | 2013      |    Good |
-| The Conjuring The Devil Made Me Do It                            |            | Movie  | 2021      |    Good |
-| Black Widow                                                      |            | Movie  | 2021      |    Good |
-| Jungle Cruise                                                    |            | Movie  | 2021      |  Better |
-| The Tomorrow War                                                 |            | Movie  | 2021      |  Better |
-| Hitman's Wife's Bodyguard                                        |            | Movie  | 2021      |     Bad |
-| Free Guy                                                         |            | Movie  | 2021      |    Best |
-| G.I. Joe - Snake Eyes                                            |            | Movie  | 2021      |  Better |
-| The Mandalorian Season 1                                         |            | Series |           |    Good |
-| The Umbrella Academy Season 1                                    |            | Series |           |    Good |
-| The Umbrella Academy Season 2                                    |            | Series |           |    Good |
-| The Umbrella Academy Season 3                                    |            | Series |           |    Good |
-| The Umbrella Academy Season 4                                    |            | Series |           |    Good |
-| Searching                                                        |            | Movie  | 2018      |    Good |
-| Cruella                                                          |            | Movie  | 2021      |  Better |
-| Wrath of Man                                                     |            | Movie  | 2021      |  Better |
-| The Adam Project                                                 |            | Movie  | 2022      |    Good |
-| The Batman                                                       |            | Movie  | 2022      |  Better |
-| Uncharted                                                        |            | Movie  | 2022      |    Best |
-| Kannum Kannum Kollaiyadithaal                                    | India      | Movie  | 2020      |  Better |
-| Toofaan                                                          | India      | Movie  | 2021      |    Good |
-| Hi Nanna                                                         | India      | Movie  | 2023      |  Better |
-| Bhakshak                                                         | India      | Movie  | 2024      |  Better |
-| Rekhachithram                                                    | India      | Movie  | 2025      |    Best |
-| Kaathuvaakula Rendu Kaadhal                                      | India      | Movie  | 2022      |    Good |
-| The Family Star                                                  | India      | Movie  | 2024      |    Good |
-| Dil Bechara                                                      | India      | Movie  | 2020      |  Better |
-| Premalu                                                          | India      | Movie  | 2024      |  Better |
-| Madgaon Express                                                  | India      | Movie  | 2024      |    Good |
-| Lucky Baskhar                                                    | India      | Movie  | 2024      |  Better |
-| Aavesham                                                         | India      | Movie  | 2024      |  Better |
-| Premam                                                           | India      | Movie  | 2016      |    Good |
-| Vikram                                                           | India      | Movie  | 2022      |    Best |
-| K.G.F: Chapter 1                                                 | India      | Movie  | 2018      |  Better |
-| K.G.F: Chapter 2                                                 | India      | Movie  | 2022      |  Better |
-| Sacred Game Season 1                                             | India      | Movie  | 2018      |  Better |
-| Sacred Game Season 2                                             | India      | Movie  |           |  Better |
-| Solo                                                             | India      | Movie  | 2017      |  Better |
-| Mirzapur Season 1                                                | India      | Series |           |    Best |
-| Mirzapur Season 2                                                | India      | Series |           |    Best |
-| Mirzapur Season 3                                                | India      | Series |           |    Best |
-| Panchayat Season 1                                               | India      | Series |           |    Best |
-| Panchayat Season 2                                               | India      | Series |           |    Best |
-| Panchayat Season 3                                               | India      | Series |           |    Best |
-| Sandman Season 1                                                 |            | Series |           |  Better |
-| Hit the First Case                                               | India      | Movie  | 2022      |    Best |
-| Vikram Vedha                                                     | India      | Movie  | 2017      |    Best |
-| The Man Who Sold His Skin                                        |            | Movie  | 2020      |     IDK |
-| Werewolf by Night                                                |            | Movie  | 2022      |    Good |
-| House of the Dragon Season 1                                     |            | Series |           |    Best |
-| House of the Dragon Season 2                                     |            | Series |           |    Best |
-| Peaky Blinders                                                   | America    | Series |           |    Best |
-| Black Panther: Wakanda Forever                                   | America    | Movie  | 2022      |    Good |
-| Bullet Train                                                     | America    | Movie  | 2022      |  Better |
-| The Outlaws                                                      | Korea      | Movie  | 2017      |    Good |
-| The Roundup                                                      | Korea      | Movie  | 2022      |    Good |
-| Squid Game                                                       | Korea      | Series | 2021      |  Better |
-| Black Adam                                                       | America    | Movie  | 2022      |    Good |
-| Doctor G                                                         |            | Movie  | 2022      |  Better |
-| Etharkkum Thunindhavan                                           | India      | Movie  | 2022      |    Good |
-| Bheemla Nayak                                                    | India      | Movie  | 2022      |    Good |
-| Thunivu                                                          |            | Movie  | 2023      |    Good |
-| Ghosted                                                          | America    | Movie  | 2023      |    Good |
-| Sisu                                                             |            | Movie  | 2023      |    Best |
-| BlackBerry                                                       | America    | Movie  | 2023      |    Good |
-| Rebel Moon                                                       | America    | Movie  | 2023      |    Good |
-| Rebel Moon – Part Two: The Scargiver                             | America    | Movie  | 2024      |    Good |
-| Ponniyin Selvan                                                  | India      | Movie  | 2022      |    Good |
-| Ponniyin Selvan 2                                                | India      | Movie  | 2023      |    Good |
-| Sirf Ek Bandaa Kaafi Hai                                         | India      | Movie  | 2023      |  Better |
-| Petta                                                            | India      | Movie  | 2019      |  Better |
-| Jailer                                                           | India      | Movie  | 2023      |  Better |
-| Jawan                                                            | India      | Movie  | 2023      |  Better |
-| Blue Beetle                                                      | America    | Movie  | 2023      |  Better |
-| The Creator                                                      |            | Movie  | 2023      |  Better |
-| Farzi Season 1                                                   | India      | Series |           |  Better |
-| Guns & Gulaabs Season 1                                          | India      | Series |           |  Better |
-| Kurup                                                            | India      | Movie  | 2021      |  Better |
-| Dhamaka                                                          | India      | Movie  | 2021      |    Good |
-| Harold and the Purple Crayon                                     | America    | Movie  | 2024      |     Bad |
-| The Fall Guy                                                     | America    | Movie  | 2024      |    Good |
-| Manjummel Boys                                                   | India      | Movie  | 2024      |    Best |
-| Maharaja                                                         | India      | Movie  | 2024      |    Best |
-| Shaitaan                                                         | India      | Movie  | 2024      |    Good |
-| Rise of the Planet of the Apes                                   | America    | Movie  | 2011      |  Better |
-| War of the Planet of the Apes                                    | America    | Movie  | 2017      |  Better |
-| Kingdom of the Planet of the Apes                                | America    | Movie  | 2024      |  Better |
-| (Animation) Ultraman Rising                                      | Japan      |        | 2024      |  Better |
-| (Animation) Lightyear                                            | America    |        | 2022      |    Good |
-| (Animation) Minions: The Rise of Gru                             | America    |        | 2022      |  Better |
-| (Animation) Luca                                                 | America    |        | 2021      |    Good |
-| (Animation) The Boss Baby                                        | America    |        | 2017      |  Better |
-| (Animation) Puss in Boots                                        | America    |        | 2011      |  Better |
-| (Animation) Puss in Boots: The Last Wish                         | America    |        | 2022      |  Better |
-| (Animation) Spider-Man: Into the Spider-Verse                    | America    |        | 2018      |  Better |
-| (Animation) Spider Man Across the Spider Verse                   | America    |        | 2023      |    Best |
-| (Animation) Soul                                                 | America    |        | 2020      |  Better |
-| (Anime) A Whisker Away                                           | Japan      |        | 2020      |    Good |
-| (Anime) Lupin the Third: Goemon's Blood Spray                    | Japan      |        | 2017      |    Best |
-| (Anime) Weathering with You                                      | Japan      |        | 2019      |    Best |
-| (Anime) Your Name                                                | Japan      |        | 2016      |    Best |
-| (Anime) A Silent Voice                                           | Japan      |        | 2016      |  Better |
-| (Anime) The Garden of Words                                      | Japan      |        | 2013      |  Better |
-| (Anime) Spirited Away                                            | Japan      |        | 2001      |    Best |
-| (Anime) Children Who Chase Lost Voices                           | Japan      |        | 2011      |  Better |
-| (Anime) 5 Centimeters per Second                                 | Japan      |        | 2007      |  Better |
-| (Anime) Ponyo                                                    | Japan      |        | 2008      |    Best |
-| (Anime) Howl's Moving Castle                                     | Japan      |        | 2004      |    Best |
-| (Anime) My Neighbor Totoro                                       | Japan      |        | 1988      |    Best |
-| (Anime) Princess Mononoke                                        | Japan      |        | 1997      |  Better |
-| (Anime) Kiki's Delivery Service                                  | Japan      |        | 1989      |  Better |
-| (Anime) The Wind Rises                                           | Japan      |        | 2013      |  Better |
-| (Anime) Castle in the Sky                                        | Japan      |        | 1986      |    Best |
-| (Anime) The Secret World of Arrietty                             | Japan      |        | 2010      |    Best |
-| (Anime) Whisper of the Heart                                     | Japan      |        | 1995      |  Better |
-| (Anime) The Cat Returns                                          | Japan      |        | 2002      |    Good |
-| (Anime) The Girl Who Leapt Through Time                          | Japan      |        | 2006      |  Better |
-| (Anime) Wolf Children                                            | Japan      |        | 2012      |  Better |
-| (Anime) When Marnie Was There                                    | Japan      |        | 2014      |    Best |
-| (Anime) Death Note                                               | Japan      |        | 2006      |    Best |
-| (Anime) Into the Forest of Fireflies' Light                      | Japan      |        | 2011      |    Best |
-| (Anime) Aura: Koga Maryuin's Last War                            | Japan      |        | 2008      |  Better |
-| (Anime) The Disappearance of Haruhi Suzumiya                     | Japan      |        | 2010      |    Best |
-| (Anime) Taifuu no Noruda                                         | Japan      |        | 2015      |  Better |
-| (Anime) Psychic School Wars                                      | Japan      |        | 2012      |    Good |
-| (Anime) Tamako Love Story                                        | Japan      |        | 2014      |  Better |
-| (Anime) Summer Wars                                              | Japan      |        | 2009      |    Best |
-| (Anime) Hello world                                              | Japan      |        | 2019      |  Better |
-| (Anime) Fireworks                                                | Japan      |        | 2017      |  Better |
-| (Anime) Colorful                                                 | Japan      |        | 2010      |    Good |
-| (Anime) From Up on Poppy Hill                                    | Japan      |        | 2011      |    Best |
-| (Anime) Final Fantasy VII: Advent Children                       | Japan      |        | 2005      |    Good |
-| (Anime) Naruto the Movie: Ninja Clash in the Land of Snow        | Japan      |        | 2004      |  Better |
-| (Anime) Naruto the Movie: Legend of the Stone of Gelel           | Japan      |        | 2005      |    Good |
-| (Anime) Naruto the Movie: Guardians of the Crescent Moon Kingdom | Japan      |        | 2006 Good |     IDK |
-| (Anime) Naruto the Movie: Shippuden                              | Japan      |        | 2007      |  Better |
-| (Anime) Naruto the Movie: Shippuden: Bonds                       | Japan      |        | 2008      |  Better |
-| (Anime) Naruto the Movie: Shippuden: The Will of Fire            | Japan      |        | 2009      |  Better |
-| (Anime) Naruto the Movie: Shippuden: The Lost Tower              | Japan      |        | 2010      |  Better |
-| (Anime) Naruto the Movie: Shippuden: Blood Prison                | Japan      |        | 2011      |  Better |
-| (Anime) Naruto the Movie: Shippuden: Road to Ninja               | Japan      |        | 2012      |  Better |
-| (Anime) Naruto the Movie: Shippuden: The Last                    | Japan      |        | 2013      |  Better |
-| (Anime) Boruto: The Naruto Movie                                 | Japan      |        | 2015      |  Better |
-| (Anime) Mary and the Witch's Flower                              | Japan      |        | 2017      |    Best |
-| (Anime) Sword of the Stranger                                    | Japan      |        | 2007      |  Better |
-| (Anime) Berserk Golden Age Arc I: Egg of the Supreme Ruler       | Japan      |        | 2012      |  Better |
-| (Anime) Berserk: The Golden Age Arc II - The Battle for Doldrey  | Japan      |        | 2012      |  Better |
-| (Anime) Berserk: The Advent                                      | Japan      |        | 2013      |     IDK |
-| (Anime) Origin- Spirits of the Past                              | Japan      |        | 2006      |  Better |
-| (Anime) Demon Slayer: Mugen Train                                | Japan      |        | 2020      |  Better |
-| (Anime) Dr. Stone: Ryuusui                                       | Japan      |        | 2022      |    Best |
-| (Anime) Golden Boy                                               | Japan      |        | 1995      |    Best |
-| (Anime) One Piece 3D: Mugiwara cheisu                            | Japan      |        | 2011      |  Better |
-| (Anime) One Piece: Stampede                                      | Japan      |        | 2019      |    Best |
-| (Anime) One Piece Film: Z                                        | Japan      |        | 2012      |    Best |
-| (Anime) One Piece Film: Gold                                     | Japan      |        | 2016      |    Best |
-| (Anime) Sword Art Online: Ordinal Scale                          | Japan      |        | 2017      |    Best |
-| (Anime) The Boy and the Beast                                    | Japan      |        | 2015      |    Best |
-| (Anime) Stand By Me Doraemon 2                                   | Japan      |        | 2020      |    Good |
-| (Anime) Justice League: The Flashpoint Paradox                   | Japan      |        | 2013      |  Better |
-| (Anime) Monsters: 103 Mercies Dragon Damnation OVA               | Japan      |        |           |  Better |
-| (Anime) The Boy and the Heron                                    | Japan      |        | 2023      |  Better |
-| (Anime) God Of Highschool                                        | Japan      | Series |           |    Good |
-| (Anime) Avatar the Last Airbender                                | Japan      | Series |           |  Better |
-| (Anime) Dragon Ball Z                                            | Japan      | Series |           |    Good |
-| (Anime) Dragon Ball Super                                        | Japan      | Series |           |    Good |
-| (Anime) Dragon Ball Super: Broly                                 | Japan      |        | 2018      |    Good |
-| (Anime) Dragon Ball DAIMA                                        | Japan      | Series |           |  Better |
-| (Anime) Naruto                                                   | Japan      | Series |           |  Better |
-| (Anime) Naruto Shippuden                                         | Japan      | Series |           |  Better |
-| (Anime) Demon Slayer                                             | Japan      | Series |           |  Better |
-| (Anime) Dr. Stone                                                | Japan      | Series |           |    Best |
-| (Anime) Parasyte                                                 | Japan      | Series |           |  Better |
-| (Anime) Prison School                                            | Japan      | Series | 2015      |    Good |
-| (Anime) Hunter X Hunter                                          | Japan      | Series |           |  Better |
-| (Anime) One Piece                                                | Japan      | Series |           |    Best |
-| (Anime) My Hero Academia                                         | Japan      | Series |           |  Better |
-| (Anime) One Punch Man                                            | Japan      | Series |           |    Best |
-| (Anime) Scum's Wish                                              | Japan      | Series |           |    Good |
-| (Anime) Rent a Girlfriend                                        | Japan      | Series |           |  Better |
-| (Anime) School Babysitter                                        | Japan      | Series |           |  Better |
-| (Anime) Angel Densetsu                                           | Japan      | Series |           |    Good |
-| (Anime) Black Clover                                             | Japan      | Series |           |  Better |
-| (Anime) Tokyo Ghoul                                              | Japan      | Series |           |  Better |
-| (Anime) Tokyo Ghoul √A                                           | Japan      | Series |           |    Good |
-| (Anime) Tokyo Ghoul re                                           | Japan      | Series |           |    Good |
-| (Anime) Tokyo Ghoul re 2nd season                                | Japan      | Series |           |    Good |
-| (Anime) Darling In The Franxx                                    | Japan      | Series |           |    Best |
-| (Anime) Sword Art Online I                                       | Japan      | Series |           |  Better |
-| (Anime) Sword Art Online II                                      | Japan      | Series |           |  Better |
-| (Anime) Uzaki-chan Wants to Hang Out!                            | Japan      | Series |           |    Good |
-| (Anime) Jujutsu Kaisen                                           | Japan      | Series |           |  Better |
-| (Anime) Jobless Reincarnation                                    | Japan      | Series |           |  Better |
-| (Anime) Attack on Titan                                          | Japan      | Series |           |  Better |
-| (Anime) Gleipnir                                                 | Japan      | Series |           |  Better |
-| (Anime) Classroom of the Elite                                   | Japan      | Series |           |  Better |
-| (Anime) Tokyo Revengers                                          | Japan      | Series |           |  Better |
-| (Anime) The Rising of the Shield Hero                            | Japan      | Series |           |  Better |
-| (Anime) Fairy Tail                                               | Japan      | Series |           |    Best |
-| (Anime) Spy x Family                                             | Japan      | Series |           |  Better |
-| (Anime) Bleach                                                   | Japan      | Series |           |  Better |
-| (Anime) Another                                                  | Japan      | Series |           |    Good |
-| (Anime) Chainsaw Man                                             | Japan      | Series |           |  Better |
-| (Anime) Inuyasha                                                 | Japan      | Series |           |  Better |
-| (Anime) Solo Leveling                                            | Japan      | Series |           |    Best |
-| (Anime) Kaiju No. 8                                              | Japan      | Series |           |  Better |
-| (Anime) Steins;Gate                                              | Japan      | Series |           |  Better |
-| (Anime) Steins;Gate 0                                            | Japan      | Series |           |  Better |
-| (Anime) Ninja Kamui                                              | Japan      | Series |           |  Better |
-| (Anime) Oshi no Ko                                               | Japan      | Series |           |    Good |
-| (Anime) Future Diary                                             | Japan      | Series |           |  Better |
-| (Anime) Vinland Saga                                             | Japan      | Series |           |  Better |
-| (Anime) Monster                                                  | Japan      | Series |           |  Better |
-| (Anime) The Promised Neverland                                   | Japan      | Series |           |  Better |
-| (Anime) Dandadan                                                 | Japan      | Series |           |  Better |
-| (Anime) That Time I Got Reincarnated as a Slime (Season 1)       | Japan      | Series |           |  Better |
-| (Anime) Mashle: Magic and Muscles                                | Japan      | Series |           |  Better |
-| (Anime) Sakamoto Days                                            | Japan      | Series |           |  Better |
-| (Anime) One Piece Fan Letter                                     | Japan      | Series |           |    Best |
+| title                                                          | origin                         | filmType    | filmType | year      |  review |
+| :------------------------------------------------------------- | ------------------------------ | ----------- | -------- | --------- | ------: |
+| Salute                                                         | India                          | Live Action | Solo     | 2022      |  Better |
+| Punorjonmo 1                                                   | Bangladesh                     | Live Action | Solo     |           |    Best |
+| Punorjonmo 2                                                   | Bangladesh                     | Live Action | Solo     |           |    Best |
+| Punorjonmo 3                                                   | Bangladesh                     | Live Action | Solo     |           |    Best |
+| Networker Baire                                                | Bangladesh                     | Live Action | Solo     | 2021      |    Best |
+| Golam Mamun                                                    | Bangladesh                     | Live Action | Series   |           |    Best |
+| Syndicate                                                      | Bangladesh                     | Live Action | Series   |           |    Best |
+| Myself Allen Swapan                                            | Bangladesh                     | Live Action | Series   |           |    Best |
+| Kaiser                                                         | Bangladesh                     | Live Action | Series   |           |    Best |
+| Mohanagar                                                      | Bangladesh                     | Live Action | Series   |           |    Best |
+| Karagar                                                        | Bangladesh                     | Live Action | Series   |           |  Better |
+| Knives Out                                                     | USA (United States of America) | Live Action | Solo     | 2019      |  Better |
+| knives Out 2: Glass Onion                                      | USA (United States of America) | Live Action | Solo     | 2022      |  Better |
+| Seven                                                          |                                | Live Action | Solo     | 1995      |    Best |
+| Gran Torino                                                    | USA (United States of America) | Live Action | Solo     | 2008      |    Best |
+| Top Gun                                                        | USA (United States of America) | Live Action | Solo     | 1986      |    Best |
+| Top Gun Maverick                                               | USA (United States of America) | Live Action | Solo     | 2022      |    Best |
+| Casper                                                         |                                | Live Action | Solo     | 1995      |    Good |
+| Scott Pilgrim Vs The World                                     |                                | Live Action | Solo     | 2010      |     Bad |
+| 47 Ronin                                                       |                                | Live Action | Solo     | 2013      |  Better |
+| Rumble in the Bronx                                            |                                | Live Action | Solo     | 1995      |  Better |
+| Night at the Museum                                            | USA (United States of America) | Live Action | Solo     | 2006      |    Good |
+| Night at the Museum Battle of the Smithsonian                  | USA (United States of America) | Live Action | Solo     | 2009      |    Good |
+| Night at the Museum Secret of the Tomb                         | USA (United States of America) | Live Action | Solo     | 2014      |    Good |
+| Avatar                                                         |                                | Live Action | Solo     | 2009      |    Best |
+| Avatar: The Way of Water                                       |                                | Live Action | Solo     | 2022      |    Best |
+| The Equalizer                                                  | USA (United States of America) | Live Action | Solo     | 2014      |    Best |
+| The Equalizer 2                                                | USA (United States of America) | Live Action | Solo     | 2018      |    Best |
+| The Equalizer 3                                                | USA (United States of America) | Live Action | Solo     | 2023      |    Best |
+| Ted 1                                                          | USA (United States of America) | Live Action | Solo     |           |    Good |
+| Ted 2                                                          | USA (United States of America) | Live Action | Solo     |           |    Good |
+| Interstellar                                                   | USA (United States of America) | Live Action | Solo     | 2014      |    Best |
+| Iron man 1                                                     | USA (United States of America) | Live Action | Solo     | 2008      |    Best |
+| Iron man 2                                                     | USA (United States of America) | Live Action | Solo     | 2010      |    Best |
+| Iron man 3                                                     | USA (United States of America) | Live Action | Solo     | 2013      |    Best |
+| Homefront                                                      |                                | Live Action | Solo     | 2013      |    Good |
+| The Spy Undercover Operation                                   |                                | Live Action | Solo     | 2013      |    Good |
+| Men in Black 1                                                 | USA (United States of America) | Live Action | Solo     | 1997      |    Best |
+| Men in Black 2                                                 | USA (United States of America) | Live Action | Solo     | 2002      |    Best |
+| Men in Black 3                                                 | USA (United States of America) | Live Action | Solo     | 2012      |    Best |
+| Men in Black 4                                                 | USA (United States of America) | Live Action | Solo     | 2019      |  Better |
+| Thor                                                           | USA (United States of America) | Live Action | Solo     | 2011      |    Best |
+| Thor: The Dark World                                           | USA (United States of America) | Live Action | Solo     | 2013      |    Best |
+| Thor: Ragnarok                                                 | USA (United States of America) | Live Action | Solo     | 2017      |    Best |
+| The Avengers                                                   | USA (United States of America) | Live Action | Solo     | 2012      |    Best |
+| The Avengers: Age of Ultron                                    | USA (United States of America) | Live Action | Solo     | 2015      |    Best |
+| The Avengers: Infinity War                                     | USA (United States of America) | Live Action | Solo     | 2018      |    Best |
+| The Avengers: End Game                                         | USA (United States of America) | Live Action | Solo     | 2019      |    Best |
+| Hulk                                                           | USA (United States of America) | Live Action | Solo     |           |    Best |
+| Incredible Hulk                                                | USA (United States of America) | Live Action | Solo     |           |    Best |
+| Captain America: The First Avenger                             | USA (United States of America) | Live Action | Solo     | 2011      |    Best |
+| Captain America: The Winter Soldier                            | USA (United States of America) | Live Action | Solo     | 2014      |    Best |
+| Captain America: Civil War                                     | USA (United States of America) | Live Action | Solo     | 2016      |    Best |
+| Captain America: Brave New World                               | USA (United States of America) | Live Action | Solo     | 2025      |    Good |
+| Guardian of the galaxy                                         | USA (United States of America) | Live Action | Solo     | 2014      |    Best |
+| Guardian of the galaxy Vol. 2                                  | USA (United States of America) | Live Action | Solo     | 2017      |    Best |
+| Ant-Man                                                        | USA (United States of America) | Live Action | Solo     | 2015      |    Best |
+| Ant-Man and the Wasp                                           | USA (United States of America) | Live Action | Solo     | 2018      |    Best |
+| Doctor Strange                                                 | USA (United States of America) | Live Action | Solo     | 2016      |    Best |
+| Doctor Strange in the Multiverse of Madness                    | USA (United States of America) | Live Action | Solo     | 2022      |  Better |
+| Black Panther                                                  | USA (United States of America) | Live Action | Solo     |           |    Best |
+| Spider Man Homecoming                                          | USA (United States of America) | Live Action | Solo     |           |    Best |
+| Venom                                                          | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Venom: Let There Be Carnage                                    | USA (United States of America) | Live Action | Solo     | 2021      |  Better |
+| Operation Java                                                 | India                          | Live Action | Solo     | 2012      |  Better |
+| Argo                                                           | USA (United States of America) | Live Action | Solo     | 2012      |    Good |
+| Amazing Spider Man                                             | USA (United States of America) | Live Action | Solo     | 2012      |  Better |
+| Amazing Spider Man 2                                           | USA (United States of America) | Live Action | Solo     | 2014      |  Better |
+| Spider Man 1                                                   | USA (United States of America) | Live Action | Solo     | 2002      |  Better |
+| Spider Man 2                                                   | USA (United States of America) | Live Action | Solo     | 2004      |  Better |
+| Spider Man 3                                                   | USA (United States of America) | Live Action | Solo     | 2007      |  Better |
+| Hancock                                                        | USA (United States of America) | Live Action | Solo     |           |  Better |
+| I, Robot                                                       | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Chappie                                                        | USA (United States of America) | Live Action | Solo     |           |    Best |
+| Underworld                                                     | USA (United States of America) | Live Action | Solo     | 2003      |    Best |
+| Underworld: Evolution                                          | USA (United States of America) | Live Action | Solo     | 2006      |    Best |
+| Underworld: Rise of the Lycans                                 | USA (United States of America) | Live Action | Solo     | 2009      |    Best |
+| Underworld: Awakening                                          | USA (United States of America) | Live Action | Solo     | 2012      |    Best |
+| Underworld: Blood Wars                                         | USA (United States of America) | Live Action | Solo     | 2016      |    Good |
+| Harry Potter and the Philosopher's Stone                       | USA (United States of America) | Live Action | Solo     | 2001      |    Best |
+| Harry Potter and the Chamber of Secrets                        | USA (United States of America) | Live Action | Solo     | 2002      |    Best |
+| Harry Potter and the Prisoner of Azkaban                       | USA (United States of America) | Live Action | Solo     | 2004      |    Best |
+| Harry Potter and the Goblet of Fire                            | USA (United States of America) | Live Action | Solo     | 2005      |    Best |
+| Harry Potter and the Order of the Phoenix                      | USA (United States of America) | Live Action | Solo     | 2007      |    Best |
+| Harry Potter and the Half-Blood Prince                         | USA (United States of America) | Live Action | Solo     | 2009      |    Best |
+| Harry Potter and the Deathly Hallows - Part I                  | USA (United States of America) | Live Action | Solo     | 2010      |    Best |
+| Harry Potter and the Deathly Hallows - Part II                 | USA (United States of America) | Live Action | Solo     | 2011      |    Best |
+| Fantastic Beasts And Where To Find Them                        | USA (United States of America) | Live Action | Solo     | 2016      |  Better |
+| Fantastic Beasts: The Crimes of Grindelwald                    | USA (United States of America) | Live Action | Solo     | 2018      |  Better |
+| Fantastic Beasts: The Secrets of Dumbledore                    | USA (United States of America) | Live Action | Solo     | 2022      |  Better |
+| Morbius                                                        | USA (United States of America) | Live Action | Solo     | 2022      |    Good |
+| Aquaman                                                        | USA (United States of America) | Live Action | Solo     | 2018      |    Best |
+| Aquaman and the Lost Kingdom                                   | USA (United States of America) | Live Action | Solo     | 2023      |  Better |
+| The Shape of Water                                             |                                | Live Action | Solo     |           |    Good |
+| The Lord of the Rings: The Fellowship of the Ring              | USA (United States of America) | Live Action | Solo     | 2001      |    Best |
+| The Lord of the Rings: The Two Towers                          | USA (United States of America) | Live Action | Solo     | 2002      |    Best |
+| The Lord of the Rings: The Two Towers                          | USA (United States of America) | Live Action | Solo     | 2003      |    Best |
+| The Lord of the Rings: The Rings of Power                      | USA (United States of America) | Live Action | Series   |           |    Best |
+| The Hobbit: An Unexpected Journey                              | USA (United States of America) | Live Action | Solo     | 2012      |    Best |
+| The Hobbit: The Desolation of Smaug                            | USA (United States of America) | Live Action | Solo     | 2013      |    Best |
+| The Hobbit: The Battle of the Five Armies                      | USA (United States of America) | Live Action | Solo     | 2014      |    Best |
+| Stardust                                                       | USA (United States of America) | Live Action | Solo     |           |  Better |
+| The Wolf of Wall Street                                        | USA (United States of America) | Live Action | Solo     | 2013      |  Better |
+| The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | USA (United States of America) | Live Action | Solo     | 2005      |  Better |
+| The Chronicles of Narnia: Prince Caspian                       | USA (United States of America) | Live Action | Solo     | 2008      |  Better |
+| The Chronicles of Narnia: The Voyage of the Dawn Treader       | USA (United States of America) | Live Action | Solo     | 2010      |  Better |
+| Bridge to Terabithia                                           |                                | Live Action | Solo     |           |    Good |
+| Pirates of the Caribbean: The Curse of the Black Pearl         | USA (United States of America) | Live Action | Solo     | 2003      |    Best |
+| Pirates of the Caribbean: Dead Man's Chest                     | USA (United States of America) | Live Action | Solo     | 2006      |    Best |
+| Pirates of the Caribbean: At World's End                       | USA (United States of America) | Live Action | Solo     | 2007      |    Best |
+| Pirates of the Caribbean: On Stranger Tides                    | USA (United States of America) | Live Action | Solo     | 2011      |    Best |
+| Pirates of the Caribbean: Dead Men Tell No Tales               | USA (United States of America) | Live Action | Solo     | 2017      |    Best |
+| The Golden Compass                                             | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Warcraft                                                       | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Wonder Woman                                                   | USA (United States of America) | Live Action | Solo     | 2017      |    Best |
+| Wonder Woman 1984                                              | USA (United States of America) | Live Action | Solo     | 2020      |    Good |
+| Mission Impossible                                             | USA (United States of America) | Live Action | Solo     | 1996      |    Best |
+| Mission Impossible 2                                           | USA (United States of America) | Live Action | Solo     | 2000      |    Best |
+| Mission Impossible III                                         | USA (United States of America) | Live Action | Solo     | 2006      |    Best |
+| Mission Impossible - Ghost Protocol                            | USA (United States of America) | Live Action | Solo     | 2011      |    Best |
+| Mission Impossible – Rogue Nation                              | USA (United States of America) | Live Action | Solo     | 2015      |    Best |
+| Mission Impossible - Fallout                                   | USA (United States of America) | Live Action | Solo     | 2018      |    Best |
+| Mission: Impossible – Dead Reckoning Part One                  | USA (United States of America) | Live Action | Solo     | 2023      |    Best |
+| Deadpool                                                       | USA (United States of America) | Live Action | Solo     | 2016      |  Better |
+| Deadpool 2                                                     | USA (United States of America) | Live Action | Solo     | 2018      |  Better |
+| Deadpool & Wolverine                                           | USA (United States of America) | Live Action | Solo     | 2024      |  Better |
+| Rampage                                                        |                                | Live Action | Solo     |           |  Better |
+| The Meg                                                        |                                | Live Action | Solo     |           |  Better |
+| Ready Player One                                               |                                | Live Action | Solo     |           |    Best |
+| Justice League                                                 |                                | Live Action | Solo     |           |  Better |
+| Rogue One: A Star Wars Story                                   |                                | Live Action | Solo     | 2016      |  Better |
+| Solo: A star Wars Story                                        |                                | Live Action | Solo     |           |    Best |
+| Star war the last Jedi                                         |                                | Live Action | Solo     |           |    Best |
+| John Wick                                                      | USA (United States of America) | Live Action | Solo     | 2014      |    Best |
+| John Wick: Chapter 2                                           | USA (United States of America) | Live Action | Solo     | 2017      |    Best |
+| John Wick John Wick: Chapter 3 – Parabellum                    | USA (United States of America) | Live Action | Solo     | 2019      |    Best |
+| John Wick: Chapter 4                                           | USA (United States of America) | Live Action | Solo     | 2023      |    Best |
+| The Dark Knight                                                | USA (United States of America) | Live Action | Solo     |           |  Better |
+| The Dark Knight Rises                                          | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Batman Begins                                                  | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Batman: Bad Blood                                              | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Batma 1989                                                     | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Batman vs. Superman Dawn of Justice                            | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Suicide Squad                                                  | USA (United States of America) | Live Action | Solo     | 2016      |  Better |
+| The Suicide Squad                                              | USA (United States of America) | Live Action | Solo     | 2021      |    Best |
+| Batman: The Dark Knight Returns                                | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Mad Max: Fury Road                                             | USA (United States of America) | Live Action | Solo     | 2015      |  Better |
+| Furiosa A Mad Max Saga                                         | USA (United States of America) | Live Action | Solo     | 2024      |  Better |
+| The Matrix                                                     | USA (United States of America) | Live Action | Solo     | 1999      |    Best |
+| The Matrix Reloaded                                            | USA (United States of America) | Live Action | Solo     | 2003      |    Best |
+| The Matrix Revolutions                                         | USA (United States of America) | Live Action | Solo     | 2003      |    Best |
+| The Matrix Resurrections                                       | USA (United States of America) | Live Action | Solo     | 2021      |    Best |
+| James Bond - Die Another Day                                   | USA (United States of America) | Live Action | Solo     | 2002      |    Best |
+| James Bond - Casino Royale                                     | USA (United States of America) | Live Action | Solo     | 2006      |    Best |
+| James Bond - Quantum of Solace                                 | USA (United States of America) | Live Action | Solo     | 2008      |    Best |
+| James Bond - Skyfall                                           | USA (United States of America) | Live Action | Solo     | 2012      |    Best |
+| James Bond - Spectre                                           | USA (United States of America) | Live Action | Solo     | 2015      |    Best |
+| James Bond - No Time to Die                                    | USA (United States of America) | Live Action | Solo     | 2021      |    Best |
+| Ip man (1,2,3)                                                 |                                | Live Action | Solo     |           |    Best |
+| Die Hard                                                       | USA (United States of America) | Live Action | Solo     | 1988      |    Best |
+| Die Hard 2                                                     | USA (United States of America) | Live Action | Solo     | 1990      |    Best |
+| Die Hard with a Vengeance                                      | USA (United States of America) | Live Action | Solo     | 1995      |    Best |
+| Live Free or Die Hard                                          | USA (United States of America) | Live Action | Solo     | 2007      |    Best |
+| A Good Day to Die Hard                                         | USA (United States of America) | Live Action | Solo     | 2013      |    Best |
+| The Terminator                                                 | USA (United States of America) | Live Action | Solo     | 1984      |    Best |
+| Terminator 2: Judgment Day                                     | USA (United States of America) | Live Action | Solo     | 1991      |    Best |
+| Terminator 3: Rise of the Machines                             | USA (United States of America) | Live Action | Solo     | 2003      |    Best |
+| Terminator Salvation                                           | USA (United States of America) | Live Action | Solo     | 2009      |    Best |
+| Terminator Genisys                                             | USA (United States of America) | Live Action | Solo     | 2015      |    Best |
+| Terminator: Dark Fate                                          | USA (United States of America) | Live Action | Solo     | 2019      |    Best |
+| Jurassic World                                                 | USA (United States of America) | Live Action | Solo     | 2015      |  Better |
+| Jurassic World: Fallen Kingdom                                 | USA (United States of America) | Live Action | Solo     | 2018      |    Good |
+| Jurassic World Dominion                                        | USA (United States of America) | Live Action | Solo     | 2022      |    Good |
+| Inception                                                      | USA (United States of America) | Live Action | Solo     | 2010      |    Best |
+| Catch me if you can                                            | USA (United States of America) | Live Action | Solo     |           |    Best |
+| the great gatsby                                               | USA (United States of America) | Live Action | Solo     |           |    Good |
+| Titanic                                                        | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Red Riding Hood                                                |                                | Live Action | Solo     |           |    Good |
+| Paycheck                                                       | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Cure of wellness                                               | USA (United States of America) | Live Action | Solo     |           |    Good |
+| Twilight                                                       | USA (United States of America) | Live Action | Solo     | 2008      |  Better |
+| The Twilight Saga: New Moon                                    | USA (United States of America) | Live Action | Solo     | 2009      |  Better |
+| The Twilight Saga: Eclipse                                     | USA (United States of America) | Live Action | Solo     | 2010      |  Better |
+| The Twilight Saga: Breaking Dawn Part 1                        | USA (United States of America) | Live Action | Solo     | 2011      |  Better |
+| The Twilight Saga: Breaking Dawn Part 2                        | USA (United States of America) | Live Action | Solo     | 2012      |  Better |
+| Dracula Untold                                                 |                                | Live Action | Solo     |           |  Better |
+| Baywatch                                                       |                                | Live Action | Solo     |           |    Good |
+| Skyscraper                                                     |                                | Live Action | Solo     |           |  Better |
+| Jumanji                                                        |                                | Live Action | Solo     |           |  Better |
+| Transformers                                                   |                                | Live Action | Solo     | 2007      |    Best |
+| Transformers: Revenge of the Fallen                            |                                | Live Action | Solo     | 2009      |    Best |
+| Transformers: Dark of the Moon                                 |                                | Live Action | Solo     | 2011      |    Best |
+| Transformers: Age of Extinction                                |                                | Live Action | Solo     | 2014      |    Best |
+| Transformers: The Last Knight                                  |                                | Live Action | Solo     | 2017      |    Best |
+| Bumblebee                                                      |                                | Live Action | Solo     | 2018      |  Better |
+| Transformers: Rise of the Beasts                               |                                | Live Action | Solo     | 2023      |  Better |
+| I am number four                                               |                                | Live Action | Solo     |           |  Better |
+| Gone Girl                                                      |                                | Live Action | Solo     |           |     Bad |
+| Passengers                                                     |                                | Live Action | Solo     |           |  Better |
+| The prestige                                                   |                                | Live Action | Solo     |           |    Good |
+| Source Code                                                    |                                | Live Action | Solo     |           |  Better |
+| Sherlock Holmes (1,2)                                          |                                | Live Action | Solo     |           |    Best |
+| forbidden kingdom                                              |                                | Live Action | Solo     |           |  Better |
+| Who am I                                                       |                                | Live Action | Solo     |           |  Better |
+| World War Z                                                    |                                | Live Action | Solo     |           |  Better |
+| Victor Frankenstein                                            |                                | Live Action | Solo     | 2015      |    Good |
+| Fabricated City                                                |                                | Live Action | Solo     | 2017      |    Best |
+| Confidential Assignment                                        |                                | Live Action | Solo     | 2017      |  Better |
+| Death Race (1,2,3)                                             |                                | Live Action | Solo     |           |  Better |
+| The Fast and the Furious                                       |                                | Live Action | Solo     | 2001      |    Best |
+| 2 Fast 2 Furious                                               |                                | Live Action | Solo     | 2003      |    Best |
+| The Fast and the Furious: Tokyo Drift                          |                                | Live Action | Solo     | 2006      |    Best |
+| Fast & Furious                                                 |                                | Live Action | Solo     | 2009      |    Best |
+| Fast & Furious 6                                               |                                | Live Action | Solo     | 2013      |    Best |
+| Furious 7                                                      |                                | Live Action | Solo     | 2015      |    Best |
+| The Fate of the Furious                                        |                                | Live Action | Solo     | 2017      |    Best |
+| Fast & Furious Presents: Hobbs & Shaw                          |                                | Live Action | Solo     | 2019      |    Best |
+| F9                                                             |                                | Live Action | Solo     | 2021      |    Best |
+| E.T. the Extra-Terrestrial                                     |                                | Live Action | Solo     |           |    Good |
+| Pacific Rim Uprising                                           |                                | Live Action | Solo     |           |  Better |
+| Geostorm                                                       |                                | Live Action | Solo     |           |    Best |
+| Edge of Tomorrow                                               |                                | Live Action | Solo     |           |    Best |
+| Oblivion                                                       |                                | Live Action | Solo     |           |  Better |
+| Assassin's Creed                                               | USA (United States of America) | Live Action | Solo     |           |    Good |
+| Maleficent 1                                                   | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Maleficent 2                                                   | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Snow White and the Huntsman 1                                  | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Snow White and the Huntsman 2                                  | USA (United States of America) | Live Action | Solo     |           |  Better |
+| Drunken Master                                                 |                                | Live Action | Solo     |           |  Better |
+| The Karate Kid                                                 |                                | Live Action | Solo     |           |  Better |
+| Bleeding Steel                                                 |                                | Live Action | Solo     |           |    Good |
+| Shanghai Noon                                                  |                                | Live Action | Solo     |           |  Better |
+| Shanghai Knights                                               |                                | Live Action | Solo     |           |  Better |
+| Kung Fu Yoga                                                   |                                | Live Action | Solo     |           |  Better |
+| Monster Hunt 1                                                 |                                | Live Action | Solo     |           |    Best |
+| Monster Hunt 2                                                 |                                | Live Action | Solo     |           |    Best |
+| The Expendables                                                | USA (United States of America) | Live Action | Solo     | 2010      |    Best |
+| The Expendables 2                                              | USA (United States of America) | Live Action | Solo     | 2012      |    Best |
+| The Expendables 3                                              | USA (United States of America) | Live Action | Solo     | 2014      |    Best |
+| Rambo: First Blood                                             |                                | Live Action | Solo     | 1982      |    Best |
+| Rambo: First Blood Part II                                     |                                | Live Action | Solo     | 1985      |    Best |
+| Rambo III                                                      |                                | Live Action | Solo     | 1988      |    Best |
+| Rambo                                                          |                                | Live Action | Solo     | 2008      |    Best |
+| Rambo: Last Blood                                              |                                | Live Action | Solo     | 2019      |    Best |
+| Constantine                                                    | USA (United States of America) | Live Action | Solo     | 2005      |    Good |
+| Back to the Future                                             |                                | Live Action | Solo     | 1985      |    Best |
+| Back to the Future II                                          |                                | Live Action | Solo     | 1989      |    Best |
+| Back to the Future III                                         |                                | Live Action | Solo     | 1990      |    Best |
+| X-Men                                                          |                                | Live Action | Solo     | 2000      |  Better |
+| X2                                                             |                                | Live Action | Solo     | 2003      |  Better |
+| X-Men: The Last Stand                                          |                                | Live Action | Solo     | 2006      |  Better |
+| X-Men Origins: Wolverine                                       |                                | Live Action | Solo     | 2009      |  Better |
+| The Wolverine                                                  |                                | Live Action | Solo     | 2013      |  Better |
+| Logan                                                          |                                | Live Action | Solo     | 2017      |  Better |
+| X-Men: First Class                                             |                                | Live Action | Solo     | 2011      |  Better |
+| X-Men: Days of Future Past                                     |                                | Live Action | Solo     | 2014      |  Better |
+| X-Men: Apocalypse                                              |                                | Live Action | Solo     | 2016      |  Better |
+| Dark Phoenix                                                   |                                | Live Action | Solo     | 2019      |  Better |
+| Man of steel                                                   |                                | Live Action | Solo     |           |  Better |
+| Eddie the Eagle                                                |                                | Live Action | Solo     |           |    Good |
+| Real Steel                                                     |                                | Live Action | Solo     |           |    Best |
+| Fantastic Four                                                 |                                | Live Action | Solo     | 2005      |  Better |
+| Fantastic Four: Rise of the Silver Surfer                      |                                | Live Action | Solo     | 2007      |  Better |
+| Hellboy                                                        |                                | Live Action | Solo     | 2004      |     Bad |
+| Hellboy II: The Golden Army                                    |                                | Live Action | Solo     | 2008      |     Bad |
+| Hellboy                                                        |                                | Live Action | Solo     | 2019      |     Bad |
+| The House with a Clock in Its Walls                            |                                | Live Action | Solo     |           |  Better |
+| Johnny English                                                 |                                | Live Action | Solo     | 2003      |  Better |
+| Johnny English Reborn                                          |                                | Live Action | Solo     | 2011      |  Better |
+| Johnny English Strikes Again                                   |                                | Live Action | Solo     | 2018      |  Better |
+| air strike                                                     |                                | Live Action | Solo     | 2018      |    Good |
+| Big Brother                                                    |                                | Live Action | Solo     | 2018      |    Best |
+| Goosebumps (1,2)                                               |                                | Live Action | Solo     |           |  Better |
+| Watchmen                                                       |                                | Live Action | Solo     |           |  Better |
+| Ghost Rider                                                    |                                | Live Action | Solo     |           |  Better |
+| Gone in 60 Seconds                                             |                                | Live Action | Solo     |           |    Good |
+| The Sorcerer's Apprentice                                      |                                | Live Action | Solo     |           |    Good |
+| The Weather Man                                                |                                | Live Action | Solo     |           |     Bad |
+| London Has Fallen                                              |                                | Live Action | Solo     |           |  Better |
+| Olympus Has Fallen                                             |                                | Live Action | Solo     |           |  Better |
+| White House Down                                               |                                | Live Action | Solo     |           |  Better |
+| Gods of Egypt                                                  |                                | Live Action | Solo     |           |     Bad |
+| King Arthur: Legend of the Sword                               |                                | Live Action | Solo     |           |  Better |
+| Cook Up a Storm                                                |                                | Live Action | Solo     | 2017      |    Best |
+| The Mummy                                                      |                                | Live Action | Solo     | 2017      |    Good |
+| The Mummy Returns                                              |                                | Live Action | Solo     | 2001      |    Good |
+| Hercules                                                       |                                | Live Action | Solo     |           |    Good |
+| The Jungle Book                                                |                                | Live Action | Solo     |           |  Better |
+| Troy                                                           |                                | Live Action | Solo     |           |    Good |
+| 300                                                            |                                | Live Action | Solo     | 2006      |  Better |
+| 300: Rise of an Empire                                         |                                | Live Action | Solo     | 2014      |    Good |
+| Jack Reacher                                                   |                                | Live Action | Solo     | 2012      |  Better |
+| Drishyam                                                       |                                | Live Action | Solo     | 2015      |    Best |
+| Drishyam 2                                                     |                                | Live Action | Solo     | 2022      |    Best |
+| Fetih 1453                                                     |                                | Live Action | Solo     | 2012      |    Good |
+| Jack Reacher: Never Go Back                                    |                                | Live Action | Solo     | 2016      |  Better |
+| Ghostbusters                                                   |                                | Live Action | Solo     | 2016      |    Good |
+| Elysium                                                        |                                | Live Action | Solo     |           |  Better |
+| Sword Master                                                   |                                | Live Action | Solo     |           |    Good |
+| The Nun                                                        |                                | Live Action | Solo     |           |     Bad |
+| Birth of the dragon                                            |                                | Live Action | Solo     |           |     Bad |
+| The Conjuring                                                  |                                | Live Action | Solo     | 2013      |     Bad |
+| The Conjuring                                                  |                                | Live Action | Solo     | 2016      |     Bad |
+| Annabelle                                                      |                                | Live Action | Solo     |           |     Bad |
+| Annabelle creation                                             |                                | Live Action | Solo     |           |     Bad |
+| Detective Dee and the Mystery of the Phantom Flame             |                                | Live Action | Solo     | 2010      |  Better |
+| Young Detective Dee: Rise of the Sea Dragon                    |                                | Live Action | Solo     | 2013      |    Good |
+| Rob-B-Hood                                                     |                                | Live Action | Solo     |           |  Better |
+| The Da Vinci Code                                              |                                | Live Action | Solo     |           |    Good |
+| The Divergent                                                  |                                | Live Action | Solo     | 2014      |  Better |
+| Lara Croft: Tomb Raider                                        |                                | Live Action | Solo     | 2001      |  Better |
+| Lara Croft: Tomb Raider – The Cradle of Life                   |                                | Live Action | Solo     | 2003      |  Better |
+| Tomb Raider                                                    |                                | Live Action | Solo     | 2018      |  Better |
+| The Hitmans bodyguard                                          |                                | Live Action | Solo     |           |  Better |
+| Gifted                                                         |                                | Live Action | Solo     |           |    Best |
+| The Cabin in the Woods                                         |                                | Live Action | Solo     |           |     Bad |
+| Final Destination                                              |                                | Live Action | Solo     | 2000      |    Good |
+| Final Destination 2                                            |                                | Live Action | Solo     | 2003      |    Good |
+| Final Destination 3                                            |                                | Live Action | Solo     | 2006      |    Good |
+| The Final Destination                                          |                                | Live Action | Solo     | 2009      |    Good |
+| Final Destination 5                                            |                                | Live Action | Solo     | 2011      |    Good |
+| Blue Streak                                                    |                                | Live Action | Solo     |           |  Better |
+| Nightcrawler                                                   |                                | Live Action | Solo     | 2014      |  Better |
+| Kingsman: The Secret Service                                   |                                | Live Action | Solo     | 2014      |  Better |
+| Kingsman: The Golden Circle                                    |                                | Live Action | Solo     | 2017      |  Better |
+| The King's Man                                                 |                                | Live Action | Solo     | 2021      |  Better |
+| XXX                                                            |                                | Live Action | Solo     | 2002      |  Better |
+| XXX: Return of Xander Cage                                     |                                | Live Action | Solo     | 2017      |  Better |
+| It                                                             |                                | Live Action | Solo     |           |     Bad |
+| Jigsaw                                                         |                                | Live Action | Solo     |           |     Bad |
+| The Social Network                                             |                                | Live Action | Solo     |           |  Better |
+| G.I. Joe: The Rise of Cobra                                    |                                | Live Action | Solo     | 2009      |  Better |
+| G.I. Joe: Retaliation                                          |                                | Live Action | Solo     | 2013      |    Good |
+| Ender's Game                                                   |                                | Live Action | Solo     | 2013      |  Better |
+| Miss Peregrine's Home for Peculiar Children                    |                                | Live Action | Solo     |           |  Better |
+| The Fifth Element                                              |                                | Live Action | Solo     |           |    Good |
+| The Mechanic                                                   |                                | Live Action | Solo     | 2011      |  Better |
+| Mechanic: Resurrection                                         |                                | Live Action | Solo     | 2016      |  Better |
+| Crank                                                          |                                | Live Action | Solo     | 2006      |  Better |
+| Crank: High Voltage                                            |                                | Live Action | Solo     | 2009      |  Better |
+| Spy                                                            |                                | Live Action | Solo     | 2015      |    Good |
+| The Transporter                                                |                                | Live Action | Solo     | 2002      |  Better |
+| The Transporter 2                                              |                                | Live Action | Solo     | 2005      |  Better |
+| The Transporter 3                                              |                                | Live Action | Solo     | 2008      |  Better |
+| Parker                                                         |                                | Live Action | Solo     | 2013      |  Better |
+| The Rundown                                                    |                                | Live Action | Solo     |           |  Better |
+| Central Intelligence                                           |                                | Live Action | Solo     |           |  Better |
+| Journey to the Center of the Earth                             |                                | Live Action | Solo     | 2008      |    Good |
+| Journey 2: The Mysterious Island                               |                                | Live Action | Solo     | 2012      |    Good |
+| Pain & Gain                                                    |                                | Live Action | Solo     |           |    Good |
+| Snitch                                                         |                                | Live Action | Solo     |           |  Better |
+| Four Brothers                                                  |                                | Live Action | Solo     |           |    Good |
+| Project Almanac                                                |                                | Live Action | Solo     |           |  Better |
+| Bright                                                         |                                | Live Action | Solo     |           |  Better |
+| Special ID                                                     |                                | Live Action | Solo     |           |  Better |
+| Enemy of the State                                             |                                | Live Action | Solo     |           |  Better |
+| Hours                                                          |                                | Live Action | Solo     |           |    Best |
+| Hugo                                                           |                                | Live Action | Solo     |           |  Better |
+| Blackhat                                                       |                                | Live Action | Solo     | 2015      |    Best |
+| Peter Pan                                                      |                                | Live Action | Solo     |           |    Good |
+| The Last Samurai                                               |                                | Live Action | Solo     |           |    Best |
+| Insurgent                                                      |                                | Live Action | Solo     | 2015      |  Better |
+| Premium Rush                                                   |                                | Live Action | Solo     |           |  Better |
+| Operation Red Sea                                              |                                | Live Action | Solo     |           |  Better |
+| Bad Times at the El Royale                                     |                                | Live Action | Solo     |           |    Good |
+| Season of the Witch                                            |                                | Live Action | Solo     |           |    Good |
+| Beauty and the Beast                                           |                                | Live Action | Solo     |           |  Better |
+| Mr. & Mrs. Smith                                               |                                | Live Action | Solo     |           |    Good |
+| Baby's Day Out                                                 |                                | Live Action | Solo     |           |    Best |
+| The Guardians                                                  |                                | Live Action | Solo     | 2017      |     Bad |
+| Now You See Me                                                 |                                | Live Action | Solo     | 2013      |    Best |
+| Now You See Me 2                                               |                                | Live Action | Solo     | 2016      |    Best |
+| 2012                                                           |                                | Live Action | Solo     | 2009      |  Better |
+| Resident Evil                                                  |                                | Live Action | Solo     |           |  Better |
+| Wanted                                                         |                                | Live Action | Solo     | 2008      |  Better |
+| Next                                                           |                                | Live Action | Solo     | 2007      |  Better |
+| Prince of Persia The Sands of Time                             |                                | Live Action | Solo     | 2010      |    Good |
+| The Last Airbender                                             |                                | Live Action | Solo     | 2010      |  Better |
+| Legend of the naga pearls                                      |                                | Live Action | Solo     | 2017      |  Better |
+| The Imitation Game                                             |                                | Live Action | Solo     | 2014      |  Better |
+| Rush Hour 1                                                    |                                | Live Action | Solo     | 1998      |  Better |
+| Rush Hour 2                                                    |                                | Live Action | Solo     | 2001      |  Better |
+| Rush Hour 3                                                    |                                | Live Action | Solo     | 2007      |  Better |
+| The Great Wall                                                 |                                | Live Action | Solo     |           |  Better |
+| Jack Ryan – Shadow Recruit                                     |                                | Live Action | Solo     |           |  Better |
+| RED ( 1,2)                                                     |                                | Live Action | Solo     |           |  Better |
+| R.I.P.D.                                                       |                                | Live Action | Solo     | 2013      |    Good |
+| Young Sherlock Holmes                                          |                                | Live Action | Solo     | 1985      |  Better |
+| Hostage IDK                                                    |                                | Live Action | Solo     | 2005      |  Better |
+| Get Smart                                                      |                                | Live Action | Solo     | 2008      |    Good |
+| Nanny McPhee                                                   |                                | Live Action | Solo     | 2005      |    Good |
+| Nanny McPhee and the Big Bang                                  |                                | Live Action | Solo     | 2010      |    Good |
+| Van Helsing                                                    |                                | Live Action | Solo     |           |  Better |
+| Total Recall                                                   |                                | Live Action | Solo     |           |  Better |
+| Murder on the Orient Express                                   |                                | Live Action | Solo     |           |  Better |
+| Shaolin Soccer                                                 |                                | Live Action | Solo     |           |  Better |
+| Catwoman                                                       |                                | Live Action | Solo     | 2004      |     Bad |
+| The A-Team                                                     |                                | Live Action | Solo     | 2010      |    Good |
+| Sleepy Hollow                                                  |                                | Live Action | Solo     | 1999      |  Better |
+| Rememory                                                       |                                | Live Action | Solo     |           |  Better |
+| The Circle                                                     |                                | Live Action | Solo     |           |  Better |
+| The November Man                                               |                                | Live Action | Solo     |           |  Better |
+| God Father 1                                                   |                                | Live Action | Solo     | 1972      |  Better |
+| God Father 2                                                   |                                | Live Action | Solo     | 1974      |  Better |
+| God Father 3                                                   |                                | Live Action | Solo     | 1990      |  Better |
+| Knight and Day                                                 |                                | Live Action | Solo     | 2010      |  Better |
+| Vantage Point                                                  |                                | Live Action | Solo     | 2008      |  Better |
+| Lucy                                                           |                                | Live Action | Solo     | 2014      |    Good |
+| Mortal Engines                                                 |                                | Live Action | Solo     | 2018      |  Better |
+| Overdrive                                                      |                                | Live Action | Solo     | 2017      |  Better |
+| Captain Marvel                                                 |                                | Live Action | Solo     | 2019      |    Best |
+| War Machine                                                    |                                | Live Action | Solo     |           |  Better |
+| Need For Speed                                                 |                                | Live Action | Solo     |           |    Good |
+| Replicas                                                       |                                | Live Action | Solo     | 2018      |  Better |
+| RoboCop                                                        |                                | Live Action | Solo     | 2014      |  Better |
+| The Adventurers                                                |                                | Live Action | Solo     |           |  Better |
+| Triple Frontier                                                |                                | Live Action | Solo     | 2019      |    Best |
+| Elektra                                                        |                                | Live Action | Solo     |           |    Good |
+| The Adjustment Bureau                                          |                                | Live Action | Solo     |           |  Better |
+| Race to Witch mountain                                         |                                | Live Action | Solo     |           |    Good |
+| Flash Point                                                    |                                | Live Action | Solo     |           |  Better |
+| The Raid: Redemption                                           |                                | Live Action | Solo     | 2011      |    Best |
+| The Raid 2                                                     |                                | Live Action | Solo     |           |    Best |
+| Paddington                                                     |                                | Live Action | Solo     | 2014      |  Better |
+| Paddington 2                                                   |                                | Live Action | Solo     | 2017      |  Better |
+| Pans Labyrinth                                                 |                                | Live Action | Solo     |           |     Bad |
+| Glass                                                          |                                | Live Action | Solo     | 2019      |  Better |
+| Super 8 IDK                                                    |                                | Live Action | Solo     | 2011      |  Better |
+| The Hunger Games 1                                             |                                | Live Action | Solo     |           |  Better |
+| Upgrade                                                        |                                | Live Action | Solo     | 2018      |    Best |
+| Escape Plan 1                                                  |                                | Live Action | Solo     |           |    Best |
+| War of the Worlds                                              |                                | Live Action | Solo     |           |  Better |
+| Seventh Son                                                    |                                | Live Action | Solo     |           |    Good |
+| The Legend of Tarzan                                           |                                | Live Action | Solo     |           |    Good |
+| The World's End                                                |                                | Live Action | Solo     |           |    Good |
+| I Am Legend                                                    |                                | Live Action | Solo     | 2007      |  Better |
+| Ben-Hur                                                        |                                | Live Action | Solo     | 2016      |    Good |
+| Fury                                                           |                                | Live Action | Solo     | 2014      |  Better |
+| This Means War                                                 |                                | Live Action | Solo     | 2012      |    Good |
+| Dont Breathe                                                   |                                | Live Action | Solo     | 2016      |    Good |
+| Legend of the Fist: The Return of Chen Zhen                    |                                | Live Action | Solo     |           |  Better |
+| Criminal                                                       |                                | Live Action | Solo     | 2016      |  Better |
+| Insidious 1                                                    |                                | Live Action | Solo     | 2010      |     Bad |
+| Insidious 2                                                    |                                | Live Action | Solo     | 2013      |     Bad |
+| Insidious 3                                                    |                                | Live Action | Solo     | 2015      |     Bad |
+| Independence Day 1                                             |                                | Live Action | Solo     | 1996      |  Better |
+| Independence Day 2                                             |                                | Live Action | Solo     | 2016      |  Better |
+| Oz the Great and Powerful                                      |                                | Live Action | Solo     | 2013      |    Good |
+| Shazam!                                                        |                                | Live Action | Solo     | 2019      |    Best |
+| Shazam Fury of the Gods                                        |                                | Live Action | Solo     | 2023      |  Better |
+| Dragon Blade                                                   |                                | Live Action | Solo     | 2015      |    Good |
+| Pokemon Detective Pikachu                                      |                                | Live Action | Solo     |           |  Better |
+| Alita Battle Angel                                             |                                | Live Action | Solo     | 2019      |  Better |
+| The Target                                                     |                                | Live Action | Solo     | 2014      |  Better |
+| The Adventures of Tintin                                       |                                | Live Action | Solo     | 2011      |  Better |
+| The Shawshank Redemption 1994                                  |                                | Live Action | Solo     |           |    Best |
+| Dumbo                                                          |                                | Live Action | Solo     | 2019      |  Better |
+| Sucker Punch                                                   |                                | Live Action | Solo     | 2011      |     Bad |
+| Shaft                                                          |                                | Live Action | Solo     | 2019      |  Better |
+| Kung Fu Jungle                                                 |                                | Live Action | Solo     | 2014      |  Better |
+| The Other Guys                                                 |                                | Live Action | Solo     | 2010      |    Good |
+| Scorping king                                                  |                                | Live Action | Solo     | 2002      |    Good |
+| Doom                                                           |                                | Live Action | Solo     | 2005      |    Good |
+| Walking Tall                                                   |                                | Live Action | Solo     | 2004      |  Better |
+| Paul                                                           |                                | Live Action | Solo     | 2011      |     Bad |
+| Shaun of the Dead                                              |                                | Live Action | Solo     |           |    Good |
+| The Bourne Identity 1                                          |                                | Live Action | Solo     | 2002      |    Best |
+| The Bourne Supremacy 2                                         |                                | Live Action | Solo     | 2004      |    Best |
+| The Bourne Ultimatum 3                                         |                                | Live Action | Solo     | 2007      |    Best |
+| The Bourne Legacy 4                                            |                                | Live Action | Solo     | 2012      |    Best |
+| Jason Bourne 5                                                 |                                | Live Action | Solo     | 2016      |    Best |
+| Whiplash                                                       |                                | Live Action | Solo     |           |  Better |
+| National Treasure 1                                            |                                | Live Action | Solo     | 2004      |  Better |
+| National Treasure 2                                            |                                | Live Action | Solo     | 2007      |  Better |
+| Shock Wave                                                     |                                | Live Action | Solo     | 2017      |  Better |
+| Life                                                           |                                | Live Action | Solo     | 2017      |  Better |
+| Aladdin                                                        |                                | Live Action | Solo     | 2019      |  Better |
+| Godzilla                                                       |                                | Live Action | Solo     | 2014      |    Good |
+| Kong: Skull Island                                             |                                | Live Action | Solo     | 2017      |  Better |
+| Godzilla: King of the Monsters                                 |                                | Live Action | Solo     | 2019      |  Better |
+| Godzilla vs. Kong                                              |                                | Live Action | Solo     | 2021      |    Good |
+| Godzilla Minus One                                             |                                | Live Action | Solo     | 2023      |  Better |
+| Godzilla x Kong: The New Empire                                |                                | Live Action | Solo     | 2024      |    Good |
+| Space Jam: A New Legacy                                        |                                | Live Action | Solo     | 2021      |    Good |
+| The Red Sea Diving Resort                                      |                                | Live Action | Solo     | 2019      |    Good |
+| Phone Booth                                                    |                                | Live Action | Solo     | 2002      |  Better |
+| zodiac                                                         |                                | Live Action | Solo     | 2007      |    Good |
+| The 5th Wave                                                   |                                | Live Action | Solo     | 2016      |  Better |
+| The Book Of Henry                                              |                                | Live Action | Solo     | 2017      |  Better |
+| Gangs of New York                                              |                                | Live Action | Solo     | 2002      |  Better |
+| American Made                                                  | USA (United States of America) | Live Action | Solo     | 2017      |  Better |
+| curse of the golden flower                                     |                                | Live Action | Solo     | 2006      |  Better |
+| Up in the Air                                                  |                                | Live Action | Solo     | 2009      |  Better |
+| Bad Kids of Crestview Academy                                  |                                | Live Action | Solo     | 2017      |    Good |
+| The Departed                                                   |                                | Live Action | Solo     | 2006      |    Best |
+| Super 30                                                       | India                          | Live Action | Solo     | 2019      |    Best |
+| Django Unchained                                               |                                | Live Action | Solo     | 2012      |  Better |
+| Sector 7                                                       |                                | Live Action | Solo     |           |  Better |
+| The Covenant                                                   |                                | Live Action | Solo     | 2006      |    Good |
+| Viy 2: Journey to China                                        |                                | Live Action | Solo     | 2019      |    Good |
+| Sicario                                                        |                                | Live Action | Solo     | 2015      |    Good |
+| Gemini Man                                                     | USA (United States of America) | Live Action | Solo     | 2019      |  Better |
+| Sex Education                                                  | USA (United States of America) | Live Action | Series   |           |    Good |
+| Inglourious Basterds                                           |                                | Live Action | Solo     | 2009      |     IDK |
+| Behind enemy lines                                             |                                | Live Action | Solo     | 2001      |  Better |
+| Kung Fu Dunk                                                   |                                | Live Action | Solo     | 2008      |    Good |
+| Zombieland                                                     |                                | Live Action | Solo     | 2009      |  Better |
+| Master Z: The Ip Man Legacy                                    |                                | Live Action | Solo     | 2018      |  Better |
+| The Witch Part 1-The Subversion                                |                                | Live Action | Solo     | 2018      |    Good |
+| The King                                                       |                                | Live Action | Solo     | 2019      |  Better |
+| Allegiant                                                      |                                | Live Action | Solo     | 2016      |  Better |
+| The Irishman                                                   |                                | Live Action | Solo     | 2019      |     IDK |
+| Deepwater Horizon                                              |                                | Live Action | Solo     | 2016      |  Better |
+| Daybreakers                                                    |                                | Live Action | Solo     | 2010      |    Good |
+| Ford v Ferrari                                                 |                                | Live Action | Solo     | 2019      |    Best |
+| Entrapment                                                     |                                | Live Action | Solo     | 1999      |  Better |
+| Baby Driver                                                    |                                | Live Action | Solo     | 2017      |  Better |
+| Scent of a Woman                                               |                                | Live Action | Solo     | 1992      |  Better |
+| The Spy Who Dumped Me                                          |                                | Live Action | Solo     | 2018      |    Good |
+| Code 8                                                         |                                | Live Action | Solo     | 2019      |  Better |
+| First Kill                                                     |                                | Live Action | Solo     | 2017      |    Good |
+| Star Wars The Rise of Skywalker                                |                                | Live Action | Solo     | 2019      |  Better |
+| The Courier                                                    |                                | Live Action | Solo     | 2020      |    Good |
+| Sonic The Hedgehog                                             |                                | Live Action | Solo     | 2020      |  Better |
+| Sonic the Hedgehog 2                                           |                                | Live Action | Solo     | 2022      |  Better |
+| Altered Carbon Resleeved                                       |                                | Live Action | Solo     | 2020      |  Better |
+| CJ7                                                            |                                | Live Action | Solo     | 2008      |    Good |
+| Jumanji: Welcome to the Jungle                                 |                                | Live Action | Solo     | 2017      |    Best |
+| Jumanji: The Next Level                                        |                                | Live Action | Solo     | 2019      |    Best |
+| The Nutcracker and the Four Realms                             |                                | Live Action | Solo     | 2018      |  Better |
+| Zombieland                                                     |                                | Live Action | Solo     | 2019      |  Better |
+| T-34                                                           |                                | Live Action | Solo     | 2019      |  Better |
+| The Kid Detective                                              |                                | Live Action | Solo     | 2020      |    Good |
+| Birds of Prey                                                  |                                | Live Action | Solo     | 2020      |    Good |
+| The Invisible Man                                              |                                | Live Action | Solo     | 2020      |  Better |
+| The Terminal                                                   |                                | Live Action | Solo     | 2004      |    Best |
+| Bloodshot                                                      |                                | Live Action | Solo     | 2020      |    Best |
+| Bad Boys for Life                                              | USA (United States of America) | Live Action | Solo     | 2020      |    Best |
+| Bad Boys: Ride or Die                                          | USA (United States of America) | Live Action | Solo     | 2024      |  Better |
+| The Darjeeling Limited                                         |                                | Live Action | Solo     | 2007      |   (Bad) |
+| Dolittle                                                       |                                | Live Action | Solo     | 2020      |  Better |
+| Parasite                                                       |                                | Live Action | Solo     | 2019      |    Best |
+| 12 Monkeys                                                     |                                | Live Action | Solo     | 1995      |  Better |
+| Attack on Titan 1                                              |                                | Live Action | Solo     | 2015      |    Good |
+| Attack on Titan 2                                              |                                | Live Action | Solo     | 2015      |    Good |
+| Malena                                                         |                                | Live Action | Solo     | 2000      |     IDK |
+| Dragon Tiger Gate                                              |                                | Live Action | Solo     | 2006      |     Bad |
+| Gerald's Game                                                  |                                | Live Action | Solo     | 2017      |     IDK |
+| 24 Hours to Live                                               |                                | Live Action | Solo     | 2017      |    Good |
+| Vikings                                                        | USA (United States of America) | Live Action | Series   |           |  Better |
+| You                                                            | USA (United States of America) | Live Action | Series   |           |  Better |
+| Snowpiercer                                                    |                                | Live Action | Solo     | 2013      |  Better |
+| The Founder                                                    |                                | Live Action | Solo     | 2016      |    Best |
+| Snowden                                                        |                                | Live Action | Solo     | 2016      |    Best |
+| Extraction                                                     |                                | Live Action | Solo     | 2020      |    Good |
+| Game of Thrones                                                |                                | Live Action | Series   |           |  Better |
+| Stranger Things                                                |                                | Live Action | Series   |           |    Best |
+| The Witcher                                                    |                                | Live Action | Series   |           |  Better |
+| Lost in Space                                                  |                                | Live Action | Series   |           |    Best |
+| Sherlock                                                       |                                | Live Action | Series   |           |  Better |
+| Money Heist                                                    |                                | Live Action | Series   |           |    Best |
+| Mr. Robot                                                      |                                | Live Action | Series   |           |     Bad |
+| Star Trek: Picard                                              |                                | Live Action | Series   | 2020      |  Better |
+| Upload                                                         |                                | Live Action | Series   | 2020      |    Good |
+| Unleashed                                                      |                                | Live Action | Solo     | 2005      |  Better |
+| 6 Underground                                                  |                                | Live Action | Solo     | 2019      |  Better |
+| Who am I                                                       |                                | Live Action | Solo     | 2014      |    Best |
+| Ip Man 4 final                                                 |                                | Live Action | Solo     | 2019      |    Best |
+| Jack Hunter And The Lost Treasure Of Ugarit                    |                                | Live Action | Solo     |           |    Good |
+| Jack Hunter: The Quest for Akhenaten's tomb                    |                                | Live Action | Solo     |           |    Good |
+| Jack Hunter And The Star Of Heaven                             |                                | Live Action | Solo     |           |    Good |
+| Peter Rabbit                                                   |                                | Live Action | Solo     | 2018      |  Better |
+| Peter Rabbit 2                                                 |                                | Live Action | Solo     | 2021      |    Good |
+| Home Alone 1                                                   |                                | Live Action | Solo     | 1990      |    Best |
+| Home Alone 2: Lost in New York                                 |                                | Live Action | Solo     | 1992      |    Best |
+| The Bank Job                                                   |                                | Live Action | Solo     | 2008      | Betters |
+| Chaos                                                          |                                | Live Action | Solo     | 2005      |  Better |
+| Ad Astra                                                       |                                | Live Action | Solo     | 2019      |     IDK |
+| The Tourist                                                    |                                | Live Action | Solo     | 2010      |    Good |
+| Predator                                                       |                                | Live Action | Solo     | 1987      |  Better |
+| Steve Jobs                                                     |                                | Live Action | Solo     | 2015      |     IDK |
+| Master                                                         |                                | Live Action | Solo     | 2016      |    Best |
+| Dark Shadows                                                   |                                | Live Action | Solo     | 2012      |    Good |
+| Once Upon a Time in Hollywood                                  |                                | Live Action | Solo     | 2019      |    Good |
+| Golden Slumber                                                 |                                | Live Action | Solo     | 2018      |  Better |
+| The Old Guard                                                  |                                | Live Action | Solo     | 2020      |     IDK |
+| The Manchurian Candidate                                       |                                | Live Action | Solo     | 2004      |  Better |
+| The Untouchables                                               |                                | Live Action | Solo     | 1987      |  Better |
+| Brian Banks                                                    |                                | Live Action | Solo     | 2018      |  Better |
+| Hotel Rwanda                                                   |                                | Live Action | Solo     | 2004      |  Better |
+| The Man from U.N.C.L.E                                         |                                | Live Action | Solo     | 2015      |    Good |
+| Suck Me Shakespeer                                             |                                | Live Action | Solo     | 2013      |  Better |
+| Suck Me Shakespeer 2                                           |                                | Live Action | Solo     | 2015      |    Good |
+| Suck Me Shakespeer 3                                           |                                | Live Action | Solo     | 2017      |    Good |
+| Minority Report                                                |                                | Live Action | Solo     | 2002      |     IDK |
+| The Boys                                                       | USA (United States of America) | Live Action | Series   | 2019      |    Best |
+| Train to Busan                                                 | Korea                          | Live Action | Solo     | 2016      |    Best |
+| The Lost City of Z                                             | USA (United States of America) | Live Action | Solo     | 2016      |    Good |
+| Rough Cut                                                      | Korea                          | Live Action | Solo     | 2008      |     Bad |
+| Peninsula                                                      |                                | Live Action | Solo     | 2020      |  Better |
+| Don’t Breathe                                                  |                                | Live Action | Solo     | 2016      |     Bad |
+| Hero                                                           |                                | Live Action | Solo     | 2002      |    Good |
+| Enola Holmes                                                   | USA (United States of America) | Live Action | Solo     | 2020      |    Good |
+| Enola Holmes 2                                                 | USA (United States of America) | Live Action | Solo     | 2022      |    Good |
+| Kicking & Screaming                                            |                                | Live Action | Solo     | 2005      |  Better |
+| Gringo                                                         |                                | Live Action | Solo     | 2018      |  Better |
+| World Trade Center                                             |                                | Live Action | Solo     | 2006      |     Bad |
+| The New Mutants                                                |                                | Live Action | Solo     | 2020      |     Bad |
+| Angel Has Fallen                                               |                                | Live Action | Solo     | 2020      |    Good |
+| The SpongeBob Movie: Sponge on the Run                         |                                | Live Action | Solo     | 2020      |    Good |
+| Kill Bill Vol 1                                                |                                | Live Action | Solo     | 2003      |    Good |
+| Kill Bill Vol 2                                                |                                | Live Action | Solo     | 2004      |    Good |
+| First Man                                                      |                                | Live Action | Solo     | 2018      |  Better |
+| Tenet                                                          |                                | Live Action | Solo     | 2020      |  Better |
+| Double World                                                   |                                | Live Action | Solo     | 2019      |    Good |
+| Current War                                                    |                                | Live Action | Solo     | 2017      |    Good |
+| Tom & Jerry: The Movie                                         |                                | Live Action | Solo     | 2021      |    Good |
+| WandaVision                                                    |                                | Series      |          |           |  Better |
+| The Falcon and The Winter Soldier                              |                                | Series      |          |           |  Better |
+| Loki                                                           |                                | Series      |          |           |  Better |
+| What If...?                                                    |                                | Series      |          |           |  Better |
+| Ms. Marvel                                                     |                                | Series      |          |           |    Good |
+| Hawkeye                                                        |                                | Series      |          |           |    Good |
+| Shang-Chi and the Legend of the Ten Rings                      |                                | Live Action | Solo     | 2021      |    Best |
+| Spider Man No Way Home                                         |                                | Live Action | Solo     | 2021      |    Best |
+| Eternals                                                       |                                | Live Action | Solo     | 2021      |    Good |
+| Nobody                                                         |                                | Live Action | Solo     | 2021      |  Better |
+| Mortal Kombat                                                  |                                | Live Action | Solo     | 2021      |  Better |
+| Shadow and Bone                                                |                                | Series      |          |           |    Good |
+| 21 Jump Street                                                 |                                | Live Action | Solo     | 2012      |    Good |
+| 22 Jump Street                                                 |                                | Live Action | Solo     | 2014      |    Good |
+| Love Will Tear Us Apart                                        |                                | Live Action | Solo     | 2013      |    Good |
+| The Conjuring The Devil Made Me Do It                          |                                | Live Action | Solo     | 2021      |    Good |
+| Black Widow                                                    |                                | Live Action | Solo     | 2021      |    Good |
+| Jungle Cruise                                                  |                                | Live Action | Solo     | 2021      |  Better |
+| The Tomorrow War                                               |                                | Live Action | Solo     | 2021      |  Better |
+| Hitman's Wife's Bodyguard                                      |                                | Live Action | Solo     | 2021      |     Bad |
+| Free Guy                                                       |                                | Live Action | Solo     | 2021      |    Best |
+| G.I. Joe - Snake Eyes                                          |                                | Live Action | Solo     | 2021      |  Better |
+| The Mandalorian                                                |                                | Series      |          |           |    Good |
+| The Umbrella Academy                                           |                                | Series      |          |           |    Good |
+| Searching                                                      |                                | Live Action | Solo     | 2018      |    Good |
+| Cruella                                                        |                                | Live Action | Solo     | 2021      |  Better |
+| Wrath of Man                                                   |                                | Live Action | Solo     | 2021      |  Better |
+| The Adam Project                                               |                                | Live Action | Solo     | 2022      |    Good |
+| The Batman                                                     |                                | Live Action | Solo     | 2022      |  Better |
+| Uncharted                                                      |                                | Live Action | Solo     | 2022      |    Best |
+| Kannum Kannum Kollaiyadithaal                                  | India                          | Live Action | Solo     | 2020      |  Better |
+| Toofaan                                                        | India                          | Live Action | Solo     | 2021      |    Good |
+| Hi Nanna                                                       | India                          | Live Action | Solo     | 2023      |  Better |
+| Bhakshak                                                       | India                          | Live Action | Solo     | 2024      |  Better |
+| Rekhachithram                                                  | India                          | Live Action | Solo     | 2025      |    Best |
+| Kaathuvaakula Rendu Kaadhal                                    | India                          | Live Action | Solo     | 2022      |    Good |
+| The Family Star                                                | India                          | Live Action | Solo     | 2024      |    Good |
+| Dil Bechara                                                    | India                          | Live Action | Solo     | 2020      |  Better |
+| Premalu                                                        | India                          | Live Action | Solo     | 2024      |  Better |
+| Madgaon Express                                                | India                          | Live Action | Solo     | 2024      |    Good |
+| Lucky Baskhar                                                  | India                          | Live Action | Solo     | 2024      |  Better |
+| Aavesham                                                       | India                          | Live Action | Solo     | 2024      |  Better |
+| Premam                                                         | India                          | Live Action | Solo     | 2016      |    Good |
+| Vikram                                                         | India                          | Live Action | Solo     | 2022      |    Best |
+| K.G.F: Chapter 1                                               | India                          | Live Action | Solo     | 2018      |  Better |
+| K.G.F: Chapter 2                                               | India                          | Live Action | Solo     | 2022      |  Better |
+| Sacred Game                                                    | India                          | Live Action | Solo     | 2018      |  Better |
+| Solo                                                           | India                          | Live Action | Solo     | 2017      |  Better |
+| Mirzapur                                                       | India                          | Series      |          |           |    Best |
+| Panchayat                                                      | India                          | Series      |          |           |    Best |
+| Sandman                                                        |                                | Series      |          |           |  Better |
+| Hit the First Case                                             | India                          | Live Action | Solo     | 2022      |    Best |
+| Vikram Vedha                                                   | India                          | Live Action | Solo     | 2017      |    Best |
+| The Man Who Sold His Skin                                      |                                | Live Action | Solo     | 2020      |     IDK |
+| Werewolf by Night                                              |                                | Live Action | Solo     | 2022      |    Good |
+| House of the Dragon                                            |                                | Series      |          |           |    Best |
+| Peaky Blinders                                                 | USA (United States of America) | Series      |          |           |    Best |
+| Black Panther: Wakanda Forever                                 | USA (United States of America) | Live Action | Solo     | 2022      |    Good |
+| Bullet Train                                                   | USA (United States of America) | Live Action | Solo     | 2022      |  Better |
+| The Outlaws                                                    | Korea                          | Live Action | Solo     | 2017      |    Good |
+| The Roundup                                                    | Korea                          | Live Action | Solo     | 2022      |    Good |
+| Squid Game                                                     | Korea                          | Series      |          | 2021      |  Better |
+| Black Adam                                                     | USA (United States of America) | Live Action | Solo     | 2022      |    Good |
+| Doctor G                                                       |                                | Live Action | Solo     | 2022      |  Better |
+| Etharkkum Thunindhavan                                         | India                          | Live Action | Solo     | 2022      |    Good |
+| Bheemla Nayak                                                  | India                          | Live Action | Solo     | 2022      |    Good |
+| Thunivu                                                        |                                | Live Action | Solo     | 2023      |    Good |
+| Ghosted                                                        | USA (United States of America) | Live Action | Solo     | 2023      |    Good |
+| Sisu                                                           |                                | Live Action | Solo     | 2023      |    Best |
+| BlackBerry                                                     | USA (United States of America) | Live Action | Solo     | 2023      |    Good |
+| Rebel Moon                                                     | USA (United States of America) | Live Action | Solo     | 2023      |    Good |
+| Rebel Moon – Part Two: The Scargiver                           | USA (United States of America) | Live Action | Solo     | 2024      |    Good |
+| Ponniyin Selvan                                                | India                          | Live Action | Solo     | 2022      |    Good |
+| Ponniyin Selvan 2                                              | India                          | Live Action | Solo     | 2023      |    Good |
+| Sirf Ek Bandaa Kaafi Hai                                       | India                          | Live Action | Solo     | 2023      |  Better |
+| Petta                                                          | India                          | Live Action | Solo     | 2019      |  Better |
+| Jailer                                                         | India                          | Live Action | Solo     | 2023      |  Better |
+| Jawan                                                          | India                          | Live Action | Solo     | 2023      |  Better |
+| Blue Beetle                                                    | USA (United States of America) | Live Action | Solo     | 2023      |  Better |
+| The Creator                                                    |                                | Live Action | Solo     | 2023      |  Better |
+| Farzi                                                          | India                          | Series      |          |           |  Better |
+| Guns & Gulaabs                                                 | India                          | Series      |          |           |  Better |
+| Kurup                                                          | India                          | Live Action | Solo     | 2021      |  Better |
+| Dhamaka                                                        | India                          | Live Action | Solo     | 2021      |    Good |
+| Harold and the Purple Crayon                                   | USA (United States of America) | Live Action | Solo     | 2024      |     Bad |
+| The Fall Guy                                                   | USA (United States of America) | Live Action | Solo     | 2024      |    Good |
+| Manjummel Boys                                                 | India                          | Live Action | Solo     | 2024      |    Best |
+| Maharaja                                                       | India                          | Live Action | Solo     | 2024      |    Best |
+| Shaitaan                                                       | India                          | Live Action | Solo     | 2024      |    Good |
+| Rise of the Planet of the Apes                                 | USA (United States of America) | Live Action | Solo     | 2011      |  Better |
+| War of the Planet of the Apes                                  | USA (United States of America) | Live Action | Solo     | 2017      |  Better |
+| Kingdom of the Planet of the Apes                              | USA (United States of America) | Live Action | Solo     | 2024      |  Better |
+| Ultraman Rising                                                | Japan                          | Animation   |          | 2024      |  Better |
+| Lightyear                                                      | USA (United States of America) | Animation   |          | 2022      |    Good |
+| Minions: The Rise of Gru                                       | USA (United States of America) | Animation   |          | 2022      |  Better |
+| Luca                                                           | USA (United States of America) | Animation   |          | 2021      |    Good |
+| The Boss Baby                                                  | USA (United States of America) | Animation   |          | 2017      |  Better |
+| Puss in Boots                                                  | USA (United States of America) | Animation   |          | 2011      |  Better |
+| Puss in Boots: The Last Wish                                   | USA (United States of America) | Animation   |          | 2022      |  Better |
+| Spider-Man: Into the Spider-Verse                              | USA (United States of America) | Animation   |          | 2018      |  Better |
+| Spider Man Across the Spider Verse                             | USA (United States of America) | Animation   |          | 2023      |    Best |
+| Soul                                                           | USA (United States of America) | Animation   |          | 2020      |  Better |
+| A Whisker Away                                                 | Japan                          | Animation   |          | 2020      |    Good |
+| Lupin the Third: Goemon's Blood Spray                          | Japan                          | Animation   |          | 2017      |    Best |
+| Weathering with You                                            | Japan                          | Animation   |          | 2019      |    Best |
+| Your Name                                                      | Japan                          | Animation   |          | 2016      |    Best |
+| A Silent Voice                                                 | Japan                          | Animation   |          | 2016      |  Better |
+| The Garden of Words                                            | Japan                          | Animation   |          | 2013      |  Better |
+| Spirited Away                                                  | Japan                          | Animation   |          | 2001      |    Best |
+| Children Who Chase Lost Voices                                 | Japan                          | Animation   |          | 2011      |  Better |
+| 5 Centimeters per Second                                       | Japan                          | Animation   |          | 2007      |  Better |
+| Ponyo                                                          | Japan                          | Animation   |          | 2008      |    Best |
+| Howl's Moving Castle                                           | Japan                          | Animation   |          | 2004      |    Best |
+| My Neighbor Totoro                                             | Japan                          | Animation   |          | 1988      |    Best |
+| Princess Mononoke                                              | Japan                          | Animation   |          | 1997      |  Better |
+| Kiki's Delivery Service                                        | Japan                          | Animation   |          | 1989      |  Better |
+| The Wind Rises                                                 | Japan                          | Animation   |          | 2013      |  Better |
+| Castle in the Sky                                              | Japan                          | Animation   |          | 1986      |    Best |
+| The Secret World of Arrietty                                   | Japan                          | Animation   |          | 2010      |    Best |
+| Whisper of the Heart                                           | Japan                          | Animation   |          | 1995      |  Better |
+| The Cat Returns                                                | Japan                          | Animation   |          | 2002      |    Good |
+| The Girl Who Leapt Through Time                                | Japan                          | Animation   |          | 2006      |  Better |
+| Wolf Children                                                  | Japan                          | Animation   |          | 2012      |  Better |
+| When Marnie Was There                                          | Japan                          | Animation   |          | 2014      |    Best |
+| Death Note                                                     | Japan                          | Animation   |          | 2006      |    Best |
+| Into the Forest of Fireflies' Light                            | Japan                          | Animation   |          | 2011      |    Best |
+| Aura: Koga Maryuin's Last War                                  | Japan                          | Animation   |          | 2008      |  Better |
+| The Disappearance of Haruhi Suzumiya                           | Japan                          | Animation   |          | 2010      |    Best |
+| Taifuu no Noruda                                               | Japan                          | Animation   |          | 2015      |  Better |
+| Psychic School Wars                                            | Japan                          | Animation   |          | 2012      |    Good |
+| Tamako Love Story                                              | Japan                          | Animation   |          | 2014      |  Better |
+| Summer Wars                                                    | Japan                          | Animation   |          | 2009      |    Best |
+| Hello world                                                    | Japan                          | Animation   |          | 2019      |  Better |
+| Fireworks                                                      | Japan                          | Animation   |          | 2017      |  Better |
+| Colorful                                                       | Japan                          | Animation   |          | 2010      |    Good |
+| From Up on Poppy Hill                                          | Japan                          | Animation   |          | 2011      |    Best |
+| Final Fantasy VII: Advent Children                             | Japan                          | Animation   |          | 2005      |    Good |
+| Naruto the Movie: Ninja Clash in the Land of Snow              | Japan                          | Animation   |          | 2004      |  Better |
+| Naruto the Movie: Legend of the Stone of Gelel                 | Japan                          | Animation   |          | 2005      |    Good |
+| Naruto the Movie: Guardians of the Crescent Moon Kingdom       | Japan                          | Animation   |          | 2006 Good |     IDK |
+| Naruto the Movie: Shippuden                                    | Japan                          | Animation   |          | 2007      |  Better |
+| Naruto the Movie: Shippuden: Bonds                             | Japan                          | Animation   |          | 2008      |  Better |
+| Naruto the Movie: Shippuden: The Will of Fire                  | Japan                          | Animation   |          | 2009      |  Better |
+| Naruto the Movie: Shippuden: The Lost Tower                    | Japan                          | Animation   |          | 2010      |  Better |
+| Naruto the Movie: Shippuden: Blood Prison                      | Japan                          | Animation   |          | 2011      |  Better |
+| Naruto the Movie: Shippuden: Road to Ninja                     | Japan                          | Animation   |          | 2012      |  Better |
+| Naruto the Movie: Shippuden: The Last                          | Japan                          | Animation   |          | 2013      |  Better |
+| Boruto: The Naruto Movie                                       | Japan                          | Animation   |          | 2015      |  Better |
+| Mary and the Witch's Flower                                    | Japan                          | Animation   |          | 2017      |    Best |
+| Sword of the Stranger                                          | Japan                          | Animation   |          | 2007      |  Better |
+| Berserk Golden Age Arc I: Egg of the Supreme Ruler             | Japan                          | Animation   |          | 2012      |  Better |
+| Berserk: The Golden Age Arc II - The Battle for Doldrey        | Japan                          | Animation   |          | 2012      |  Better |
+| Berserk: The Advent                                            | Japan                          | Animation   |          | 2013      |     IDK |
+| Origin- Spirits of the Past                                    | Japan                          | Animation   |          | 2006      |  Better |
+| Demon Slayer: Mugen Train                                      | Japan                          | Animation   |          | 2020      |  Better |
+| Dr. Stone: Ryuusui                                             | Japan                          | Animation   |          | 2022      |    Best |
+| Golden Boy                                                     | Japan                          | Animation   | Series   | 1995      |    Best |
+| One Piece 3D: Mugiwara cheisu                                  | Japan                          | Animation   |          | 2011      |  Better |
+| One Piece: Stampede                                            | Japan                          | Animation   |          | 2019      |    Best |
+| One Piece Film: Z                                              | Japan                          | Animation   |          | 2012      |    Best |
+| One Piece Film: Gold                                           | Japan                          | Animation   |          | 2016      |    Best |
+| Sword Art Online: Ordinal Scale                                | Japan                          | Animation   |          | 2017      |    Best |
+| The Boy and the Beast                                          | Japan                          | Animation   |          | 2015      |    Best |
+| Stand By Me Doraemon 2                                         | Japan                          | Animation   |          | 2020      |    Good |
+| Justice League: The Flashpoint Paradox                         | Japan                          | Animation   |          | 2013      |  Better |
+| Monsters: 103 Mercies Dragon Damnation OVA                     | Japan                          | Animation   |          |           |  Better |
+| The Boy and the Heron                                          | Japan                          | Animation   |          | 2023      |  Better |
+| God Of Highschool                                              | Japan                          | Animation   | Series   |           |    Good |
+| Avatar the Last Airbender                                      | Japan                          | Animation   | Series   |           |  Better |
+| Dragon Ball Z                                                  | Japan                          | Animation   | Series   |           |    Good |
+| Dragon Ball Super                                              | Japan                          | Animation   | Series   |           |    Good |
+| Dragon Ball Super: Broly                                       | Japan                          | Animation   | Solo     | 2018      |    Good |
+| Dragon Ball DAIMA                                              | Japan                          | Animation   | Series   |           |  Better |
+| Naruto                                                         | Japan                          | Animation   | Series   |           |  Better |
+| Naruto Shippuden                                               | Japan                          | Animation   | Series   |           |  Better |
+| Demon Slayer                                                   | Japan                          | Animation   | Series   |           |  Better |
+| Dr. Stone                                                      | Japan                          | Animation   | Series   |           |    Best |
+| Parasyte                                                       | Japan                          | Animation   | Series   |           |  Better |
+| Prison School                                                  | Japan                          | Animation   | Series   | 2015      |    Good |
+| Hunter X Hunter                                                | Japan                          | Animation   | Series   |           |  Better |
+| One Piece                                                      | Japan                          | Animation   | Series   |           |    Best |
+| My Hero Academia                                               | Japan                          | Animation   | Series   |           |  Better |
+| One Punch Man                                                  | Japan                          | Animation   | Series   |           |    Best |
+| Scum's Wish                                                    | Japan                          | Animation   | Series   |           |    Good |
+| Rent a Girlfriend                                              | Japan                          | Animation   | Series   |           |  Better |
+| School Babysitter                                              | Japan                          | Animation   | Series   |           |  Better |
+| Angel Densetsu                                                 | Japan                          | Animation   | Series   |           |    Good |
+| Black Clover                                                   | Japan                          | Animation   | Series   |           |  Better |
+| Tokyo Ghoul                                                    | Japan                          | Animation   | Series   |           |  Better |
+| Tokyo Ghoul √A                                                 | Japan                          | Animation   | Series   |           |    Good |
+| Tokyo Ghoul re                                                 | Japan                          | Animation   | Series   |           |    Good |
+| Darling In The Franxx                                          | Japan                          | Animation   | Series   |           |    Best |
+| Sword Art Online I                                             | Japan                          | Animation   | Series   |           |  Better |
+| Sword Art Online II                                            | Japan                          | Animation   | Series   |           |  Better |
+| Uzaki-chan Wants to Hang Out!                                  | Japan                          | Animation   | Series   |           |    Good |
+| Jujutsu Kaisen                                                 | Japan                          | Animation   | Series   |           |  Better |
+| Jobless Reincarnation                                          | Japan                          | Animation   | Series   |           |  Better |
+| Attack on Titan                                                | Japan                          | Animation   | Series   |           |  Better |
+| Gleipnir                                                       | Japan                          | Animation   | Series   |           |  Better |
+| Classroom of the Elite                                         | Japan                          | Animation   | Series   |           |  Better |
+| Tokyo Revengers                                                | Japan                          | Animation   | Series   |           |  Better |
+| The Rising of the Shield Hero                                  | Japan                          | Animation   | Series   |           |  Better |
+| Fairy Tail                                                     | Japan                          | Animation   | Series   |           |    Best |
+| Spy x Family                                                   | Japan                          | Animation   | Series   |           |  Better |
+| Bleach                                                         | Japan                          | Animation   | Series   |           |  Better |
+| Another                                                        | Japan                          | Animation   | Series   |           |    Good |
+| Chainsaw Man                                                   | Japan                          | Animation   | Series   |           |  Better |
+| Inuyasha                                                       | Japan                          | Animation   | Series   |           |  Better |
+| Solo Leveling                                                  | Japan                          | Animation   | Series   |           |    Best |
+| Kaiju No. 8                                                    | Japan                          | Animation   | Series   |           |  Better |
+| Steins;Gate                                                    | Japan                          | Animation   | Series   |           |  Better |
+| Steins;Gate 0                                                  | Japan                          | Animation   | Series   |           |  Better |
+| Ninja Kamui                                                    | Japan                          | Animation   | Series   |           |  Better |
+| Oshi no Ko                                                     | Japan                          | Animation   | Series   |           |    Good |
+| Future Diary                                                   | Japan                          | Animation   | Series   |           |  Better |
+| Vinland Saga                                                   | Japan                          | Animation   | Series   |           |  Better |
+| Monster                                                        | Japan                          | Animation   | Series   |           |  Better |
+| The Promised Neverland                                         | Japan                          | Animation   | Series   |           |  Better |
+| Dandadan                                                       | Japan                          | Animation   | Series   |           |  Better |
+| That Time I Got Reincarnated as a Slime                        | Japan                          | Animation   | Series   |           |  Better |
+| Mashle: Magic and Muscles                                      | Japan                          | Animation   | Series   |           |  Better |
+| Sakamoto Days                                                  | Japan                          | Animation   | Series   |           |  Better |
+| One Piece Fan Letter                                           | Japan                          | Animation   | Series   |           |    Best |
