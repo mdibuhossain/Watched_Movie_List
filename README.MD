@@ -652,6 +652,8 @@
 | Hi Nanna                                                       | India                          | Live Action | Solo    | 2023 |  Better |
 | Bhakshak                                                       | India                          | Live Action | Solo    | 2024 |  Better |
 | Rekhachithram                                                  | India                          | Live Action | Solo    | 2025 |    Best |
+| Ponman                                                         | India                          | Live Action | Solo    | 2025 |  Better |
+| Deva                                                           | India                          | Live Action | Solo    | 2025 |  Better |
 | Kaathuvaakula Rendu Kaadhal                                    | India                          | Live Action | Solo    | 2022 |    Good |
 | The Family Star                                                | India                          | Live Action | Solo    | 2024 |    Good |
 | Dil Bechara                                                    | India                          | Live Action | Solo    | 2020 |  Better |
@@ -689,10 +691,13 @@
 | BlackBerry                                                     | USA (United States of America) | Live Action | Solo    | 2023 |    Good |
 | Rebel Moon                                                     | USA (United States of America) | Live Action | Solo    | 2023 |    Good |
 | Rebel Moon – Part Two: The Scargiver                           | USA (United States of America) | Live Action | Solo    | 2024 |    Good |
+| Red One                                                        | USA (United States of America) | Live Action | Solo    | 2024 |    Good |
 | Ponniyin Selvan                                                | India                          | Live Action | Solo    | 2022 |    Good |
 | Ponniyin Selvan 2                                              | India                          | Live Action | Solo    | 2023 |    Good |
 | Sirf Ek Bandaa Kaafi Hai                                       | India                          | Live Action | Solo    | 2023 |  Better |
 | Petta                                                          | India                          | Live Action | Solo    | 2019 |  Better |
+| Lucifer                                                        | India                          | Live Action | Solo    | 2019 |  Better |
+| Lucifer 2: Empuraan                                            | India                          | Live Action | Solo    | 2025 |    Good |
 | Jailer                                                         | India                          | Live Action | Solo    | 2023 |  Better |
 | Jawan                                                          | India                          | Live Action | Solo    | 2023 |  Better |
 | Blue Beetle                                                    | USA (United States of America) | Live Action | Solo    | 2023 |  Better |
@@ -840,3 +845,5 @@
 | Mashle: Magic and Muscles                                      | Japan                          | Animation   | Series  |      |  Better |
 | Sakamoto Days                                                  | Japan                          | Animation   | Series  |      |  Better |
 | One Piece Fan Letter                                           | Japan                          | Animation   | Series  |      |    Best |
+| Ne Zha                                                         | China                          | Animation   | Series  |      |  Better |
+| Tower of God                                                   | Japan                          | Animation   | Series  |      |  Better |
