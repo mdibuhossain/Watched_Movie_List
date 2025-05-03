@@ -671,6 +671,7 @@
 | Panchayat                                                      | India                          | Live Action | Series  |      |    Best |
 | Sandman                                                        |                                | Live Action | Series  |      |  Better |
 | Hit the First Case                                             | India                          | Live Action | Solo    | 2022 |    Best |
+| HIT: The Second Case                                           | India                          | Live Action | Solo    | 2022 |    Best |
 | HIT: The Third Case                                            | India                          | Live Action | Solo    | 2025 |    Best |
 | Vikram Vedha                                                   | India                          | Live Action | Solo    | 2017 |    Best |
 | The Man Who Sold His Skin                                      |                                | Live Action | Solo    | 2020 |     IDK |
