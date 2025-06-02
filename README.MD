@@ -674,6 +674,10 @@
 | HIT: The Second Case                                           | India                          | Live Action | Solo    | 2022 |    Best |
 | HIT: The Third Case                                            | India                          | Live Action | Solo    | 2025 |    Best |
 | Vikram Vedha                                                   | India                          | Live Action | Solo    | 2017 |    Best |
+| Abraham Ozler                                                  | India                          | Live Action | Solo    | 2024 |  Better |
+| Hisaab Barabar                                                 | India                          | Live Action | Solo    | 2024 |    Good |
+| Trance                                                         | India                          | Live Action | Solo    | 2020 |    Good |
+| Sookshmadarshini                                               | India                          | Live Action | Solo    | 2024 |  Better |
 | The Man Who Sold His Skin                                      |                                | Live Action | Solo    | 2020 |     IDK |
 | Werewolf by Night                                              |                                | Live Action | Solo    | 2022 |    Good |
 | House of the Dragon                                            |                                | Live Action | Series  |      |    Best |
