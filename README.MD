@@ -496,6 +496,7 @@
 | Bad Kids of Crestview Academy                                  |                                | Live Action | Solo    | 2017 |    Good |
 | The Departed                                                   |                                | Live Action | Solo    | 2006 |    Best |
 | Super 30                                                       | India                          | Live Action | Solo    | 2019 |    Best |
+| Section 375                                                    | India                          | Live Action | Solo    | 2019 |  Better |
 | Django Unchained                                               |                                | Live Action | Solo    | 2012 |  Better |
 | Sector 7                                                       |                                | Live Action | Solo    |      |  Better |
 | The Covenant                                                   |                                | Live Action | Solo    | 2006 |    Good |
@@ -665,6 +666,8 @@
 | Vikram                                                         | India                          | Live Action | Solo    | 2022 |    Best |
 | K.G.F: Chapter 1                                               | India                          | Live Action | Solo    | 2018 |  Better |
 | K.G.F: Chapter 2                                               | India                          | Live Action | Solo    | 2022 |  Better |
+| Stree                                                          | India                          | Live Action | Solo    | 2018 |    Good |
+| Stree 2                                                        | India                          | Live Action | Solo    | 2024 |    Good |
 | Sacred Game                                                    | India                          | Live Action | Solo    | 2018 |  Better |
 | Solo                                                           | India                          | Live Action | Solo    | 2017 |  Better |
 | Mirzapur                                                       | India                          | Live Action | Series  |      |    Best |
@@ -704,6 +707,8 @@
 | Petta                                                          | India                          | Live Action | Solo    | 2019 |  Better |
 | Lucifer                                                        | India                          | Live Action | Solo    | 2019 |  Better |
 | Lucifer 2: Empuraan                                            | India                          | Live Action | Solo    | 2025 |    Good |
+| Thudarum                                                       | India                          | Live Action | Solo    | 2025 |    Best |
+| Retro                                                          | India                          | Live Action | Solo    | 2025 |    Good |
 | Jailer                                                         | India                          | Live Action | Solo    | 2023 |  Better |
 | Jawan                                                          | India                          | Live Action | Solo    | 2023 |  Better |
 | Blue Beetle                                                    | USA (United States of America) | Live Action | Solo    | 2023 |  Better |
