@@ -1,6 +1,7 @@
 | title                                                          | origin                         | filmType    | subType | year |  review |
 | :------------------------------------------------------------- | ------------------------------ | ----------- | ------- | ---- | ------: |
 | Salute                                                         | India                          | Live Action | Solo    | 2022 |  Better |
+| Hulchul                                                        | India                          | Live Action | Solo    | 2004 |    Good |
 | Punorjonmo 1                                                   | Bangladesh                     | Live Action | Solo    |      |    Best |
 | Punorjonmo 2                                                   | Bangladesh                     | Live Action | Solo    |      |    Best |
 | Punorjonmo 3                                                   | Bangladesh                     | Live Action | Solo    |      |    Best |
