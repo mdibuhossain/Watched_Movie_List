@@ -619,14 +619,14 @@
 | Double World                                                   |                                | Live Action | Solo    | 2019 |    Good |
 | Current War                                                    |                                | Live Action | Solo    | 2017 |    Good |
 | Tom & Jerry: The Movie                                         |                                | Live Action | Solo    | 2021 |    Good |
-| WandaVision                                                    |                                | Live Action | Series  |      |  Better |
-| The Falcon and The Winter Soldier                              |                                | Live Action | Series  |      |  Better |
-| Loki                                                           |                                | Live Action | Series  |      |  Better |
-| What If...?                                                    |                                | Live Action | Series  |      |  Better |
-| Ms. Marvel                                                     |                                | Live Action | Series  |      |    Good |
-| Hawkeye                                                        |                                | Live Action | Series  |      |    Good |
-| Shang-Chi and the Legend of the Ten Rings                      |                                | Live Action | Solo    | 2021 |    Best |
-| Spider Man No Way Home                                         |                                | Live Action | Solo    | 2021 |    Best |
+| WandaVision                                                    | USA (United States of America) | Live Action | Series  |      |  Better |
+| The Falcon and The Winter Soldier                              | USA (United States of America) | Live Action | Series  |      |  Better |
+| Loki                                                           | USA (United States of America) | Live Action | Series  |      |  Better |
+| What If...?                                                    | USA (United States of America) | Live Action | Series  |      |  Better |
+| Ms. Marvel                                                     | USA (United States of America) | Live Action | Series  |      |    Good |
+| Hawkeye                                                        | USA (United States of America) | Live Action | Series  |      |    Good |
+| Shang-Chi and the Legend of the Ten Rings                      | USA (United States of America) | Live Action | Solo    | 2021 |    Best |
+| Spider Man No Way Home                                         | USA (United States of America) | Live Action | Solo    | 2021 |    Best |
 | Eternals                                                       |                                | Live Action | Solo    | 2021 |    Good |
 | Nobody                                                         |                                | Live Action | Solo    | 2021 |  Better |
 | Mortal Kombat                                                  |                                | Live Action | Solo    | 2021 |  Better |
@@ -635,20 +635,20 @@
 | 22 Jump Street                                                 |                                | Live Action | Solo    | 2014 |    Good |
 | Love Will Tear Us Apart                                        |                                | Live Action | Solo    | 2013 |    Good |
 | The Conjuring The Devil Made Me Do It                          |                                | Live Action | Solo    | 2021 |    Good |
-| Black Widow                                                    |                                | Live Action | Solo    | 2021 |    Good |
+| Black Widow                                                    | USA (United States of America) | Live Action | Solo    | 2021 |    Good |
 | Jungle Cruise                                                  |                                | Live Action | Solo    | 2021 |  Better |
-| The Tomorrow War                                               |                                | Live Action | Solo    | 2021 |  Better |
-| Hitman's Wife's Bodyguard                                      |                                | Live Action | Solo    | 2021 |     Bad |
+| The Tomorrow War                                               | USA (United States of America) | Live Action | Solo    | 2021 |  Better |
+| Hitman's Wife's Bodyguard                                      | USA (United States of America) | Live Action | Solo    | 2021 |     Bad |
 | Free Guy                                                       |                                | Live Action | Solo    | 2021 |    Best |
-| G.I. Joe - Snake Eyes                                          |                                | Live Action | Solo    | 2021 |  Better |
+| G.I. Joe - Snake Eyes                                          | USA (United States of America) | Live Action | Solo    | 2021 |  Better |
 | The Mandalorian                                                |                                | Live Action | Series  |      |    Good |
 | The Umbrella Academy                                           |                                | Live Action | Series  |      |    Good |
 | Searching                                                      |                                | Live Action | Solo    | 2018 |    Good |
 | Cruella                                                        |                                | Live Action | Solo    | 2021 |  Better |
 | Wrath of Man                                                   |                                | Live Action | Solo    | 2021 |  Better |
 | The Adam Project                                               |                                | Live Action | Solo    | 2022 |    Good |
-| The Batman                                                     |                                | Live Action | Solo    | 2022 |  Better |
-| Uncharted                                                      |                                | Live Action | Solo    | 2022 |    Best |
+| The Batman                                                     | USA (United States of America) | Live Action | Solo    | 2022 |  Better |
+| Uncharted                                                      | USA (United States of America) | Live Action | Solo    | 2022 |    Best |
 | Kannum Kannum Kollaiyadithaal                                  | India                          | Live Action | Solo    | 2020 |  Better |
 | Toofaan                                                        | India                          | Live Action | Solo    | 2021 |    Good |
 | Hi Nanna                                                       | India                          | Live Action | Solo    | 2023 |  Better |
@@ -673,7 +673,7 @@
 | Solo                                                           | India                          | Live Action | Solo    | 2017 |  Better |
 | Mirzapur                                                       | India                          | Live Action | Series  |      |    Best |
 | Panchayat                                                      | India                          | Live Action | Series  |      |    Best |
-| Sandman                                                        |                                | Live Action | Series  |      |  Better |
+| Sandman                                                        | USA (United States of America) | Live Action | Series  |      |  Better |
 | Hit the First Case                                             | India                          | Live Action | Solo    | 2022 |    Best |
 | HIT: The Second Case                                           | India                          | Live Action | Solo    | 2022 |    Best |
 | HIT: The Third Case                                            | India                          | Live Action | Solo    | 2025 |    Best |
@@ -682,9 +682,10 @@
 | Hisaab Barabar                                                 | India                          | Live Action | Solo    | 2024 |    Good |
 | Trance                                                         | India                          | Live Action | Solo    | 2020 |    Good |
 | Sookshmadarshini                                               | India                          | Live Action | Solo    | 2024 |  Better |
-| The Man Who Sold His Skin                                      |                                | Live Action | Solo    | 2020 |     IDK |
-| Werewolf by Night                                              |                                | Live Action | Solo    | 2022 |    Good |
-| House of the Dragon                                            |                                | Live Action | Series  |      |    Best |
+| Tourist Family                                                 | India                          | Live Action | Solo    | 2025 |    Best |
+| The Man Who Sold His Skin                                      | Tunisia                        | Live Action | Solo    | 2020 |     IDK |
+| Werewolf by Night                                              | USA (United States of America) | Live Action | Solo    | 2022 |    Good |
+| House of the Dragon                                            | USA (United States of America) | Live Action | Series  |      |    Best |
 | Peaky Blinders                                                 | USA (United States of America) | Live Action | Series  |      |    Best |
 | Black Panther: Wakanda Forever                                 | USA (United States of America) | Live Action | Solo    | 2022 |    Good |
 | Bullet Train                                                   | USA (United States of America) | Live Action | Solo    | 2022 |  Better |
@@ -692,12 +693,12 @@
 | The Roundup                                                    | Korea                          | Live Action | Solo    | 2022 |    Good |
 | Squid Game                                                     | Korea                          | Live Action | Series  | 2021 |  Better |
 | Black Adam                                                     | USA (United States of America) | Live Action | Solo    | 2022 |    Good |
-| Doctor G                                                       |                                | Live Action | Solo    | 2022 |  Better |
+| Doctor G                                                       | India                          | Live Action | Solo    | 2022 |  Better |
 | Etharkkum Thunindhavan                                         | India                          | Live Action | Solo    | 2022 |    Good |
 | Bheemla Nayak                                                  | India                          | Live Action | Solo    | 2022 |    Good |
-| Thunivu                                                        |                                | Live Action | Solo    | 2023 |    Good |
+| Thunivu                                                        | India                          | Live Action | Solo    | 2023 |    Good |
 | Ghosted                                                        | USA (United States of America) | Live Action | Solo    | 2023 |    Good |
-| Sisu                                                           |                                | Live Action | Solo    | 2023 |    Best |
+| Sisu                                                           | Finland                        | Live Action | Solo    | 2023 |    Best |
 | BlackBerry                                                     | USA (United States of America) | Live Action | Solo    | 2023 |    Good |
 | Rebel Moon                                                     | USA (United States of America) | Live Action | Solo    | 2023 |    Good |
 | Rebel Moon – Part Two: The Scargiver                           | USA (United States of America) | Live Action | Solo    | 2024 |    Good |
@@ -713,7 +714,7 @@
 | Jailer                                                         | India                          | Live Action | Solo    | 2023 |  Better |
 | Jawan                                                          | India                          | Live Action | Solo    | 2023 |  Better |
 | Blue Beetle                                                    | USA (United States of America) | Live Action | Solo    | 2023 |  Better |
-| The Creator                                                    |                                | Live Action | Solo    | 2023 |  Better |
+| The Creator                                                    | USA (United States of America) | Live Action | Solo    | 2023 |  Better |
 | Farzi                                                          | India                          | Live Action | Series  |      |  Better |
 | Guns & Gulaabs                                                 | India                          | Live Action | Series  |      |  Better |
 | Kurup                                                          | India                          | Live Action | Solo    | 2021 |  Better |
