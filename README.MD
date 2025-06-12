@@ -113,6 +113,7 @@
 | Pirates of the Caribbean: At World's End                       | USA (United States of America) | Live Action | Solo    | 2007 |    Best |
 | Pirates of the Caribbean: On Stranger Tides                    | USA (United States of America) | Live Action | Solo    | 2011 |    Best |
 | Pirates of the Caribbean: Dead Men Tell No Tales               | USA (United States of America) | Live Action | Solo    | 2017 |    Best |
+| The Pursuit of Happyness                                       | USA (United States of America) | Live Action | Solo    | 2006 |    Best |
 | The Golden Compass                                             | USA (United States of America) | Live Action | Solo    |      |  Better |
 | Warcraft                                                       | USA (United States of America) | Live Action | Solo    |      |  Better |
 | Wonder Woman                                                   | USA (United States of America) | Live Action | Solo    | 2017 |    Best |
