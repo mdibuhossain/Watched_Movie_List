@@ -655,6 +655,7 @@
 | Hi Nanna                                                       | India                          | Live Action | Solo    | 2023 |  Better |
 | Bhakshak                                                       | India                          | Live Action | Solo    | 2024 |  Better |
 | Rekhachithram                                                  | India                          | Live Action | Solo    | 2025 |    Best |
+| Padakkalam                                                     | India                          | Live Action | Solo    | 2025 |    Good |
 | Ponman                                                         | India                          | Live Action | Solo    | 2025 |  Better |
 | Deva                                                           | India                          | Live Action | Solo    | 2025 |  Better |
 | Kaathuvaakula Rendu Kaadhal                                    | India                          | Live Action | Solo    | 2022 |    Good |
