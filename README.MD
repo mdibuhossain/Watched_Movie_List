@@ -667,6 +667,7 @@
 | Aavesham                                                       | India                          | Live Action | Solo    | 2024 |  Better |
 | Premam                                                         | India                          | Live Action | Solo    | 2016 |    Good |
 | Vikram                                                         | India                          | Live Action | Solo    | 2022 |    Best |
+| Ante Sundaraniki                                               | India                          | Live Action | Solo    | 2022 |    Good |
 | K.G.F: Chapter 1                                               | India                          | Live Action | Solo    | 2018 |  Better |
 | K.G.F: Chapter 2                                               | India                          | Live Action | Solo    | 2022 |  Better |
 | Stree                                                          | India                          | Live Action | Solo    | 2018 |    Good |
