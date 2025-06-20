@@ -55,6 +55,7 @@
 | Captain America: The Winter Soldier                            | USA (United States of America) | Live Action | Solo    | 2014 |    Best |
 | Captain America: Civil War                                     | USA (United States of America) | Live Action | Solo    | 2016 |    Best |
 | Captain America: Brave New World                               | USA (United States of America) | Live Action | Solo    | 2025 |    Good |
+| A Minecraft Movie                                              | USA (United States of America) | Live Action | Solo    | 2025 |    Good |
 | Guardian of the galaxy                                         | USA (United States of America) | Live Action | Solo    | 2014 |    Best |
 | Guardian of the galaxy Vol. 2                                  | USA (United States of America) | Live Action | Solo    | 2017 |    Best |
 | Ant-Man                                                        | USA (United States of America) | Live Action | Solo    | 2015 |    Best |
