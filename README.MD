@@ -701,6 +701,7 @@
 | Etharkkum Thunindhavan                                         | India                          | Live Action | Solo    | 2022 |    Good |
 | Bheemla Nayak                                                  | India                          | Live Action | Solo    | 2022 |    Good |
 | Thunivu                                                        | India                          | Live Action | Solo    | 2023 |    Good |
+| Falimy                                                         | India                          | Live Action | Solo    | 2023 |  Better |
 | Ghosted                                                        | USA (United States of America) | Live Action | Solo    | 2023 |    Good |
 | Sisu                                                           | Finland                        | Live Action | Solo    | 2023 |    Best |
 | BlackBerry                                                     | USA (United States of America) | Live Action | Solo    | 2023 |    Good |
