@@ -503,6 +503,7 @@
 | Super 30                                                       | India                          | Live Action | Solo    | 2019 |    Best |
 | Section 375                                                    | India                          | Live Action | Solo    | 2019 |  Better |
 | Django Unchained                                               |                                | Live Action | Solo    | 2012 |  Better |
+| Paan Singh Tomar                                               | India                          | Live Action | Solo    | 2012 |    Best |
 | Sector 7                                                       |                                | Live Action | Solo    |      |  Better |
 | The Covenant                                                   |                                | Live Action | Solo    | 2006 |    Good |
 | Viy 2: Journey to China                                        |                                | Live Action | Solo    | 2019 |    Good |
