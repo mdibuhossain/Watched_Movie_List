@@ -140,6 +140,7 @@
 | John Wick: Chapter 2                                           | USA (United States of America) | Live Action | Solo    | 2017 |    Best |
 | John Wick John Wick: Chapter 3 – Parabellum                    | USA (United States of America) | Live Action | Solo    | 2019 |    Best |
 | John Wick: Chapter 4                                           | USA (United States of America) | Live Action | Solo    | 2023 |    Best |
+| From the World of John Wick: Ballerina                         | USA (United States of America) | Live Action | Solo    | 2025 |  Better |
 | The Dark Knight                                                | USA (United States of America) | Live Action | Solo    |      |  Better |
 | The Dark Knight Rises                                          | USA (United States of America) | Live Action | Solo    |      |  Better |
 | Batman Begins                                                  | USA (United States of America) | Live Action | Solo    |      |  Better |
@@ -458,6 +459,7 @@
 | Alita Battle Angel                                             |                                | Live Action | Solo    | 2019 |  Better |
 | The Target                                                     |                                | Live Action | Solo    | 2014 |  Better |
 | The Adventures of Tintin                                       |                                | Live Action | Solo    | 2011 |  Better |
+| Rockstar                                                       | India                          | Live Action | Solo    | 2011 |    Good |
 | The Shawshank Redemption 1994                                  |                                | Live Action | Solo    |      |    Best |
 | Dumbo                                                          |                                | Live Action | Solo    | 2019 |  Better |
 | Sucker Punch                                                   |                                | Live Action | Solo    | 2011 |     Bad |
@@ -589,7 +591,8 @@
 | Dark Shadows                                                   |                                | Live Action | Solo    | 2012 |    Good |
 | Once Upon a Time in Hollywood                                  |                                | Live Action | Solo    | 2019 |    Good |
 | Golden Slumber                                                 |                                | Live Action | Solo    | 2018 |  Better |
-| The Old Guard                                                  |                                | Live Action | Solo    | 2020 |     IDK |
+| The Old Guard                                                  | USA (United States of America) | Live Action | Solo    | 2020 |     Bad |
+| The Old Guard 2                                                | USA (United States of America) | Live Action | Solo    | 2025 |     Bad |
 | The Manchurian Candidate                                       |                                | Live Action | Solo    | 2004 |  Better |
 | The Untouchables                                               |                                | Live Action | Solo    | 1987 |  Better |
 | Brian Banks                                                    |                                | Live Action | Solo    | 2018 |  Better |
