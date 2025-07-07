@@ -496,6 +496,7 @@
 | The Book Of Henry                                              |                                | Live Action | Solo    | 2017 |  Better |
 | Gangs of New York                                              |                                | Live Action | Solo    | 2002 |  Better |
 | American Made                                                  | USA (United States of America) | Live Action | Solo    | 2017 |  Better |
+| Hindi Medium                                                   | India                          | Live Action | Solo    | 2017 |    Best |
 | curse of the golden flower                                     |                                | Live Action | Solo    | 2006 |  Better |
 | Up in the Air                                                  |                                | Live Action | Solo    | 2009 |  Better |
 | Bad Kids of Crestview Academy                                  |                                | Live Action | Solo    | 2017 |    Good |
@@ -503,7 +504,7 @@
 | Super 30                                                       | India                          | Live Action | Solo    | 2019 |    Best |
 | Section 375                                                    | India                          | Live Action | Solo    | 2019 |  Better |
 | Django Unchained                                               |                                | Live Action | Solo    | 2012 |  Better |
-| Paan Singh Tomar                                               | India                          | Live Action | Solo    | 2012 |    Best |
+| Paan Singh Tomar                                               | India                          | Live Action | Solo    | 2012 |    Good |
 | Sector 7                                                       |                                | Live Action | Solo    |      |  Better |
 | The Covenant                                                   |                                | Live Action | Solo    | 2006 |    Good |
 | Viy 2: Journey to China                                        |                                | Live Action | Solo    | 2019 |    Good |
