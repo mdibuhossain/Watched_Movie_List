@@ -2,6 +2,8 @@
 | :------------------------------------------------------------- | ------------------------------ | ----------- | --------- | ----------- | ------: |
 | Salute                                                         | India                          | Live Action | Solo      | 2022        |  Better |
 | Hulchul                                                        | India                          | Live Action | Solo      | 2004        |    Good |
+| Colours of Innocence                                           | India                          | Live Action | Solo      | 2016        |  Better |
+| Utshob                                                         | Bangladesh                     | Live Action | Solo      | 2025        |  Better |
 | Punorjonmo 1                                                   | Bangladesh                     | Live Action | Solo      |             |    Best |
 | Punorjonmo 2                                                   | Bangladesh                     | Live Action | Solo      |             |    Best |
 | Punorjonmo 3                                                   | Bangladesh                     | Live Action | Solo      |             |    Best |
@@ -126,6 +128,7 @@
 | Mission Impossible – Rogue Nation                              | USA (United States of America) | Live Action | Solo      | 2015        |    Best |
 | Mission Impossible - Fallout                                   | USA (United States of America) | Live Action | Solo      | 2018        |    Best |
 | Mission: Impossible – Dead Reckoning Part One                  | USA (United States of America) | Live Action | Solo      | 2023        |    Best |
+| Mission: Impossible – The Final Reckoning                      | USA (United States of America) | Live Action | Solo      | 2025        |    Best |
 | Deadpool                                                       | USA (United States of America) | Live Action | Solo      | 2016        |  Better |
 | Deadpool 2                                                     | USA (United States of America) | Live Action | Solo      | 2018        |  Better |
 | Deadpool & Wolverine                                           | USA (United States of America) | Live Action | Solo      | 2024        |  Better |
@@ -144,9 +147,9 @@
 | The Dark Knight                                                | USA (United States of America) | Live Action | Solo      |             |  Better |
 | The Dark Knight Rises                                          | USA (United States of America) | Live Action | Solo      |             |  Better |
 | Batman Begins                                                  | USA (United States of America) | Live Action | Solo      |             |  Better |
-| Batman: Bad Blood                                              | USA (United States of America) | Live Action | Solo      |             |  Better |
-| Batma 1989                                                     | USA (United States of America) | Live Action | Solo      |             |  Better |
+| Batman 1989                                                    | USA (United States of America) | Live Action | Solo      |             |  Better |
 | Batman vs. Superman Dawn of Justice                            | USA (United States of America) | Live Action | Solo      |             |  Better |
+| Superman                                                       | USA (United States of America) | Live Action | Solo      | 2025        |  Better |
 | Suicide Squad                                                  | USA (United States of America) | Live Action | Solo      | 2016        |  Better |
 | The Suicide Squad                                              | USA (United States of America) | Live Action | Solo      | 2021        |    Best |
 | Batman: The Dark Knight Returns                                | USA (United States of America) | Live Action | Solo      |             |  Better |
@@ -267,6 +270,7 @@
 | Real Steel                                                     |                                | Live Action | Solo      |             |    Best |
 | Fantastic Four                                                 |                                | Live Action | Solo      | 2005        |  Better |
 | Fantastic Four: Rise of the Silver Surfer                      |                                | Live Action | Solo      | 2007        |  Better |
+| The Fantastic Four: First Steps                                |                                | Live Action | Solo      | 2025        |    Good |
 | Hellboy                                                        |                                | Live Action | Solo      | 2004        |     Bad |
 | Hellboy II: The Golden Army                                    |                                | Live Action | Solo      | 2008        |     Bad |
 | Hellboy                                                        |                                | Live Action | Solo      | 2019        |     Bad |
@@ -736,10 +740,23 @@
 | The Fall Guy                                                   | USA (United States of America) | Live Action | Solo      | 2024        |    Good |
 | Manjummel Boys                                                 | India                          | Live Action | Solo      | 2024        |    Best |
 | Maharaja                                                       | India                          | Live Action | Solo      | 2024        |    Best |
+| Special 26                                                     | India                          | Live Action | Solo      | 2013        |  Better |
 | Shaitaan                                                       | India                          | Live Action | Solo      | 2024        |    Good |
 | Rise of the Planet of the Apes                                 | USA (United States of America) | Live Action | Solo      | 2011        |  Better |
 | War of the Planet of the Apes                                  | USA (United States of America) | Live Action | Solo      | 2017        |  Better |
 | Kingdom of the Planet of the Apes                              | USA (United States of America) | Live Action | Solo      | 2024        |  Better |
+| Son of Batman                                                  | USA (United States of America) | Animation   |           | 2014        |  Better |
+| Justice League: War                                            | USA (United States of America) | Animation   |           | 2014        |  Better |
+| Batman vs. Robin                                               | USA (United States of America) | Animation   |           | 2015        |  Better |
+| Justice League: Throne of Atlantis                             | USA (United States of America) | Animation   |           | 2015        |    Good |
+| Batman: Bad Blood                                              | USA (United States of America) | Animation   |           | 2016        |  Better |
+| Justice League vs. Teen Titans                                 | USA (United States of America) | Animation   |           | 2016        |  Better |
+| Teen Titans: The Judas Contract                                | USA (United States of America) | Animation   |           | 2017        |  Better |
+| Justice League Dark                                            | USA (United States of America) | Animation   |           | 2017        |  Better |
+| The Death of Superman                                          | USA (United States of America) | Animation   |           | 2018        |  Better |
+| Batman: Hush                                                   | USA (United States of America) | Animation   |           | 2019        |    Good |
+| Justice League Dark: Apokolips War                             | USA (United States of America) | Animation   |           | 2020        |    Good |
+| Injustice                                                      | USA (United States of America) | Animation   |           | 2021        |  Better |
 | Ultraman Rising                                                | Japan                          | Animation   |           | 2024        |  Better |
 | Lightyear                                                      | USA (United States of America) | Animation   |           | 2022        |    Good |
 | Minions: The Rise of Gru                                       | USA (United States of America) | Animation   |           | 2022        |  Better |
