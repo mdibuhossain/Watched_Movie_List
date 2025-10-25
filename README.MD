@@ -3,6 +3,7 @@
 | Salute                                                         | India                          | Live Action | Solo      | 2022        |  Better |
 | Hulchul                                                        | India                          | Live Action | Solo      | 2004        |    Good |
 | Colours of Innocence                                           | India                          | Live Action | Solo      | 2016        |  Better |
+| Coolie                                                         | India                          | Live Action | Solo      | 2024        |  Better |
 | Utshob                                                         | Bangladesh                     | Live Action | Solo      | 2025        |  Better |
 | Punorjonmo 1                                                   | Bangladesh                     | Live Action | Solo      |             |    Best |
 | Punorjonmo 2                                                   | Bangladesh                     | Live Action | Solo      |             |    Best |
@@ -611,6 +612,7 @@
 | The Boys                                                       | USA (United States of America) | Live Action | Series    | 2019        |    Best |
 | Train to Busan                                                 | Korea                          | Live Action | Solo      | 2016        |    Best |
 | The Lost City of Z                                             | USA (United States of America) | Live Action | Solo      | 2016        |    Good |
+| Mantis                                                         | Korea                          | Live Action | Solo      | 2025        |    Good |
 | Rough Cut                                                      | Korea                          | Live Action | Solo      | 2008        |     Bad |
 | Peninsula                                                      |                                | Live Action | Solo      | 2020        |  Better |
 | Don’t Breathe                                                  |                                | Live Action | Solo      | 2016        |     Bad |
@@ -689,6 +691,7 @@
 | Solo                                                           | India                          | Live Action | Solo      | 2017        |  Better |
 | Mirzapur                                                       | India                          | Live Action | Series    |             |    Best |
 | Panchayat                                                      | India                          | Live Action | Series    |             |    Best |
+| The Ba\*\*\*ds of Bollywood                                    | India                          | Live Action | Series    | 2025        |    Best |
 | Sandman                                                        | USA (United States of America) | Live Action | Series    |             |  Better |
 | Hit the First Case                                             | India                          | Live Action | Solo      | 2022        |    Best |
 | HIT: The Second Case                                           | India                          | Live Action | Solo      | 2022        |    Best |
@@ -745,6 +748,7 @@
 | Rise of the Planet of the Apes                                 | USA (United States of America) | Live Action | Solo      | 2011        |  Better |
 | War of the Planet of the Apes                                  | USA (United States of America) | Live Action | Solo      | 2017        |  Better |
 | Kingdom of the Planet of the Apes                              | USA (United States of America) | Live Action | Solo      | 2024        |  Better |
+| Transformers One                                               | USA (United States of America) | Animation   |           | 2014        |    Best |
 | Son of Batman                                                  | USA (United States of America) | Animation   |           | 2014        |  Better |
 | Justice League: War                                            | USA (United States of America) | Animation   |           | 2014        |  Better |
 | Batman vs. Robin                                               | USA (United States of America) | Animation   |           | 2015        |  Better |
@@ -886,7 +890,8 @@
 | Dandadan                                                       | Japan                          | Animation   | Series    |             |  Better |
 | That Time I Got Reincarnated as a Slime                        | Japan                          | Animation   | Series    |             |  Better |
 | Mashle: Magic and Muscles                                      | Japan                          | Animation   | Series    |             |  Better |
-| Sakamoto Days                                                  | Japan                          | Animation   | Series    |             |  Better |
-| One Piece Fan Letter                                           | Japan                          | Animation   | Series    |             |    Best |
-| Ne Zha                                                         | China                          | Animation   | Series    |             |  Better |
+| Sakamoto Days                                                  | Japan                          | Animation   | Series    | 2025        |  Better |
+| One Piece Fan Letter                                           | Japan                          | Animation   | Series    | 2024        |    Best |
+| Ne Zha                                                         | China                          | Animation   | Series    | 2019        |  Better |
+| Ne Zha 2                                                       | China                          | Animation   | Series    | 2025        |  Better |
 | Tower of God                                                   | Japan                          | Animation   | Series    |             |  Better |
