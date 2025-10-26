@@ -681,7 +681,9 @@
 | Lucky Baskhar                                                  | India                          | Live Action | Solo      | 2024        |  Better |
 | Aavesham                                                       | India                          | Live Action | Solo      | 2024        |  Better |
 | Premam                                                         | India                          | Live Action | Solo      | 2016        |    Good |
+| Kaithi                                                         | India                          | Live Action | Solo      | 2019        |  Better |
 | Vikram                                                         | India                          | Live Action | Solo      | 2022        |    Best |
+| Leo                                                            | India                          | Live Action | Solo      | 2023        |  Better |
 | Ante Sundaraniki                                               | India                          | Live Action | Solo      | 2022        |    Good |
 | K.G.F: Chapter 1                                               | India                          | Live Action | Solo      | 2018        |  Better |
 | K.G.F: Chapter 2                                               | India                          | Live Action | Solo      | 2022        |  Better |
