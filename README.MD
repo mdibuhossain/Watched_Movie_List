@@ -641,7 +641,8 @@
 | Shang-Chi and the Legend of the Ten Rings                      | USA (United States of America) | Live Action | Solo      | 2021        |    Best |
 | Spider Man No Way Home                                         | USA (United States of America) | Live Action | Solo      | 2021        |    Best |
 | Eternals                                                       |                                | Live Action | Solo      | 2021        |    Good |
-| Nobody                                                         |                                | Live Action | Solo      | 2021        |  Better |
+| Nobody                                                         |                                | Live Action | Solo      | 2021        |    Good |
+| Nobody 2                                                       |                                | Live Action | Solo      | 2025        |    Good |
 | Mortal Kombat                                                  |                                | Live Action | Solo      | 2021        |  Better |
 | Shadow and Bone                                                |                                | Live Action | Series    |             |    Good |
 | 21 Jump Street                                                 |                                | Live Action | Solo      | 2012        |    Good |
@@ -684,6 +685,8 @@
 | Kaithi                                                         | India                          | Live Action | Solo      | 2019        |  Better |
 | Vikram                                                         | India                          | Live Action | Solo      | 2022        |    Best |
 | Leo                                                            | India                          | Live Action | Solo      | 2023        |  Better |
+| Jaane Jaan                                                     | India                          | Live Action | Solo      | 2023        |  Better |
+| Lokah Chapter 1: Chandra                                       | India                          | Live Action | Solo      | 2025        |  Better |
 | Ante Sundaraniki                                               | India                          | Live Action | Solo      | 2022        |    Good |
 | K.G.F: Chapter 1                                               | India                          | Live Action | Solo      | 2018        |  Better |
 | K.G.F: Chapter 2                                               | India                          | Live Action | Solo      | 2022        |  Better |
