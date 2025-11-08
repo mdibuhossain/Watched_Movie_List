@@ -694,9 +694,11 @@
 | Stree 2                                                        | India                          | Live Action | Solo      | 2024        |    Good |
 | Sacred Game                                                    | India                          | Live Action | Solo      | 2018        |  Better |
 | Solo                                                           | India                          | Live Action | Solo      | 2017        |  Better |
+| The Upside                                                     | USA (United States of America) | Live Action | Solo      | 2017        |  Better |
 | Mirzapur                                                       | India                          | Live Action | Series    |             |    Best |
 | Panchayat                                                      | India                          | Live Action | Series    |             |    Best |
 | The Ba\*\*\*ds of Bollywood                                    | India                          | Live Action | Series    | 2025        |    Best |
+| F1                                                             | USA (United States of America) | Live Action | Series    | 2025        |  Better |
 | Sandman                                                        | USA (United States of America) | Live Action | Series    |             |  Better |
 | Hit the First Case                                             | India                          | Live Action | Solo      | 2022        |    Best |
 | HIT: The Second Case                                           | India                          | Live Action | Solo      | 2022        |    Best |
