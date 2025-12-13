@@ -145,6 +145,7 @@
 | John Wick John Wick: Chapter 3 – Parabellum                    | USA (United States of America) | Live Action | Solo      | 2019        |    Best |
 | John Wick: Chapter 4                                           | USA (United States of America) | Live Action | Solo      | 2023        |    Best |
 | From the World of John Wick: Ballerina                         | USA (United States of America) | Live Action | Solo      | 2025        |  Better |
+| Jurassic World Rebirth                                         | USA (United States of America) | Live Action | Solo      | 2025        |    Good |
 | The Dark Knight                                                | USA (United States of America) | Live Action | Solo      |             |  Better |
 | The Dark Knight Rises                                          | USA (United States of America) | Live Action | Solo      |             |  Better |
 | Batman Begins                                                  | USA (United States of America) | Live Action | Solo      |             |  Better |
@@ -214,6 +215,7 @@
 | Who am I                                                       |                                | Live Action | Solo      |             |  Better |
 | World War Z                                                    |                                | Live Action | Solo      |             |  Better |
 | Victor Frankenstein                                            |                                | Live Action | Solo      | 2015        |    Good |
+| Frankenstein                                                   |                                | Live Action | Solo      | 2025        |  Better |
 | Fabricated City                                                |                                | Live Action | Solo      | 2017        |    Best |
 | Confidential Assignment                                        |                                | Live Action | Solo      | 2017        |  Better |
 | Death Race (1,2,3)                                             |                                | Live Action | Solo      |             |  Better |
@@ -514,6 +516,7 @@
 | The Covenant                                                   |                                | Live Action | Solo      | 2006        |    Good |
 | Viy 2: Journey to China                                        |                                | Live Action | Solo      | 2019        |    Good |
 | Sicario                                                        |                                | Live Action | Solo      | 2015        |    Good |
+| The Intern                                                     | USA (United States of America) | Live Action | Solo      | 2015        |  Better |
 | Gemini Man                                                     | USA (United States of America) | Live Action | Solo      | 2019        |  Better |
 | Sex Education                                                  | USA (United States of America) | Live Action | Series    |             |    Good |
 | Inglourious Basterds                                           |                                | Live Action | Solo      | 2009        |     IDK |
@@ -638,6 +641,7 @@
 | What If...?                                                    | USA (United States of America) | Live Action | Series    |             |  Better |
 | Ms. Marvel                                                     | USA (United States of America) | Live Action | Series    |             |    Good |
 | Hawkeye                                                        | USA (United States of America) | Live Action | Series    |             |    Good |
+| Marvel Zombies                                                 | USA (United States of America) | Live Action | Series    | 2025        |    Good |
 | Shang-Chi and the Legend of the Ten Rings                      | USA (United States of America) | Live Action | Solo      | 2021        |    Best |
 | Spider Man No Way Home                                         | USA (United States of America) | Live Action | Solo      | 2021        |    Best |
 | Eternals                                                       |                                | Live Action | Solo      | 2021        |    Good |
@@ -664,10 +668,14 @@
 | The Batman                                                     | USA (United States of America) | Live Action | Solo      | 2022        |  Better |
 | Uncharted                                                      | USA (United States of America) | Live Action | Solo      | 2022        |    Best |
 | Kannum Kannum Kollaiyadithaal                                  | India                          | Live Action | Solo      | 2020        |  Better |
+| Anjaam Pathiraa                                                | India                          | Live Action | Solo      | 2020        |  Better |
 | Toofaan                                                        | India                          | Live Action | Solo      | 2021        |    Good |
 | Hi Nanna                                                       | India                          | Live Action | Solo      | 2023        |  Better |
 | Bhakshak                                                       | India                          | Live Action | Solo      | 2024        |  Better |
 | Rekhachithram                                                  | India                          | Live Action | Solo      | 2025        |    Best |
+| Dude                                                           | India                          | Live Action | Solo      | 2025        |    Good |
+| Kaantha                                                        | India                          | Live Action | Solo      | 2025        |    Good |
+| The Girlfriend                                                 | India                          | Live Action | Solo      | 2025        |     Bad |
 | Karwaan                                                        | India                          | Live Action | Solo      | 2018        |  Better |
 | Raid                                                           | India                          | Live Action | Solo      | 2018        |  Better |
 | Raid 2                                                         | India                          | Live Action | Solo      | 2025        |  Better |
@@ -707,6 +715,8 @@
 | Abraham Ozler                                                  | India                          | Live Action | Solo      | 2024        |  Better |
 | Hisaab Barabar                                                 | India                          | Live Action | Solo      | 2024        |    Good |
 | Trance                                                         | India                          | Live Action | Solo      | 2020        |    Good |
+| The Family Man                                                 | India                          | Live Action | Series    | 2019        |  Better |
+| The Railway Men                                                | India                          | Live Action | Series    | 2023        |  Better |
 | Sookshmadarshini                                               | India                          | Live Action | Solo      | 2024        |  Better |
 | Tourist Family                                                 | India                          | Live Action | Solo      | 2025        |    Best |
 | The Man Who Sold His Skin                                      | Tunisia                        | Live Action | Solo      | 2020        |     IDK |
@@ -902,3 +912,4 @@
 | Ne Zha                                                         | China                          | Animation   | Series    | 2019        |  Better |
 | Ne Zha 2                                                       | China                          | Animation   | Series    | 2025        |  Better |
 | Tower of God                                                   | Japan                          | Animation   | Series    |             |  Better |
+| Chainsaw Man – The Movie: Reze Arc                             | Japan                          | Animation   | Solo      | 2025        |  Better |
