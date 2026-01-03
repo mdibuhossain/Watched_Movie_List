@@ -682,6 +682,7 @@
 | Kaantha                                                        | India                          | Live Action | Movie     | 2025        |    Good |
 | The Girlfriend                                                 | India                          | Live Action | Movie     | 2025        |     Bad |
 | Karwaan                                                        | India                          | Live Action | Movie     | 2018        |  Better |
+| Goodachari                                                     | India                          | Live Action | Movie     | 2018        |    Good |
 | Raid                                                           | India                          | Live Action | Movie     | 2018        |  Better |
 | Raid 2                                                         | India                          | Live Action | Movie     | 2025        |  Better |
 | Padakkalam                                                     | India                          | Live Action | Movie     | 2025        |    Good |
