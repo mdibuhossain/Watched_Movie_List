@@ -19,19 +19,19 @@
 | Karagar                                                        | Bangladesh                     | Live Action | Series    |             |  Better |
 | Knives Out                                                     | USA (United States of America) | Live Action | Movie     | 2019        |  Better |
 | knives Out 2: Glass Onion                                      | USA (United States of America) | Live Action | Movie     | 2022        |  Better |
-| Seven                                                          |                                | Live Action | Movie     | 1995        |    Best |
+| Seven                                                          | USA (United States of America) | Live Action | Movie     | 1995        |    Best |
 | Gran Torino                                                    | USA (United States of America) | Live Action | Movie     | 2008        |    Best |
 | Top Gun                                                        | USA (United States of America) | Live Action | Movie     | 1986        |    Best |
 | Top Gun Maverick                                               | USA (United States of America) | Live Action | Movie     | 2022        |    Best |
-| Casper                                                         |                                | Live Action | Movie     | 1995        |    Good |
-| Scott Pilgrim Vs The World                                     |                                | Live Action | Movie     | 2010        |     Bad |
-| 47 Ronin                                                       |                                | Live Action | Movie     | 2013        |  Better |
-| Rumble in the Bronx                                            |                                | Live Action | Movie     | 1995        |  Better |
+| Casper                                                         | USA (United States of America) | Live Action | Movie     | 1995        |    Good |
+| Scott Pilgrim Vs The World                                     | USA (United States of America) | Live Action | Movie     | 2010        |     Bad |
+| 47 Ronin                                                       | USA (United States of America) | Live Action | Movie     | 2013        |  Better |
+| Rumble in the Bronx                                            | Hong Kong                      | Live Action | Movie     | 1995        |  Better |
 | Night at the Museum                                            | USA (United States of America) | Live Action | Movie     | 2006        |    Good |
 | Night at the Museum Battle of the Smithsonian                  | USA (United States of America) | Live Action | Movie     | 2009        |    Good |
 | Night at the Museum Secret of the Tomb                         | USA (United States of America) | Live Action | Movie     | 2014        |    Good |
-| Avatar                                                         |                                | Live Action | Movie     | 2009        |    Best |
-| Avatar: The Way of Water                                       |                                | Live Action | Movie     | 2022        |    Best |
+| Avatar                                                         | USA (United States of America) | Live Action | Movie     | 2009        |    Best |
+| Avatar: The Way of Water                                       | USA (United States of America) | Live Action | Movie     | 2022        |    Best |
 | The Equalizer                                                  | USA (United States of America) | Live Action | Movie     | 2014        |    Best |
 | The Equalizer 2                                                | USA (United States of America) | Live Action | Movie     | 2018        |    Best |
 | The Equalizer 3                                                | USA (United States of America) | Live Action | Movie     | 2023        |    Best |
@@ -41,8 +41,8 @@
 | Iron man 1                                                     | USA (United States of America) | Live Action | Movie     | 2008        |    Best |
 | Iron man 2                                                     | USA (United States of America) | Live Action | Movie     | 2010        |    Best |
 | Iron man 3                                                     | USA (United States of America) | Live Action | Movie     | 2013        |    Best |
-| Homefront                                                      |                                | Live Action | Movie     | 2013        |    Good |
-| The Spy Undercover Operation                                   |                                | Live Action | Movie     | 2013        |    Good |
+| Homefront                                                      | USA (United States of America) | Live Action | Movie     | 2013        |    Good |
+| The Spy: Undercover Operation                                  | South Korea                    | Live Action | Movie     | 2013        |    Good |
 | Men in Black 1                                                 | USA (United States of America) | Live Action | Movie     | 1997        |    Best |
 | Men in Black 2                                                 | USA (United States of America) | Live Action | Movie     | 2002        |    Best |
 | Men in Black 3                                                 | USA (United States of America) | Live Action | Movie     | 2012        |    Best |
@@ -100,7 +100,7 @@
 | Morbius                                                        | USA (United States of America) | Live Action | Movie     | 2022        |    Good |
 | Aquaman                                                        | USA (United States of America) | Live Action | Movie     | 2018        |    Best |
 | Aquaman and the Lost Kingdom                                   | USA (United States of America) | Live Action | Movie     | 2023        |  Better |
-| The Shape of Water                                             |                                | Live Action | Movie     |             |    Good |
+| The Shape of Water                                             | USA (United States of America) | Live Action | Movie     |             |    Good |
 | The Lord of the Rings: The Fellowship of the Ring              | USA (United States of America) | Live Action | Movie     | 2001        |    Best |
 | The Lord of the Rings: The Two Towers                          | USA (United States of America) | Live Action | Movie     | 2002        |    Best |
 | The Lord of the Rings: The Two Towers                          | USA (United States of America) | Live Action | Movie     | 2003        |    Best |
@@ -113,7 +113,7 @@
 | The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | USA (United States of America) | Live Action | Movie     | 2005        |  Better |
 | The Chronicles of Narnia: Prince Caspian                       | USA (United States of America) | Live Action | Movie     | 2008        |  Better |
 | The Chronicles of Narnia: The Voyage of the Dawn Treader       | USA (United States of America) | Live Action | Movie     | 2010        |  Better |
-| Bridge to Terabithia                                           |                                | Live Action | Movie     |             |    Good |
+| Bridge to Terabithia                                           | USA (United States of America) | Live Action | Movie     |             |    Good |
 | Pirates of the Caribbean: The Curse of the Black Pearl         | USA (United States of America) | Live Action | Movie     | 2003        |    Best |
 | Pirates of the Caribbean: Dead Man's Chest                     | USA (United States of America) | Live Action | Movie     | 2006        |    Best |
 | Pirates of the Caribbean: At World's End                       | USA (United States of America) | Live Action | Movie     | 2007        |    Best |
@@ -135,13 +135,13 @@
 | Deadpool                                                       | USA (United States of America) | Live Action | Movie     | 2016        |  Better |
 | Deadpool 2                                                     | USA (United States of America) | Live Action | Movie     | 2018        |  Better |
 | Deadpool & Wolverine                                           | USA (United States of America) | Live Action | Movie     | 2024        |  Better |
-| Rampage                                                        |                                | Live Action | Movie     |             |  Better |
-| The Meg                                                        |                                | Live Action | Movie     |             |  Better |
-| Ready Player One                                               |                                | Live Action | Movie     |             |    Best |
-| Justice League                                                 |                                | Live Action | Movie     |             |  Better |
-| Rogue One: A Star Wars Story                                   |                                | Live Action | Movie     | 2016        |  Better |
-| Solo: A star Wars Story                                        |                                | Live Action | Movie     |             |    Best |
-| Star war the last Jedi                                         |                                | Live Action | Movie     |             |    Best |
+| Rampage                                                        | USA (United States of America) | Live Action | Movie     |             |  Better |
+| The Meg                                                        | USA (United States of America) | Live Action | Movie     |             |  Better |
+| Ready Player One                                               | USA (United States of America) | Live Action | Movie     |             |    Best |
+| Justice League                                                 | USA (United States of America) | Live Action | Movie     |             |  Better |
+| Rogue One: A Star Wars Story                                   | USA (United States of America) | Live Action | Movie     | 2016        |  Better |
+| Solo: A star Wars Story                                        | USA (United States of America) | Live Action | Movie     |             |    Best |
+| Star war the last Jedi                                         | USA (United States of America) | Live Action | Movie     |             |    Best |
 | John Wick                                                      | USA (United States of America) | Live Action | Movie     | 2014        |    Best |
 | John Wick: Chapter 2                                           | USA (United States of America) | Live Action | Movie     | 2017        |    Best |
 | John Wick John Wick: Chapter 3 – Parabellum                    | USA (United States of America) | Live Action | Movie     | 2019        |    Best |
@@ -169,7 +169,11 @@
 | James Bond - Skyfall                                           | USA (United States of America) | Live Action | Movie     | 2012        |    Best |
 | James Bond - Spectre                                           | USA (United States of America) | Live Action | Movie     | 2015        |    Best |
 | James Bond - No Time to Die                                    | USA (United States of America) | Live Action | Movie     | 2021        |    Best |
-| Ip man (1,2,3)                                                 |                                | Live Action | Movie     |             |    Best |
+| Ip man                                                         | China                          | Live Action | Movie     | 2008        |    Best |
+| Ip man 2                                                       | China                          | Live Action | Movie     | 2010        |    Best |
+| Ip man 3                                                       | China                          | Live Action | Movie     | 2015        |    Best |
+| Master Z: Ip Man Legacy                                        | China                          | Live Action | Movie     | 2018        |  Better |
+| Ip Man 4: The Finale                                           | China                          | Live Action | Movie     | 2019        |    Best |
 | Die Hard                                                       | USA (United States of America) | Live Action | Movie     | 1988        |    Best |
 | Die Hard 2                                                     | USA (United States of America) | Live Action | Movie     | 1990        |    Best |
 | Die Hard with a Vengeance                                      | USA (United States of America) | Live Action | Movie     | 1995        |    Best |
@@ -188,7 +192,7 @@
 | Catch me if you can                                            | USA (United States of America) | Live Action | Movie     |             |    Best |
 | the great gatsby                                               | USA (United States of America) | Live Action | Movie     |             |    Good |
 | Titanic                                                        | USA (United States of America) | Live Action | Movie     |             |  Better |
-| Red Riding Hood                                                |                                | Live Action | Movie     |             |    Good |
+| Red Riding Hood                                                | USA (United States of America) | Live Action | Movie     |             |    Good |
 | Paycheck                                                       | USA (United States of America) | Live Action | Movie     |             |  Better |
 | Cure of wellness                                               | USA (United States of America) | Live Action | Movie     |             |    Good |
 | Twilight                                                       | USA (United States of America) | Live Action | Movie     | 2008        |  Better |
@@ -526,7 +530,6 @@
 | Behind enemy lines                                             |                                | Live Action | Movie     | 2001        |  Better |
 | Kung Fu Dunk                                                   |                                | Live Action | Movie     | 2008        |    Good |
 | Zombieland                                                     |                                | Live Action | Movie     | 2009        |  Better |
-| Master Z: The Ip Man Legacy                                    |                                | Live Action | Movie     | 2018        |  Better |
 | The Witch Part 1-The Subversion                                |                                | Live Action | Movie     | 2018        |    Good |
 | The King                                                       |                                | Live Action | Movie     | 2019        |  Better |
 | Allegiant                                                      |                                | Live Action | Movie     | 2016        |  Better |
@@ -586,7 +589,6 @@
 | Unleashed                                                      |                                | Live Action | Movie     | 2005        |  Better |
 | 6 Underground                                                  |                                | Live Action | Movie     | 2019        |  Better |
 | Who am I                                                       |                                | Live Action | Movie     | 2014        |    Best |
-| Ip Man 4 final                                                 |                                | Live Action | Movie     | 2019        |    Best |
 | Jack Hunter And The Lost Treasure Of Ugarit                    |                                | Live Action | Movie     |             |    Good |
 | Jack Hunter: The Quest for Akhenaten's tomb                    |                                | Live Action | Movie     |             |    Good |
 | Jack Hunter And The Star Of Heaven                             |                                | Live Action | Movie     |             |    Good |
@@ -616,10 +618,10 @@
 | Suck Me Shakespeer 3                                           |                                | Live Action | Movie     | 2017        |    Good |
 | Minority Report                                                |                                | Live Action | Movie     | 2002        |     IDK |
 | The Boys                                                       | USA (United States of America) | Live Action | Series    | 2019        |    Best |
-| Train to Busan                                                 | Korea                          | Live Action | Movie     | 2016        |    Best |
+| Train to Busan                                                 | South Korea                    | Live Action | Movie     | 2016        |    Best |
 | The Lost City of Z                                             | USA (United States of America) | Live Action | Movie     | 2016        |    Good |
-| Mantis                                                         | Korea                          | Live Action | Movie     | 2025        |    Good |
-| Rough Cut                                                      | Korea                          | Live Action | Movie     | 2008        |     Bad |
+| Mantis                                                         | South Korea                    | Live Action | Movie     | 2025        |    Good |
+| Rough Cut                                                      | South Korea                    | Live Action | Movie     | 2008        |     Bad |
 | Peninsula                                                      |                                | Live Action | Movie     | 2020        |  Better |
 | Don’t Breathe                                                  |                                | Live Action | Movie     | 2016        |     Bad |
 | Hero                                                           |                                | Live Action | Movie     | 2002        |    Good |
@@ -744,9 +746,9 @@
 | Prison Break                                                   | USA (United States of America) | Live Action | Series    | 2005        |    Best |
 | Black Panther: Wakanda Forever                                 | USA (United States of America) | Live Action | Movie     | 2022        |    Good |
 | Bullet Train                                                   | USA (United States of America) | Live Action | Movie     | 2022        |  Better |
-| The Outlaws                                                    | Korea                          | Live Action | Movie     | 2017        |    Good |
-| The Roundup                                                    | Korea                          | Live Action | Movie     | 2022        |    Good |
-| Squid Game                                                     | Korea                          | Live Action | Series    | 2021        |  Better |
+| The Outlaws                                                    | South Korea                    | Live Action | Movie     | 2017        |    Good |
+| The Roundup                                                    | South Korea                    | Live Action | Movie     | 2022        |    Good |
+| Squid Game                                                     | South Korea                    | Live Action | Series    | 2021        |  Better |
 | Black Adam                                                     | USA (United States of America) | Live Action | Movie     | 2022        |    Good |
 | Doctor G                                                       | India                          | Live Action | Movie     | 2022        |  Better |
 | Etharkkum Thunindhavan                                         | India                          | Live Action | Movie     | 2022        |    Good |
