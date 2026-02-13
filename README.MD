@@ -670,6 +670,7 @@
 | The Adam Project                                               |                                | Live Action | Movie     | 2022        |    Good |
 | The Batman                                                     | USA (United States of America) | Live Action | Movie     | 2022        |  Better |
 | Uncharted                                                      | USA (United States of America) | Live Action | Movie     | 2022        |    Best |
+| Tron: Ares                                                     | USA (United States of America) | Live Action | Movie     | 2025        |  Better |
 | Kannum Kannum Kollaiyadithaal                                  | India                          | Live Action | Movie     | 2020        |  Better |
 | Anjaam Pathiraa                                                | India                          | Live Action | Movie     | 2020        |  Better |
 | Toofaan                                                        | India                          | Live Action | Movie     | 2021        |    Good |
@@ -685,11 +686,16 @@
 | Goodachari                                                     | India                          | Live Action | Movie     | 2018        |    Good |
 | Raid                                                           | India                          | Live Action | Movie     | 2018        |  Better |
 | Raid 2                                                         | India                          | Live Action | Movie     | 2025        |  Better |
+| Eko                                                            | India                          | Live Action | Movie     | 2025        |  Better |
+| Mirage                                                         | India                          | Live Action | Movie     | 2025        |  Better |
+| Dragon                                                         | India                          | Live Action | Movie     | 2025        |    Good |
+| Tere Ishk Mein                                                 | India                          | Live Action | Movie     | 2025        |    Good |
 | Padakkalam                                                     | India                          | Live Action | Movie     | 2025        |    Good |
 | Ponman                                                         | India                          | Live Action | Movie     | 2025        |  Better |
 | Deva                                                           | India                          | Live Action | Movie     | 2025        |  Better |
 | Kaathuvaakula Rendu Kaadhal                                    | India                          | Live Action | Movie     | 2022        |    Good |
 | The Family Star                                                | India                          | Live Action | Movie     | 2024        |    Good |
+| Meiyazhagan                                                    | India                          | Live Action | Movie     | 2024        |  Better |
 | Dil Bechara                                                    | India                          | Live Action | Movie     | 2020        |  Better |
 | Premalu                                                        | India                          | Live Action | Movie     | 2024        |  Better |
 | Madgaon Express                                                | India                          | Live Action | Movie     | 2024        |    Good |
@@ -700,9 +706,13 @@
 | Kaithi                                                         | India                          | Live Action | Movie     | 2019        |  Better |
 | Vikram                                                         | India                          | Live Action | Movie     | 2022        |    Best |
 | Leo                                                            | India                          | Live Action | Movie     | 2023        |  Better |
+| Parking                                                        | India                          | Live Action | Movie     | 2023        |    Best |
 | Jaane Jaan                                                     | India                          | Live Action | Movie     | 2023        |  Better |
+| Sapta Sagaradaache Ello - Side A                               | India                          | Live Action | Movie     | 2023        |    Best |
+| Sapta Sagaradaache Ello - Side B                               | India                          | Live Action | Movie     | 2023        |    Best |
 | Lokah Chapter 1: Chandra                                       | India                          | Live Action | Movie     | 2025        |  Better |
 | Ante Sundaraniki                                               | India                          | Live Action | Movie     | 2022        |    Good |
+| Dhokha: Round D Corner                                         | India                          | Live Action | Movie     | 2022        |    Good |
 | K.G.F: Chapter 1                                               | India                          | Live Action | Movie     | 2018        |  Better |
 | K.G.F: Chapter 2                                               | India                          | Live Action | Movie     | 2022        |  Better |
 | Stree                                                          | India                          | Live Action | Movie     | 2018        |    Good |
@@ -714,6 +724,7 @@
 | Panchayat                                                      | India                          | Live Action | Series    |             |    Best |
 | The Ba\*\*\*ds of Bollywood                                    | India                          | Live Action | Series    | 2025        |    Best |
 | F1                                                             | USA (United States of America) | Live Action | Series    | 2025        |  Better |
+| The Housemaid                                                  | USA (United States of America) | Live Action | Series    | 2025        |  Better |
 | Sandman                                                        | USA (United States of America) | Live Action | Series    |             |  Better |
 | Hit the First Case                                             | India                          | Live Action | Movie     | 2022        |    Best |
 | HIT: The Second Case                                           | India                          | Live Action | Movie     | 2022        |    Best |
@@ -730,6 +741,7 @@
 | Werewolf by Night                                              | USA (United States of America) | Live Action | Movie     | 2022        |    Good |
 | House of the Dragon                                            | USA (United States of America) | Live Action | Series    |             |    Best |
 | Peaky Blinders                                                 | USA (United States of America) | Live Action | Series    |             |    Best |
+| Prison Break                                                   | USA (United States of America) | Live Action | Series    | 2005        |    Best |
 | Black Panther: Wakanda Forever                                 | USA (United States of America) | Live Action | Movie     | 2022        |    Good |
 | Bullet Train                                                   | USA (United States of America) | Live Action | Movie     | 2022        |  Better |
 | The Outlaws                                                    | Korea                          | Live Action | Movie     | 2017        |    Good |
