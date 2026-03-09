@@ -517,6 +517,7 @@
 | The Departed                                                   |                                | Live Action | Movie     | 2006        |    Best |
 | Super 30                                                       | India                          | Live Action | Movie     | 2019        |    Best |
 | Section 375                                                    | India                          | Live Action | Movie     | 2019        |  Better |
+| Badla                                                          | India                          | Live Action | Movie     | 2019        |  Better |
 | Django Unchained                                               |                                | Live Action | Movie     | 2012        |  Better |
 | Paan Singh Tomar                                               | India                          | Live Action | Movie     | 2012        |    Good |
 | Sector 7                                                       |                                | Live Action | Movie     |             |  Better |
@@ -625,6 +626,7 @@
 | Peninsula                                                      |                                | Live Action | Movie     | 2020        |  Better |
 | Don’t Breathe                                                  |                                | Live Action | Movie     | 2016        |     Bad |
 | Hero                                                           |                                | Live Action | Movie     | 2002        |    Good |
+| The Tuxedo                                                     | USA (United States of America) | Live Action | Movie     | 2002        |    Good |
 | Enola Holmes                                                   | USA (United States of America) | Live Action | Movie     | 2020        |    Good |
 | Enola Holmes 2                                                 | USA (United States of America) | Live Action | Movie     | 2022        |    Good |
 | Kicking & Screaming                                            |                                | Live Action | Movie     | 2005        |  Better |
@@ -735,6 +737,7 @@
 | Abraham Ozler                                                  | India                          | Live Action | Movie     | 2024        |  Better |
 | Hisaab Barabar                                                 | India                          | Live Action | Movie     | 2024        |    Good |
 | Trance                                                         | India                          | Live Action | Movie     | 2020        |    Good |
+| The Platform                                                   | Spain                          | Live Action | Movie     | 2020        |  Better |
 | The Family Man                                                 | India                          | Live Action | Series    | 2019        |  Better |
 | The Railway Men                                                | India                          | Live Action | Series    | 2023        |  Better |
 | Sookshmadarshini                                               | India                          | Live Action | Movie     | 2024        |  Better |
@@ -762,6 +765,7 @@
 | Rebel Moon                                                     | USA (United States of America) | Live Action | Movie     | 2023        |    Good |
 | Rebel Moon – Part Two: The Scargiver                           | USA (United States of America) | Live Action | Movie     | 2024        |    Good |
 | Red One                                                        | USA (United States of America) | Live Action | Movie     | 2024        |    Good |
+| The Menu                                                       | USA (United States of America) | Live Action | Movie     | 2022        |    Good |
 | Ponniyin Selvan                                                | India                          | Live Action | Movie     | 2022        |    Good |
 | Ponniyin Selvan 2                                              | India                          | Live Action | Movie     | 2023        |    Good |
 | Sirf Ek Bandaa Kaafi Hai                                       | India                          | Live Action | Movie     | 2023        |  Better |
@@ -774,6 +778,7 @@
 | Jawan                                                          | India                          | Live Action | Movie     | 2023        |  Better |
 | Blue Beetle                                                    | USA (United States of America) | Live Action | Movie     | 2023        |  Better |
 | The Creator                                                    | USA (United States of America) | Live Action | Movie     | 2023        |  Better |
+| What You Wish For                                              | USA (United States of America) | Live Action | Movie     | 2023        |  Better |
 | Farzi                                                          | India                          | Live Action | Series    |             |  Better |
 | Guns & Gulaabs                                                 | India                          | Live Action | Series    |             |  Better |
 | Kurup                                                          | India                          | Live Action | Movie     | 2021        |  Better |
@@ -787,6 +792,7 @@
 | Rise of the Planet of the Apes                                 | USA (United States of America) | Live Action | Movie     | 2011        |  Better |
 | War of the Planet of the Apes                                  | USA (United States of America) | Live Action | Movie     | 2017        |  Better |
 | Kingdom of the Planet of the Apes                              | USA (United States of America) | Live Action | Movie     | 2024        |  Better |
+| 3 Body Problem                                                 | USA (United States of America) | Live Action | Series    | 2024        |  Better |
 | Transformers One                                               | USA (United States of America) | Animation   |           | 2014        |    Best |
 | Son of Batman                                                  | USA (United States of America) | Animation   |           | 2014        |  Better |
 | Justice League: War                                            | USA (United States of America) | Animation   |           | 2014        |  Better |
@@ -899,7 +905,8 @@
 | Sword Art Online I                                             | Japan                          | Animation   | Series    |             |  Better |
 | Sword Art Online II                                            | Japan                          | Animation   | Series    |             |  Better |
 | Uzaki-chan Wants to Hang Out!                                  | Japan                          | Animation   | Series    |             |    Good |
-| Jujutsu Kaisen                                                 | Japan                          | Animation   | Series    |             |  Better |
+| Jujutsu Kaisen                                                 | Japan                          | Animation   | Series    | 2020        |  Better |
+| Jujutsu Kaisen 0                                               | Japan                          | Animation   | Movie     | 2021        |  Better |
 | Jobless Reincarnation                                          | Japan                          | Animation   | Series    |             |  Better |
 | Attack on Titan                                                | Japan                          | Animation   | Series    |             |  Better |
 | Gleipnir                                                       | Japan                          | Animation   | Series    |             |  Better |
@@ -937,3 +944,5 @@
 | Chainsaw Man                                                   | Japan                          | Animation   | Series    | 2022        |  Better |
 | Chainsaw Man – The Movie: Reze Arc                             | Japan                          | Animation   | Movie     | 2025        |  Better |
 | Gachiakuta                                                     | Japan                          | Animation   | Series    | 2025        |  Better |
+| Summer Days with Coo                                           | Japan                          | Animation   | Movie     | 2007        |  Better |
+| Hell's Paradise                                                | Japan                          | Animation   | Series    | 2023        |    Good |
