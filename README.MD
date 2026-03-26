@@ -344,8 +344,9 @@
 | Kingsman: The Secret Service                                   |                                | Live Action | Movie     | 2014        |  Better |
 | Kingsman: The Golden Circle                                    |                                | Live Action | Movie     | 2017        |  Better |
 | The King's Man                                                 |                                | Live Action | Movie     | 2021        |  Better |
-| XXX                                                            |                                | Live Action | Movie     | 2002        |  Better |
-| XXX: Return of Xander Cage                                     |                                | Live Action | Movie     | 2017        |  Better |
+| The Voyeurs                                                    | USA (United States of America) | Live Action | Movie     | 2021        |    Good |
+| xXx                                                            |                                | Live Action | Movie     | 2002        |  Better |
+| xXx: Return of Xander Cage                                     |                                | Live Action | Movie     | 2017        |  Better |
 | It                                                             |                                | Live Action | Movie     |             |     Bad |
 | Jigsaw                                                         |                                | Live Action | Movie     |             |     Bad |
 | The Social Network                                             |                                | Live Action | Movie     |             |  Better |
@@ -387,8 +388,9 @@
 | Beauty and the Beast                                           |                                | Live Action | Movie     |             |  Better |
 | Mr. & Mrs. Smith                                               |                                | Live Action | Movie     |             |    Good |
 | Baby's Day Out                                                 |                                | Live Action | Movie     |             |    Best |
-| The Guardians                                                  |                                | Live Action | Movie     | 2017        |     Bad |
 | Now You See Me                                                 |                                | Live Action | Movie     | 2013        |    Best |
+| The Guardians                                                  |                                | Live Action | Movie     | 2017        |     Bad |
+| Ittefaq                                                        | India                          | Live Action | Movie     | 2017        |  Better |
 | Now You See Me 2                                               |                                | Live Action | Movie     | 2016        |    Best |
 | 2012                                                           |                                | Live Action | Movie     | 2009        |  Better |
 | Resident Evil                                                  |                                | Live Action | Movie     |             |  Better |
@@ -578,7 +580,6 @@
 | The Founder                                                    |                                | Live Action | Movie     | 2016        |    Best |
 | Snowden                                                        |                                | Live Action | Movie     | 2016        |    Best |
 | Extraction                                                     |                                | Live Action | Movie     | 2020        |    Good |
-| Game of Thrones                                                |                                | Live Action | Series    |             |  Better |
 | Stranger Things                                                |                                | Live Action | Series    | 2016        |    Best |
 | The Witcher                                                    |                                | Live Action | Series    |             |  Better |
 | Lost in Space                                                  |                                | Live Action | Series    |             |    Best |
@@ -744,7 +745,9 @@
 | Tourist Family                                                 | India                          | Live Action | Movie     | 2025        |    Best |
 | The Man Who Sold His Skin                                      | Tunisia                        | Live Action | Movie     | 2020        |     IDK |
 | Werewolf by Night                                              | USA (United States of America) | Live Action | Movie     | 2022        |    Good |
-| House of the Dragon                                            | USA (United States of America) | Live Action | Series    |             |    Best |
+| House of the Dragon                                            | USA (United States of America) | Live Action | Series    | 2022        |    Best |
+| A Knight of the Seven Kingdoms                                 | USA (United States of America) | Live Action | Series    | 2026        |  Better |
+| Game of Thrones                                                |                                | Live Action | Series    | 2011        |    Best |
 | Peaky Blinders                                                 | USA (United States of America) | Live Action | Series    |             |    Best |
 | Prison Break                                                   | USA (United States of America) | Live Action | Series    | 2005        |    Best |
 | Black Panther: Wakanda Forever                                 | USA (United States of America) | Live Action | Movie     | 2022        |    Good |
@@ -779,6 +782,7 @@
 | Blue Beetle                                                    | USA (United States of America) | Live Action | Movie     | 2023        |  Better |
 | The Creator                                                    | USA (United States of America) | Live Action | Movie     | 2023        |  Better |
 | What You Wish For                                              | USA (United States of America) | Live Action | Movie     | 2023        |  Better |
+| One Piece                                                      |                                | Live Action | Series    | 2023        |  Better |
 | Farzi                                                          | India                          | Live Action | Series    |             |  Better |
 | Guns & Gulaabs                                                 | India                          | Live Action | Series    |             |  Better |
 | Kurup                                                          | India                          | Live Action | Movie     | 2021        |  Better |
