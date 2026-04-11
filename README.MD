@@ -6,6 +6,12 @@
 | Colours of Innocence                                           | India                          | Live Action | Movie     | 2016        |  Better |
 | Pink                                                           | India                          | Live Action | Movie     | 2016        |    Good |
 | Coolie                                                         | India                          | Live Action | Movie     | 2024        |  Better |
+| Kahaani                                                        | India                          | Live Action | Movie     | 2012        |    Best |
+| Karthik Calling Karthik                                        | India                          | Live Action | Movie     | 2010        |    Best |
+| Raat Akeli Hai                                                 | India                          | Live Action | Movie     | 2022        |  Better |
+| An Action Hero                                                 | India                          | Live Action | Movie     | 2022        |  Better |
+| Raajneeti                                                      | India                          | Live Action | Movie     | 2010        |  Better |
+| Talvar                                                         | India                          | Live Action | Movie     | 2015        |  Better |
 | Utshob                                                         | Bangladesh                     | Live Action | Movie     | 2025        |  Better |
 | Punorjonmo 1                                                   | Bangladesh                     | Live Action | Movie     |             |    Best |
 | Punorjonmo 2                                                   | Bangladesh                     | Live Action | Movie     |             |    Best |
@@ -32,6 +38,7 @@
 | Night at the Museum Secret of the Tomb                         | USA (United States of America) | Live Action | Movie     | 2014        |    Good |
 | Avatar                                                         | USA (United States of America) | Live Action | Movie     | 2009        |    Best |
 | Avatar: The Way of Water                                       | USA (United States of America) | Live Action | Movie     | 2022        |    Best |
+| Avatar: Fire and Ash                                           | USA (United States of America) | Live Action | Movie     | 2025        |  Better |
 | The Equalizer                                                  | USA (United States of America) | Live Action | Movie     | 2014        |    Best |
 | The Equalizer 2                                                | USA (United States of America) | Live Action | Movie     | 2018        |    Best |
 | The Equalizer 3                                                | USA (United States of America) | Live Action | Movie     | 2023        |    Best |
