@@ -1,6 +1,7 @@
 | title                                                          | origin                         | style       | structure | releaseYear |  review |
 | :------------------------------------------------------------- | ------------------------------ | ----------- | --------- | ----------- | ------: |
 | Salute                                                         | India                          | Live Action | Movie     | 2022        |  Better |
+| Aamis                                                          | India                          | Live Action | Movie     | 2019        |  Better |
 | Kooman                                                         | India                          | Live Action | Movie     | 2022        |  Better |
 | Hulchul                                                        | India                          | Live Action | Movie     | 2004        |    Good |
 | Colours of Innocence                                           | India                          | Live Action | Movie     | 2016        |  Better |
@@ -754,6 +755,7 @@
 | Werewolf by Night                                              | USA (United States of America) | Live Action | Movie     | 2022        |    Good |
 | House of the Dragon                                            | USA (United States of America) | Live Action | Series    | 2022        |    Best |
 | A Knight of the Seven Kingdoms                                 | USA (United States of America) | Live Action | Series    | 2026        |  Better |
+| Project Hail Mary                                              | USA (United States of America) | Live Action | Series    | 2026        |  Better |
 | Game of Thrones                                                |                                | Live Action | Series    | 2011        |    Best |
 | Peaky Blinders                                                 | USA (United States of America) | Live Action | Series    |             |    Best |
 | Prison Break                                                   | USA (United States of America) | Live Action | Series    | 2005        |    Best |
@@ -957,3 +959,4 @@
 | Gachiakuta                                                     | Japan                          | Animation   | Series    | 2025        |  Better |
 | Summer Days with Coo                                           | Japan                          | Animation   | Movie     | 2007        |  Better |
 | Hell's Paradise                                                | Japan                          | Animation   | Series    | 2023        |    Good |
+| Invincible                                                     | USA (United States of America) | Animation   | Series    | 2021        |  Better |
