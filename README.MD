@@ -13,6 +13,9 @@
 | An Action Hero                                                 | India                          | Live Action | Movie     | 2022        |  Better |
 | Raajneeti                                                      | India                          | Live Action | Movie     | 2010        |  Better |
 | Talvar                                                         | India                          | Live Action | Movie     | 2015        |  Better |
+| The Gangster, the Cop, the Devil                               | South Korea                    | Live Action | Movie     | 2019        |    Good |
+| Vaazha II: Biopic of a Billion Bros                            | India                          | Live Action | Movie     | 2026        |    Best |
+| Bonolota Express                                               | Bangladesh                     | Live Action | Movie     | 2026        |    Best |
 | Utshob                                                         | Bangladesh                     | Live Action | Movie     | 2025        |  Better |
 | Punorjonmo 1                                                   | Bangladesh                     | Live Action | Movie     |             |    Best |
 | Punorjonmo 2                                                   | Bangladesh                     | Live Action | Movie     |             |    Best |
@@ -960,3 +963,5 @@
 | Summer Days with Coo                                           | Japan                          | Animation   | Movie     | 2007        |  Better |
 | Hell's Paradise                                                | Japan                          | Animation   | Series    | 2023        |    Good |
 | Invincible                                                     | USA (United States of America) | Animation   | Series    | 2021        |  Better |
+| Witch Hat Atelier                                              | Japan                          | Animation   | Series    | 2026        |  Better |
+| Wistoria: Wand and Sword                                       | Japan                          | Animation   | Series    | 2024        |  Better |
