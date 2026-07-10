@@ -666,7 +666,8 @@
 | Eternals                                                       |                                | Live Action | Movie     | 2021        |    Good |
 | Nobody                                                         |                                | Live Action | Movie     | 2021        |    Good |
 | Nobody 2                                                       |                                | Live Action | Movie     | 2025        |    Good |
-| Mortal Kombat                                                  |                                | Live Action | Movie     | 2021        |  Better |
+| Mortal Kombat                                                  | USA (United States of America) | Live Action | Movie     | 2021        |  Better |
+| Mortal Kombat II                                               | USA (United States of America) | Live Action | Movie     | 2026        |    Godd |
 | Shadow and Bone                                                |                                | Live Action | Series    |             |    Good |
 | 21 Jump Street                                                 |                                | Live Action | Movie     | 2012        |    Good |
 | 22 Jump Street                                                 |                                | Live Action | Movie     | 2014        |    Good |
@@ -687,6 +688,7 @@
 | The Batman                                                     | USA (United States of America) | Live Action | Movie     | 2022        |  Better |
 | Uncharted                                                      | USA (United States of America) | Live Action | Movie     | 2022        |    Best |
 | Tron: Ares                                                     | USA (United States of America) | Live Action | Movie     | 2025        |  Better |
+| Avatar: the Last Airbender                                     | USA (United States of America) | Live Action | Series    | 2024        |  Better |
 | Kannum Kannum Kollaiyadithaal                                  | India                          | Live Action | Movie     | 2020        |  Better |
 | Anjaam Pathiraa                                                | India                          | Live Action | Movie     | 2020        |  Better |
 | Toofaan                                                        | India                          | Live Action | Movie     | 2021        |    Good |
@@ -767,6 +769,8 @@
 | The Outlaws                                                    | South Korea                    | Live Action | Movie     | 2017        |    Good |
 | The Roundup                                                    | South Korea                    | Live Action | Movie     | 2022        |    Good |
 | Squid Game                                                     | South Korea                    | Live Action | Series    | 2021        |  Better |
+| The Wonderfools                                                | South Korea                    | Live Action | Series    | 2026        |  Better |
+| Bloodhounds                                                    | South Korea                    | Live Action | Series    | 2026        |  Better |
 | Black Adam                                                     | USA (United States of America) | Live Action | Movie     | 2022        |    Good |
 | Doctor G                                                       | India                          | Live Action | Movie     | 2022        |  Better |
 | Etharkkum Thunindhavan                                         | India                          | Live Action | Movie     | 2022        |    Good |
@@ -805,6 +809,8 @@
 | Maharaja                                                       | India                          | Live Action | Movie     | 2024        |    Best |
 | Special 26                                                     | India                          | Live Action | Movie     | 2013        |  Better |
 | Shaitaan                                                       | India                          | Live Action | Movie     | 2024        |    Good |
+| Dacoit: A Love Story                                           | India                          | Live Action | Movie     | 2026        |  Better |
+| Mollywood Times                                                | India                          | Live Action | Movie     | 2026        |  Better |
 | Rise of the Planet of the Apes                                 | USA (United States of America) | Live Action | Movie     | 2011        |  Better |
 | War of the Planet of the Apes                                  | USA (United States of America) | Live Action | Movie     | 2017        |  Better |
 | Kingdom of the Planet of the Apes                              | USA (United States of America) | Live Action | Movie     | 2024        |  Better |
