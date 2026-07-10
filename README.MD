@@ -809,6 +809,8 @@
 | War of the Planet of the Apes                                  | USA (United States of America) | Live Action | Movie     | 2017        |  Better |
 | Kingdom of the Planet of the Apes                              | USA (United States of America) | Live Action | Movie     | 2024        |  Better |
 | 3 Body Problem                                                 | USA (United States of America) | Live Action | Series    | 2024        |  Better |
+| Dune: Part One                                                 | USA (United States of America) | Animation   |           | 2021        |  Better |
+| Dune: Part Two                                                 | USA (United States of America) | Animation   |           | 2024        |    Best |
 | Transformers One                                               | USA (United States of America) | Animation   |           | 2014        |    Best |
 | Son of Batman                                                  | USA (United States of America) | Animation   |           | 2014        |  Better |
 | Justice League: War                                            | USA (United States of America) | Animation   |           | 2014        |  Better |
