@@ -37,6 +37,9 @@
 | Scott Pilgrim Vs The World                                     | USA (United States of America) | Live Action | Movie     | 2010        |     Bad |
 | 47 Ronin                                                       | USA (United States of America) | Live Action | Movie     | 2013        |  Better |
 | Rumble in the Bronx                                            | Hong Kong                      | Live Action | Movie     | 1995        |  Better |
+| The Furious                                                    | Hong Kong                      | Live Action | Movie     | 2025        |  Better |
+| Masters of the Universe                                        | USA (United States of America) | Live Action | Movie     | 2026        |     Bad |
+| Annihilation                                                   | USA (United States of America) | Live Action | Movie     | 2018        |    Good |
 | Night at the Museum                                            | USA (United States of America) | Live Action | Movie     | 2006        |    Good |
 | Night at the Museum Battle of the Smithsonian                  | USA (United States of America) | Live Action | Movie     | 2009        |    Good |
 | Night at the Museum Secret of the Tomb                         | USA (United States of America) | Live Action | Movie     | 2014        |    Good |
@@ -642,6 +645,7 @@
 | The Tuxedo                                                     | USA (United States of America) | Live Action | Movie     | 2002        |    Good |
 | Enola Holmes                                                   | USA (United States of America) | Live Action | Movie     | 2020        |    Good |
 | Enola Holmes 2                                                 | USA (United States of America) | Live Action | Movie     | 2022        |    Good |
+| Enola Holmes 3                                                 | USA (United States of America) | Live Action | Movie     | 2026        |    Good |
 | Kicking & Screaming                                            |                                | Live Action | Movie     | 2005        |  Better |
 | Gringo                                                         |                                | Live Action | Movie     | 2018        |  Better |
 | World Trade Center                                             |                                | Live Action | Movie     | 2006        |     Bad |
