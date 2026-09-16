@@ -773,6 +773,9 @@
 | Bullet Train                                                   | USA (United States of America) | Live Action | Movie     | 2022        |  Better |
 | The Outlaws                                                    | South Korea                    | Live Action | Movie     | 2017        |    Good |
 | The Roundup                                                    | South Korea                    | Live Action | Movie     | 2022        |    Good |
+| Teach You a Lesson                                             | South Korea                    | Live Action | Series    | 2026        |    Best |
+| Juvenile Justice                                               | South Korea                    | Live Action | Series    | 2022        |  Better |
+| Mousetrap                                                      | South Korea                    | Live Action | Series    | 2026        |    Best |
 | Squid Game                                                     | South Korea                    | Live Action | Series    | 2021        |  Better |
 | The Wonderfools                                                | South Korea                    | Live Action | Series    | 2026        |  Better |
 | Bloodhounds                                                    | South Korea                    | Live Action | Series    | 2026        |  Better |
