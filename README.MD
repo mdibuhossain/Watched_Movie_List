@@ -406,6 +406,7 @@
 | Now You See Me                                                 |                                | Live Action | Movie     | 2013        |    Best |
 | The Guardians                                                  |                                | Live Action | Movie     | 2017        |     Bad |
 | Ittefaq                                                        | India                          | Live Action | Movie     | 2017        |  Better |
+| Happy Raj                                                      | India                          | Live Action | Movie     | 2026        |  Better |
 | Now You See Me 2                                               |                                | Live Action | Movie     | 2016        |    Best |
 | 2012                                                           |                                | Live Action | Movie     | 2009        |  Better |
 | Resident Evil                                                  |                                | Live Action | Movie     |             |  Better |
