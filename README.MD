@@ -776,6 +776,7 @@
 | Teach You a Lesson                                             | South Korea                    | Live Action | Series    | 2026        |    Best |
 | Juvenile Justice                                               | South Korea                    | Live Action | Series    | 2022        |  Better |
 | Mousetrap                                                      | South Korea                    | Live Action | Series    | 2026        |    Best |
+| Notes from the Last Row                                        | South Korea                    | Live Action | Series    | 2026        |  Better |
 | Squid Game                                                     | South Korea                    | Live Action | Series    | 2021        |  Better |
 | The Wonderfools                                                | South Korea                    | Live Action | Series    | 2026        |  Better |
 | Bloodhounds                                                    | South Korea                    | Live Action | Series    | 2026        |  Better |
